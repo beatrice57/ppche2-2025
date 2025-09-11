@@ -24,7 +24,7 @@ Conventions
 * Forms are also normalized with regard to splitting indicated by "@",
   which is deleted.  See the annotation guidelines
   (<https://github.com/beatrice57/annotation-guidelines-for-ppche>) for
-  detsils.
+  details.
 * Apostrophes are not modified.
 * Entries are sorted alphabetically.  The files may be sorted by
   frequency in a suitable application or by using the Unix command
