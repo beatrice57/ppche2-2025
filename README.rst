@@ -19,11 +19,12 @@ The release contains parsed and POS-tagged versions of PPCHE2's three
 subcorpora (Middle English, Early Modern English, and Mddern British
 English).  For the last two subcorpora, lemmatized versions of the
 parsed texts exist, but they are not part of the release.  The
-lemmatization-patch directory of this repository contains scripts with
-instructions that allow you to generate lemmatized versions on the basis
-of the parsed files in the release.  The instructions cover only the
-patching process.  Information about the lemmatization itself is
-available at
+/lemmatization-related/patch directory of this repository contains
+scripts with instructions that allow you to generate lemmatized versions
+on the basis of the parsed files in the release.  You will need to
+download the entire ppche2-2025 repository to gain access.  The
+instructions cover only the patching process.  Information about the
+lemmatization itself is available at
 https://www.ling.upenn.edu/~beatrice/corpus-ling/annotation-2022/lemmatization.html
 (see also
 https://github.com/beatrice57/annotation-guidelines-for-ppche/blob/main/lemmatization.html).

@@ -1,6 +1,13 @@
 Instructions for generating lemmatized versions of PPCHE2 release version of parsed files
 =========================================================================================
 
+==================
+Download the patch
+==================
+
+Download the patch from github.  You will need to download the entire
+ppche2-2025 repository.  The patch is in lemmatization-related/patch.
+
 ======
 Backup
 ======
@@ -11,17 +18,6 @@ can work on the copy, treating the original release files as your
 backup.  It doesn't matter, as long as you make a copy.
 
 Come back when you've made your copy.
-
-==================
-Download the patch
-==================
-
-Download the patch from github.  Note how the structure of the data
-directory corresponds to the directory structure of the release.  In
-particular, where the release directory has "parsed", the patch
-directory has "patching".  This will be important when you apply the
-patch.  But first, you need to prepare the parsed release files as
-described in the next step.
 
 ====================
 Prepare parsed files
@@ -56,6 +52,11 @@ structure in the release.::
 ===============
 Apply the patch
 ===============
+
+* Note how the structure of the lemmatization-related/data directory
+corresponds to the directory structure of the release.  In particular,
+where the release directory has "parsed", the patch directory has
+"patching".
 
 * Put the verticalized files that you just created in the previous step
 (the input for the patching process) in the appropriate subdirectories
