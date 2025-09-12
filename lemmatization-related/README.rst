@@ -30,8 +30,8 @@ English Second Release Agreement.
 Aggregate frequency data
 ========================
 
-In addition, the "lemma-frequencies" directory provides aggregate lemma
-frequencies for each subcorpus, tabulated and sorted as follows:
+The "lemma-frequencies" directory provides aggregate lemma frequencies
+for each subcorpus, tabulated and sorted as follows:
 
 * By lemma only
 * By lemma, then form as it appears in the text
