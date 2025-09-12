@@ -1,0 +1,15 @@
+
+#!/bin/tcsh
+
+# usage: prep-files <input_file(s)>
+# example: prep-files *.psd
+
+# prep files for patch by replacing tab and space with newline
+
+for file in $*
+
+do
+	cat $file | \
+	tr -s '\011' ' ' | \
+	tr -s ' ' '\012'  > $file.vert
+done

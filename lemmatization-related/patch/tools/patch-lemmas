@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# usage: patch-lemmas <input_files>
+# example: patch-lemmas *.psd.vert
+
+# patch-lemmas adds lemmas to the release version of PPCHE2,
+# renaming output file for clarity
+
+for file in $*; do
+    BASE=`basename $file .psd.vert`
+    patch -o $BASE.lem $BASE.psd.vert < $BASE.patch
+done

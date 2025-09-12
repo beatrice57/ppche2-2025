@@ -1,0 +1,11219 @@
+--- stat-1543-e1-p1.psd.vert	2025-09-10 13:51:11
++++ stat-1543-e1-p1.lem.vert	2025-09-10 13:50:58
+@@ -13 +13 @@
+-CHAPTER)
++CHAPTER#chapter_n)
+@@ -15 +15 @@
+-XI)
++XI#eleven_adj)
+@@ -23 +23 @@
+-An)
++An#a_adj2)
+@@ -25 +25 @@
+-Acte)
++Acte#act_n)
+@@ -28 +28 @@
+-conc~nyng)
++conc~nyng#concerning_prep)
+@@ -31 +31 @@
+-stelyng)
++stelyng#stealing_n)
+@@ -34 +34 @@
+-of)
++of#of_prep)
+@@ -38 +38 @@
+-Hauk~)
++Hauk~#hawk_n1)
+@@ -40 +40 @@
+-egg~))
++egg~#egg_n))
+@@ -44 +44 @@
+-Conyes)))
++Conyes#cony_n)))
+@@ -47 +47 @@
+-&)
++&#and_conj1)
+@@ -50 +50 @@
+-Deere)))))))
++Deere#deer_n)))))))
+@@ -63 +63 @@
+-Forasmuche)
++Forasmuche#forasmuch_adv)
+@@ -66 +66 @@
+-as)
++as#as_adv)
+@@ -73 +73 @@
+-Justice)
++Justice#justice_n)
+@@ -75 +75 @@
+-and)
++and#and_conj1)
+@@ -77 +77 @@
+-equity))
++equity#equity_n))
+@@ -79 +79 @@
+-requier)
++requier#require_v)
+@@ -82 +82 @@
+-that)
++that#that_conj)
+@@ -86 +86 @@
+-every)
++every#every_adj)
+@@ -88 +88 @@
+-inheritour)
++inheritour#inheritor_n)
+@@ -91 +91 @@
+-and)
++and#and_conj1)
+@@ -94 +94 @@
+-possessour)))
++possessour#possessor_n)))
+@@ -97 +97 @@
+-of)
++of#of_prep)
+@@ -100 +100 @@
+-manours)
++manours#manor_n)
+@@ -102 +102 @@
+-landis)
++landis#land_n1)
+@@ -104 +104 @@
+-or)
++or#or_conj2)
+@@ -106 +106 @@
+-tenementis)
++tenementis#tenement_n)
+@@ -109 +109 @@
+-within)
++within#within_adv)
+@@ -112 +112 @@
+-the)
++the#the_adj)
+@@ -114 +114 @@
+-realme)
++realme#realm_n)
+@@ -117 +117 @@
+-of)
++of#of_prep)
+@@ -120 +120 @@
+-England))))))))
++England#NA))))))))
+@@ -124 +124 @@
+-shulde)
++shulde#shall_v)
+@@ -127 +127 @@
+-according)
++according#accord_v)
+@@ -130 +130 @@
+-to)
++to#to_prep)
+@@ -133 +133 @@
+-their)
++their#their_adj)
+@@ -135 +135 @@
+-estatis)
++estatis#estate_n)
+@@ -138 +138 @@
+-or)
++or#or_conj2)
+@@ -141 +141 @@
+-possessions))))))
++possessions#possession_n))))))
+@@ -146 +146 @@
+-peaseably)
++peaseably#peaceably_adv)
+@@ -148 +148 @@
+-and)
++and#and_conj1)
+@@ -150 +150 @@
+-quietly))
++quietly#quietly_adv))
+@@ -153 +153 @@
+-have)
++have#have_v)
+@@ -155 +155 @@
+-take)
++take#take_v)
+@@ -157 +157 @@
+-and)
++and#and_conj1)
+@@ -159 +159 @@
+-enjoye))
++enjoye#enjoy_v))
+@@ -162 +162 @@
+-the)
++the#the_adj)
+@@ -164 +164 @@
+-profittes)
++profittes#profit_n)
+@@ -168 +168 @@
+-revenues)))
++revenues#revenue_n)))
+@@ -171 +171 @@
+-and)
++and#and_conj1)
+@@ -174 +174 @@
+-commodities)))
++commodities#commodity_n)))
+@@ -177 +177 @@
+-of)
++of#of_prep)
+@@ -180 +180 @@
+-the)
++the#the_adj)
+@@ -182 +182 @@
+-same))))
++same#same_adj))))
+@@ -188 +188 @@
+-as@)
++as@#as_adv)
+@@ -190 +190 @@
+-@well)
++@well#well_adv)
+@@ -195 +195 @@
+-in)
++in#in_prep)
+@@ -198 +198 @@
+-thinges)
++thinges#thing_n1)
+@@ -201 +201 @@
+-of)
++of#of_prep)
+@@ -204 +204 @@
+-pleasure)))))
++pleasure#pleasure_n)))))
+@@ -207 +207 @@
+-as)
++as#as_adv)
+@@ -210 +210 @@
+-in)
++in#in_prep)
+@@ -213 +213 @@
+-thinges)
++thinges#thing_n1)
+@@ -216 +216 @@
+-co~munly)
++co~munly#common_adj)
+@@ -218 +218 @@
+-valueable))))))
++valueable#valuable_adj))))))
+@@ -223 +223 @@
+-without)
++without#without_adv)
+@@ -227 +227 @@
+-injury))
++injury#injury_n))
+@@ -231 +231 @@
+-rapyne)))
++rapyne#rapine_n)))
+@@ -234 +234 @@
+-or)
++or#or_conj2)
+@@ -237 +237 @@
+-other)
++other#other_adj)
+@@ -239 +239 @@
+-extorte)
++extorte#extort_adj)
+@@ -241 +241 @@
+-wronge)))
++wronge#wrong_n2)))
+@@ -249 +249 @@
+-to)
++to#to_prep)
+@@ -251 +251 @@
+-be)
++be#be_v)
+@@ -254 +254 @@
+-co~mitted)
++co~mitted#commit_v)
+@@ -256 +256 @@
+-or)
++or#or_conj2)
+@@ -258 +258 @@
+-doon))
++doon#do_v))
+@@ -261 +261 @@
+-to)
++to#to_prep)
+@@ -264 +264 @@
+-any)
++any#any_adj)
+@@ -267 +267 @@
+-of)
++of#of_prep)
+@@ -270 +270 @@
+-them)))))
++them#them_pron)))))
+@@ -274 +274 @@
+-within)
++within#within_adv)
+@@ -276 +276 @@
+-or)
++or#or_conj2)
+@@ -278 +278 @@
+-uppon))
++uppon#upon_prep))
+@@ -281 +281 @@
+-the)
++the#the_adj)
+@@ -283 +283 @@
+-same)))))))))))))
++same#same_adj)))))))))))))
+@@ -288 +288 @@
+-And)
++And#and_conj1)
+@@ -293 +293 @@
+-where))
++where#where_adv))
+@@ -302 +302 @@
+-in)
++in#in_prep)
+@@ -305 +305 @@
+-the)
++the#the_adj)
+@@ -307 +307 @@
+-p~lament)
++p~lament#parliament_n1)
+@@ -310 +310 @@
+-holden)
++holden#hold_v)
+@@ -313 +313 @@
+-at)
++at#at_prep)
+@@ -316 +316 @@
+-Westm~)))
++Westm~#NA)))
+@@ -319 +319 @@
+-in)
++in#in_prep)
+@@ -322 +322 @@
+-xi=th=)
++xi=th=#NA)
+@@ -324 +324 @@
+-yere)
++yere#year_n)
+@@ -327 +327 @@
+-of)
++of#of_prep)
+@@ -330 +330 @@
+-the)
++the#the_adj)
+@@ -332 +332 @@
+-reigne)
++reigne#reign_n)
+@@ -335 +335 @@
+-of)
++of#of_prep)
+@@ -338 +338 @@
+-the)
++the#the_adj)
+@@ -340 +340 @@
+-noble)
++noble#noble_adj)
+@@ -342 +342 @@
+-prince)
++prince#prince_n)
+@@ -345 +345 @@
+-of)
++of#of_prep)
+@@ -348 +348 @@
+-famouse)
++famouse#famous_adj)
+@@ -350 +350 @@
+-memory)))
++memory#memory_n)))
+@@ -353 +353 @@
+-King)
++King#NA)
+@@ -355 +355 @@
+-Henry)
++Henry#NA)
+@@ -358 +358 @@
+-the)
++the#the_adj)
+@@ -360 +360 @@
+-seventh))))))))))))
++seventh#NA))))))))))))
+@@ -363 +363 @@
+-it))
++it#it_pron))
+@@ -365 +365 @@
+-was)
++was#be_v)
+@@ -367 +367 @@
+-ordeynid)
++ordeynid#ordain_v)
+@@ -370 +370 @@
+-and)
++and#and_conj1)
+@@ -373 +373 @@
+-amongest)
++amongest#amongst_prep)
+@@ -376 +376 @@
+-other)
++other#other_adj)
+@@ -378 +378 @@
+-thinges)))
++thinges#thing_n1)))
+@@ -380 +380 @@
+-enacted))
++enacted#enact_v))
+@@ -383 +383 @@
+-that)
++that#that_conj)
+@@ -387 +387 @@
+-no)
++no#no_adj)
+@@ -389 +389 @@
+-man)
++man#man_n1)
+@@ -394 +394 @@
+-of)
++of#of_prep)
+@@ -397 +397 @@
+-what)
++what#what_pron)
+@@ -399 +399 @@
+-condition)
++condition#condition_n)
+@@ -402 +402 @@
+-or)
++or#or_conj2)
+@@ -405 +405 @@
+-degree)))
++degree#degree_n)))
+@@ -407 +407 @@
+-soever)))
++soever#soever_adv)))
+@@ -415 +415 @@
+-he))
++he#he_pron))
+@@ -417 +417 @@
+-be)))))
++be#be_v)))))
+@@ -419 +419 @@
+-shulde)
++shulde#shall_v)
+@@ -421 +421 @@
+-take)
++take#take_v)
+@@ -424 +424 @@
+-or)
++or#or_conj2)
+@@ -426 +426 @@
+-cause)
++cause#cause_v1)
+@@ -429 +429 @@
+-to)
++to#to_prep)
+@@ -431 +431 @@
+-be)
++be#be_v)
+@@ -433 +433 @@
+-taken)))
++taken#take_v)))
+@@ -436 +436 @@
+-the)
++the#the_adj)
+@@ -438 +438 @@
+-egges)
++egges#egg_n)
+@@ -441 +441 @@
+-of)
++of#of_prep)
+@@ -444 +444 @@
+-any)
++any#any_adj)
+@@ -446 +446 @@
+-fawcon)
++fawcon#falcon_n)
+@@ -450 +450 @@
+-Goshawke)))
++Goshawke#goshawk_n)))
+@@ -453 +453 @@
+-or)
++or#or_conj2)
+@@ -456 +456 @@
+-lanerd))))))
++lanerd#lanner_n))))))
+@@ -459 +459 @@
+-out)
++out#out_adv)
+@@ -461 +461 @@
+-of)
++of#of_prep)
+@@ -464 +464 @@
+-the)
++the#the_adj)
+@@ -466 +466 @@
+-nest)))
++nest#nest_n)))
+@@ -469 +469 @@
+-uppon)
++uppon#upon_prep)
+@@ -472 +472 @@
+-payne)
++payne#pain_n1)
+@@ -476 +476 @@
+-of)
++of#of_prep)
+@@ -479 +479 @@
+-imprisonment)
++imprisonment#imprisonment_n)
+@@ -482 +482 @@
+-by)
++by#by_prep)
+@@ -485 +485 @@
+-one)
++one#one_adj)
+@@ -487 +487 @@
+-yere)))))
++yere#year_n)))))
+@@ -490 +490 @@
+-and)
++and#and_conj1)
+@@ -494 +494 @@
+-further))
++further#further_adj))
+@@ -496 +496 @@
+-to)
++to#to_prep)
+@@ -498 +498 @@
+-fyne)
++fyne#fine_v2)
+@@ -501 +501 @@
+-at)
++at#at_prep)
+@@ -505 +505 @@
+-the)
++the#the_adj)
+@@ -507 +507 @@
+-Kinges))
++Kinges#king_n))
+@@ -509 +509 @@
+-will)))))))))))
++will#will_n1)))))))))))
+@@ -517 +517 @@
+-The)
++The#the_adj)
+@@ -519 +519 @@
+-p~misses))
++p~misses#premise_n))
+@@ -522 +522 @@
+-notwithstanding)))
++notwithstanding#notwithstanding_prep)))
+@@ -525 +525 @@
+-divers)
++divers#divers_adj)
+@@ -528 +528 @@
+-ydell)
++ydell#idle_adj)
+@@ -530 +530 @@
+-and)
++and#and_conj1)
+@@ -532 +532 @@
+-evill_disposid))
++evill_disposid#well-disposed_adj))
+@@ -534 +534 @@
+-p~sonnes))
++p~sonnes#person_n))
+@@ -536 +536 @@
+-have)
++have#have_v)
+@@ -538 +538 @@
+-not)
++not#not_adv)
+@@ -541 +541 @@
+-desisted)
++desisted#desist_v)
+@@ -543 +543 @@
+-nor)
++nor#nor_conj1)
+@@ -545 +545 @@
+-forborne))
++forborne#forbear_v))
+@@ -549 +549 @@
+-to)
++to#to_prep)
+@@ -551 +551 @@
+-take)
++take#take_v)
+@@ -554 +554 @@
+-egges)
++egges#egg_n)
+@@ -557 +557 @@
+-of)
++of#of_prep)
+@@ -560 +560 @@
+-faucons)
++faucons#falcon_n)
+@@ -562 +562 @@
+-goshaukes)
++goshaukes#goshawk_n)
+@@ -564 +564 @@
+-and)
++and#and_conj1)
+@@ -566 +566 @@
+-lanerd~))))
++lanerd~#lanner_n))))
+@@ -569 +569 @@
+-out)
++out#out_adv)
+@@ -571 +571 @@
+-of)
++of#of_prep)
+@@ -574 +574 @@
+-the)
++the#the_adj)
+@@ -576 +576 @@
+-neestis))))
++neestis#nest_n))))
+@@ -581 +581 @@
+-nor)
++nor#nor_conj1)
+@@ -584 +584 @@
+-to)
++to#to_prep)
+@@ -587 +587 @@
+-take)
++take#take_v)
+@@ -589 +589 @@
+-and)
++and#and_conj1)
+@@ -591 +591 @@
+-steale))
++steale#steal_v1))
+@@ -594 +594 @@
+-deere)
++deere#deer_n)
+@@ -596 +596 @@
+-conyes)
++conyes#cony_n)
+@@ -598 +598 @@
+-and)
++and#and_conj1)
+@@ -600 +600 @@
+-rabbitt~))
++rabbitt~#rabbit_n1))
+@@ -604 +604 @@
+-by)
++by#by_prep)
+@@ -607 +607 @@
+-day)))
++day#day_n)))
+@@ -610 +610 @@
+-and)
++and#and_conj1)
+@@ -613 +613 @@
+-by)
++by#by_prep)
+@@ -616 +616 @@
+-night))))))))
++night#night_n))))))))
+@@ -622 +622 @@
+-wherof))
++wherof#whereof_adv))
+@@ -631 +631 @@
+-manny)
++manny#many_adj)
+@@ -633 +633 @@
+-tymes))
++tymes#time_n))
+@@ -635 +635 @@
+-have)
++have#have_v)
+@@ -637 +637 @@
+-ensued)
++ensued#ensue_v)
+@@ -641 +641 @@
+-manslaughters))
++manslaughters#manslaughter_n))
+@@ -644 +644 @@
+-and)
++and#and_conj1)
+@@ -647 +647 @@
+-other)
++other#other_adj)
+@@ -649 +649 @@
+-greate)
++greate#great_adj)
+@@ -651 +651 @@
+-hurtes)
++hurtes#hurt_n1)
+@@ -654 +654 @@
+-and)
++and#and_conj1)
+@@ -657 +657 @@
+-inconveniences)))))))
++inconveniences#inconvenience_n)))))))
+@@ -662 +662 @@
+-and)
++and#and_conj1)
+@@ -667 +667 @@
+-the)
++the#the_adj)
+@@ -669 +669 @@
+-increasis)
++increasis#increase_n)
+@@ -672 +672 @@
+-of)
++of#of_prep)
+@@ -676 +676 @@
+-the)
++the#the_adj)
+@@ -678 +678 @@
+-Kinges))
++Kinges#king_n))
+@@ -680 +680 @@
+-hauk~)
++hauk~#hawk_n1)
+@@ -683 +683 @@
+-within)
++within#within_adv)
+@@ -686 +686 @@
+-this)
++this#this_pron)
+@@ -688 +688 @@
+-realme))))))
++realme#realm_n))))))
+@@ -690 +690 @@
+-been)
++been#be_v)
+@@ -693 +693 @@
+-in)
++in#in_prep)
+@@ -696 +696 @@
+-maner)))
++maner#manner_n)))
+@@ -698 +698 @@
+-destroyed))
++destroyed#destroy_v))
+@@ -703 +703 @@
+-and)
++and#and_conj1)
+@@ -707 +707 @@
+-the)
++the#the_adj)
+@@ -709 +709 @@
+-prices)
++prices#price_n)
+@@ -712 +712 @@
+-of)
++of#of_prep)
+@@ -715 +715 @@
+-the)
++the#the_adj)
+@@ -717 +717 @@
+-said)
++said#said_adj)
+@@ -719 +719 @@
+-conyes)
++conyes#cony_n)
+@@ -722 +722 @@
+-and)
++and#and_conj1)
+@@ -725 +725 @@
+-rabett~)))
++rabett~#rabbit_n1)))
+@@ -729 +729 @@
+-which))
++which#which_adj))
+@@ -736 +736 @@
+-be)
++be#be_v)
+@@ -739 +739 @@
+-one)
++one#one_adj)
+@@ -742 +742 @@
+-of)
++of#of_prep)
+@@ -745 +745 @@
+-the)
++the#the_adj)
+@@ -747 +747 @@
+-commodiouse)
++commodiouse#commodious_adj)
+@@ -749 +749 @@
+-vitals)
++vitals#vital_adj)
+@@ -752 +752 @@
+-of)
++of#of_prep)
+@@ -755 +755 @@
+-this)
++this#this_pron)
+@@ -757 +757 @@
+-realme)))))))))))
++realme#realm_n)))))))))))
+@@ -760 +760 @@
+-much))
++much#much_adj))
+@@ -762 +762 @@
+-enhaunced)))
++enhaunced#enhance_v)))
+@@ -767 +767 @@
+-to)
++to#to_prep)
+@@ -770 +770 @@
+-the)
++the#the_adj)
+@@ -772 +772 @@
+-comon)
++comon#common_adj)
+@@ -774 +774 @@
+-hurt)
++hurt#hurt_n1)
+@@ -777 +777 @@
+-and)
++and#and_conj1)
+@@ -780 +780 @@
+-p~judice)))
++p~judice#prejudice_n)))
+@@ -783 +783 @@
+-of)
++of#of_prep)
+@@ -786 +786 @@
+-all)
++all#all_adj)
+@@ -789 +789 @@
+-the)
++the#the_adj)
+@@ -791 +791 @@
+-Kinges))
++Kinges#king_n))
+@@ -793 +793 @@
+-subjectis)
++subjectis#subject_n)
+@@ -796 +796 @@
+-of)
++of#of_prep)
+@@ -799 +799 @@
+-the)
++the#the_adj)
+@@ -801 +801 @@
+-same))))))))))))))))))
++same#same_adj))))))))))))))))))
+@@ -805 +805 @@
+-Be)
++Be#be_v)
+@@ -808 +808 @@
+-it))
++it#it_pron))
+@@ -811 +811 @@
+-therefore))
++therefore#therefore_adv))
+@@ -814 +814 @@
+-ordeynid)
++ordeynid#ordain_v)
+@@ -816 +816 @@
+-and)
++and#and_conj1)
+@@ -818 +818 @@
+-enactid))
++enactid#enact_v))
+@@ -821 +821 @@
+-by)
++by#by_prep)
+@@ -824 +824 @@
+-auctoritie)
++auctoritie#authority_n)
+@@ -827 +827 @@
+-of)
++of#of_prep)
+@@ -830 +830 @@
+-this)
++this#this_pron)
+@@ -832 +832 @@
+-present)
++present#present_adj)
+@@ -834 +834 @@
+-p~lament)))))
++p~lament#parliament_n1)))))
+@@ -837 +837 @@
+-that)
++that#that_conj)
+@@ -841 +841 @@
+-if)
++if#if_conj)
+@@ -848 +848 @@
+-any)
++any#any_adj)
+@@ -850 +850 @@
+-p~sonne)
++p~sonne#person_n)
+@@ -853 +853 @@
+-or)
++or#or_conj2)
+@@ -856 +856 @@
+-p~sonnes))))
++p~sonnes#person_n))))
+@@ -859 +859 @@
+-after)
++after#after_adv)
+@@ -862 +862 @@
+-the)
++the#the_adj)
+@@ -864 +864 @@
+-feast)
++feast#feast_n)
+@@ -867 +867 @@
+-of)
++of#of_prep)
+@@ -870 +870 @@
+-the)
++the#the_adj)
+@@ -872 +872 @@
+-Nativitie)
++Nativitie#nativity_n)
+@@ -875 +875 @@
+-of)
++of#of_prep)
+@@ -878 +878 @@
+-our)
++our#our_pron)
+@@ -880 +880 @@
+-Lady)
++Lady#NA)
+@@ -883 +883 @@
+-Sainct)
++Sainct#NA)
+@@ -885 +885 @@
+-Mary))))))
++Mary#NA))))))
+@@ -889 +889 @@
+-next))
++next#next_adj))
+@@ -891 +891 @@
+-comyng))))
++comyng#come_v))))
+@@ -894 +894 @@
+-unlaufully)
++unlaufully#unlawfully_adv)
+@@ -896 +896 @@
+-or)
++or#or_conj2)
+@@ -898 +898 @@
+-wrongfully))
++wrongfully#wrongfully_adv))
+@@ -900 +900 @@
+-take)
++take#take_v)
+@@ -903 +903 @@
+-or)
++or#or_conj2)
+@@ -905 +905 @@
+-cause)
++cause#cause_v1)
+@@ -908 +908 @@
+-to)
++to#to_prep)
+@@ -910 +910 @@
+-be)
++be#be_v)
+@@ -912 +912 @@
+-taken)))
++taken#take_v)))
+@@ -916 +916 @@
+-any)
++any#any_adj)
+@@ -918 +918 @@
+-egge)
++egge#egg_n)
+@@ -921 +921 @@
+-or)
++or#or_conj2)
+@@ -924 +924 @@
+-eggis)))
++eggis#egg_n)))
+@@ -927 +927 @@
+-of)
++of#of_prep)
+@@ -930 +930 @@
+-any)
++any#any_adj)
+@@ -932 +932 @@
+-fawcon)
++fawcon#falcon_n)
+@@ -935 +935 @@
+-or)
++or#or_conj2)
+@@ -938 +938 @@
+-goshauke)))
++goshauke#goshawk_n)))
+@@ -941 +941 @@
+-or)
++or#or_conj2)
+@@ -944 +944 @@
+-lanerd))))))
++lanerd#lanner_n))))))
+@@ -949 +949 @@
+-or)
++or#or_conj2)
+@@ -952 +952 @@
+-the)
++the#the_adj)
+@@ -954 +954 @@
+-birdes)
++birdes#bird_n)
+@@ -957 +957 @@
+-of)
++of#of_prep)
+@@ -960 +960 @@
+-any)
++any#any_adj)
+@@ -962 +962 @@
+-fawcon)
++fawcon#falcon_n)
+@@ -966 +966 @@
+-goshawke)))
++goshawke#goshawk_n)))
+@@ -969 +969 @@
+-or)
++or#or_conj2)
+@@ -972 +972 @@
+-lanerd))))))))
++lanerd#lanner_n))))))))
+@@ -977 +977 @@
+-out)
++out#out_adv)
+@@ -979 +979 @@
+-or)
++or#or_conj2)
+@@ -981 +981 @@
+-from)
++from#from_prep)
+@@ -984 +984 @@
+-any)
++any#any_adj)
+@@ -986 +986 @@
+-nest)
++nest#nest_n)
+@@ -989 +989 @@
+-or)
++or#or_conj2)
+@@ -992 +992 @@
+-nestis)))
++nestis#nest_n)))
+@@ -995 +995 @@
+-of)
++of#of_prep)
+@@ -998 +998 @@
+-any)
++any#any_adj)
+@@ -1000 +1000 @@
+-fawcon)
++fawcon#falcon_n)
+@@ -1004 +1004 @@
+-goshauke)))
++goshauke#goshawk_n)))
+@@ -1007 +1007 @@
+-or)
++or#or_conj2)
+@@ -1010 +1010 @@
+-lanerd)))))))
++lanerd#lanner_n)))))))
+@@ -1013 +1013 @@
+-within)
++within#within_adv)
+@@ -1016 +1016 @@
+-any)
++any#any_adj)
+@@ -1018 +1018 @@
+-wood)
++wood#wood_n1)
+@@ -1022 +1022 @@
+-ground)))
++ground#ground_n)))
+@@ -1025 +1025 @@
+-or)
++or#or_conj2)
+@@ -1028 +1028 @@
+-place)))
++place#place_n.II-VII)))
+@@ -1031 +1031 @@
+-of)
++of#of_prep)
+@@ -1034 +1034 @@
+-any)
++any#any_adj)
+@@ -1036 +1036 @@
+-other)
++other#other_adj)
+@@ -1038 +1038 @@
+-p~sonne)
++p~sonne#person_n)
+@@ -1041 +1041 @@
+-or)
++or#or_conj2)
+@@ -1044 +1044 @@
+-p~sones)))))
++p~sones#person_n)))))
+@@ -1047 +1047 @@
+-within)
++within#within_adv)
+@@ -1050 +1050 @@
+-this)
++this#this_pron)
+@@ -1052 +1052 @@
+-realme))))))))
++realme#realm_n))))))))
+@@ -1056 +1056 @@
+-That)
++That#that_conj)
+@@ -1064 +1064 @@
+-the)
++the#the_adj)
+@@ -1066 +1066 @@
+-same)
++same#same_adj)
+@@ -1068 +1068 @@
+-offence)
++offence#offence_n)
+@@ -1071 +1071 @@
+-and)
++and#and_conj1)
+@@ -1074 +1074 @@
+-offences))))
++offences#offence_n))))
+@@ -1077 +1077 @@
+-and)
++and#and_conj1)
+@@ -1080 +1080 @@
+-every)
++every#every_adj)
+@@ -1083 +1083 @@
+-of)
++of#of_prep)
+@@ -1086 +1086 @@
+-them))))))
++them#them_pron))))))
+@@ -1088 +1088 @@
+-shal@)
++shal@#shall_v)
+@@ -1090 +1090 @@
+-@be)
++@be#be_v)
+@@ -1093 +1093 @@
+-adjudged)
++adjudged#adjudge_v)
+@@ -1095 +1095 @@
+-and)
++and#and_conj1)
+@@ -1097 +1097 @@
+-taken))
++taken#take_v))
+@@ -1102 +1102 @@
+-to)
++to#to_prep)
+@@ -1104 +1104 @@
+-be)
++be#be_v)
+@@ -1107 +1107 @@
+-felony))))
++felony#felony_n1))))
+@@ -1112 +1112 @@
+-And)
++And#and_conj1)
+@@ -1116 +1116 @@
+-th@)
++th@#the_adj)
+@@ -1118 +1118 @@
+-@offendour)
++@offendour#offender_n)
+@@ -1121 +1121 @@
+-and)
++and#and_conj1)
+@@ -1124 +1124 @@
+-offendours)))
++offendours#offender_n)))
+@@ -1127 +1127 @@
+-therein)))
++therein#therein_adv)))
+@@ -1130 +1130 @@
+-being)
++being#be_v)
+@@ -1133 +1133 @@
+-therof))
++therof#thereof_adv))
+@@ -1136 +1136 @@
+-laufully))
++laufully#lawfully_adv))
+@@ -1139 +1139 @@
+-convictid)
++convictid#convict_v)
+@@ -1141 +1141 @@
+-and)
++and#and_conj1)
+@@ -1143 +1143 @@
+-attaynted)))
++attaynted#attaint_v)))
+@@ -1145 +1145 @@
+-shal@)
++shal@#shall_v)
+@@ -1148 +1148 @@
+-@have)
++@have#have_v)
+@@ -1150 +1150 @@
+-and)
++and#and_conj1)
+@@ -1152 +1152 @@
+-suffre))
++suffre#suffer_v))
+@@ -1155 +1155 @@
+-suche)
++suche#such_adj)
+@@ -1157 +1157 @@
+-paynes)
++paynes#pain_n1)
+@@ -1160 +1160 @@
+-of)
++of#of_prep)
+@@ -1163 +1163 @@
+-death))))))
++death#death_n))))))
+@@ -1166 +1166 @@
+-and)
++and#and_conj1)
+@@ -1171 +1171 @@
+-shall)
++shall#shall_v)
+@@ -1174 +1174 @@
+-lose)
++lose#lose_v1)
+@@ -1176 +1176 @@
+-and)
++and#and_conj1)
+@@ -1178 +1178 @@
+-forfaite))
++forfaite#forfeit_v))
+@@ -1181 +1181 @@
+-their)
++their#their_adj)
+@@ -1183 +1183 @@
+-good~)
++good~#good_adj)
+@@ -1186 +1186 @@
+-and)
++and#and_conj1)
+@@ -1189 +1189 @@
+-cattall~)))
++cattall~#cattle_n)))
+@@ -1191 +1191 @@
+-landis)
++landis#land_n1)
+@@ -1193 +1193 @@
+-and)
++and#and_conj1)
+@@ -1195 +1195 @@
+-tenementis))
++tenementis#tenement_n))
+@@ -1198 +1198 @@
+-as)
++as#as_adv)
+@@ -1201 +1201 @@
+-in)
++in#in_prep)
+@@ -1204 +1204 @@
+-cases)
++cases#case_n1)
+@@ -1207 +1207 @@
+-of)
++of#of_prep)
+@@ -1210 +1210 @@
+-felonye))))))
++felonye#felony_n1))))))
+@@ -1213 +1213 @@
+-by)
++by#by_prep)
+@@ -1216 +1216 @@
+-the)
++the#the_adj)
+@@ -1218 +1218 @@
+-course)
++course#course_n1)
+@@ -1221 +1221 @@
+-of)
++of#of_prep)
+@@ -1224 +1224 @@
+-the)
++the#the_adj)
+@@ -1226 +1226 @@
+-co~mon)
++co~mon#common_adj)
+@@ -1228 +1228 @@
+-lawes)
++lawes#law_n1)
+@@ -1231 +1231 @@
+-of)
++of#of_prep)
+@@ -1234 +1234 @@
+-this)
++this#this_pron)
+@@ -1236 +1236 @@
+-realme))))))))))))
++realme#realm_n))))))))))))
+@@ -1244 +1244 @@
+-Be)
++Be#be_v)
+@@ -1247 +1247 @@
+-it))
++it#it_pron))
+@@ -1249 +1249 @@
+-also)
++also#also_adv)
+@@ -1251 +1251 @@
+-enactid)
++enactid#enact_v)
+@@ -1254 +1254 @@
+-by)
++by#by_prep)
+@@ -1257 +1257 @@
+-auctoritie)
++auctoritie#authority_n)
+@@ -1260 +1260 @@
+-of)
++of#of_prep)
+@@ -1263 +1263 @@
+-this)
++this#this_pron)
+@@ -1265 +1265 @@
+-p~sent)
++p~sent#present_adj)
+@@ -1267 +1267 @@
+-p~lament)))))
++p~lament#parliament_n1)))))
+@@ -1270 +1270 @@
+-that)
++that#that_conj)
+@@ -1276 +1276 @@
+-if)
++if#if_conj)
+@@ -1284 +1284 @@
+-any)
++any#any_adj)
+@@ -1286 +1286 @@
+-p~son)
++p~son#person_n)
+@@ -1289 +1289 @@
+-or)
++or#or_conj2)
+@@ -1292 +1292 @@
+-p~sonnes))))
++p~sonnes#person_n))))
+@@ -1297 +1297 @@
+-after)
++after#after_adv)
+@@ -1300 +1300 @@
+-the)
++the#the_adj)
+@@ -1302 +1302 @@
+-said)
++said#said_adj)
+@@ -1304 +1304 @@
+-feast)
++feast#feast_n)
+@@ -1307 +1307 @@
+-of)
++of#of_prep)
+@@ -1310 +1310 @@
+-the)
++the#the_adj)
+@@ -1312 +1312 @@
+-Nativitie)
++Nativitie#nativity_n)
+@@ -1315 +1315 @@
+-of)
++of#of_prep)
+@@ -1318 +1318 @@
+-our)
++our#our_pron)
+@@ -1320 +1320 @@
+-Lady)))))
++Lady#NA)))))
+@@ -1324 +1324 @@
+-next))
++next#next_adj))
+@@ -1326 +1326 @@
+-comyng))))
++comyng#come_v))))
+@@ -1331 +1331 @@
+-at)
++at#at_prep)
+@@ -1334 +1334 @@
+-anny)
++anny#any_adj)
+@@ -1336 +1336 @@
+-tyme)
++tyme#time_n)
+@@ -1339 +1339 @@
+-of)
++of#of_prep)
+@@ -1342 +1342 @@
+-the)
++the#the_adj)
+@@ -1344 +1344 @@
+-day)))))
++day#day_n)))))
+@@ -1350 +1350 @@
+-that))
++that#that_pron))
+@@ -1352 +1352 @@
+-is)
++is#be_v)
+@@ -1355 +1355 @@
+-to)
++to#to_prep)
+@@ -1357 +1357 @@
+-say)
++say#say_v1)
+@@ -1360 +1360 @@
+-betwene)
++betwene#between_prep)
+@@ -1363 +1363 @@
+-the)
++the#the_adj)
+@@ -1365 +1365 @@
+-tyme)
++tyme#time_n)
+@@ -1368 +1368 @@
+-of)
++of#of_prep)
+@@ -1371 +1371 @@
+-the)
++the#the_adj)
+@@ -1373 +1373 @@
+-arrising)
++arrising#arising_n)
+@@ -1376 +1376 @@
+-of)
++of#of_prep)
+@@ -1379 +1379 @@
+-the)
++the#the_adj)
+@@ -1381 +1381 @@
+-sonne)))
++sonne#son_n1)))
+@@ -1384 +1384 @@
+-and)
++and#and_conj1)
+@@ -1387 +1387 @@
+-going)
++going#going_n)
+@@ -1390 +1390 @@
+-down)
++down#down_adv)
+@@ -1392 +1392 @@
+-of)
++of#of_prep)
+@@ -1395 +1395 @@
+-the)
++the#the_adj)
+@@ -1397 +1397 @@
+-same)))))))))))
++same#same_adj)))))))))))
+@@ -1403 +1403 @@
+-with)
++with#with_prep)
+@@ -1407 +1407 @@
+-his)
++his#his_adj)
+@@ -1409 +1409 @@
+-face))
++face#face_n))
+@@ -1412 +1412 @@
+-hid)
++hid#hide_v1)
+@@ -1414 +1414 @@
+-or)
++or#or_conj2)
+@@ -1416 +1416 @@
+-coverid))
++coverid#cover_v1))
+@@ -1419 +1419 @@
+-with)
++with#with_prep)
+@@ -1422 +1422 @@
+-hoode)
++hoode#hood_n1)
+@@ -1424 +1424 @@
+-or)
++or#or_conj2)
+@@ -1426 +1426 @@
+-visar)))))
++visar#visor_n)))))
+@@ -1429 +1429 @@
+-or)
++or#or_conj2)
+@@ -1432 +1432 @@
+-with)
++with#with_prep)
+@@ -1436 +1436 @@
+-his)
++his#his_adj)
+@@ -1438 +1438 @@
+-face))
++face#face_n))
+@@ -1440 +1440 @@
+-paintid))))
++paintid#paint_v1))))
+@@ -1443 +1443 @@
+-or)
++or#or_conj2)
+@@ -1447 +1447 @@
+-himself))
++himself#himself_pron))
+@@ -1450 +1450 @@
+-otherwise))
++otherwise#otherwise_n))
+@@ -1452 +1452 @@
+-disguysid)
++disguysid#disguise_v)
+@@ -1457 +1457 @@
+-to)
++to#to_prep)
+@@ -1460 +1460 @@
+-th@)
++th@#the_adj)
+@@ -1462 +1462 @@
+-@intent)
++@intent#intent_n)
+@@ -1465 +1465 @@
+-that)
++that#that_conj)
+@@ -1469 +1469 @@
+-he))
++he#he_pron))
+@@ -1471 +1471 @@
+-wold)
++wold#will_v1)
+@@ -1473 +1473 @@
+-not)
++not#not_adv)
+@@ -1475 +1475 @@
+-be)
++be#be_v)
+@@ -1477 +1477 @@
+-knowen))))))))
++knowen#know_v))))))))
+@@ -1482 +1482 @@
+-wrongefully))
++wrongefully#wrongfully_adv))
+@@ -1485 +1485 @@
+-take)
++take#take_v)
+@@ -1487 +1487 @@
+-kill)
++kill#kill_v)
+@@ -1489 +1489 @@
+-or)
++or#or_conj2)
+@@ -1491 +1491 @@
+-slee))
++slee#slay_v1))
+@@ -1494 +1494 @@
+-any)
++any#any_adj)
+@@ -1496 +1496 @@
+-Deere))
++Deere#deer_n))
+@@ -1499 +1499 @@
+-within)
++within#within_adv)
+@@ -1502 +1502 @@
+-anny)
++anny#any_adj)
+@@ -1504 +1504 @@
+-parke)
++parke#park_n)
+@@ -1507 +1507 @@
+-or)
++or#or_conj2)
+@@ -1510 +1510 @@
+-closed)
++closed#closed_adj)
+@@ -1512 +1512 @@
+-ground)
++ground#ground_n)
+@@ -1515 +1515 @@
+-used)
++used#use_v)
+@@ -1518 +1518 @@
+-for)
++for#for_prep)
+@@ -1521 +1521 @@
+-Deere)))))))))
++Deere#deer_n)))))))))
+@@ -1526 +1526 @@
+-or)
++or#or_conj2)
+@@ -1531 +1531 @@
+-with)
++with#with_prep)
+@@ -1534 +1534 @@
+-any)
++any#any_adj)
+@@ -1536 +1536 @@
+-hay)
++hay#hay_n3)
+@@ -1539 +1539 @@
+-or)
++or#or_conj2)
+@@ -1542 +1542 @@
+-other)
++other#other_adj)
+@@ -1544 +1544 @@
+-nette)))))
++nette#net_n1)))))
+@@ -1547 +1547 @@
+-or)
++or#or_conj2)
+@@ -1550 +1550 @@
+-with)
++with#with_prep)
+@@ -1553 +1553 @@
+-any)
++any#any_adj)
+@@ -1555 +1555 @@
+-fyrrett)
++fyrrett#ferret_n1)
+@@ -1558 +1558 @@
+-or)
++or#or_conj2)
+@@ -1561 +1561 @@
+-pursenett)))))))
++pursenett#purse-net_n)))))))
+@@ -1564 +1564 @@
+-any)
++any#any_adj)
+@@ -1567 +1567 @@
+-of)
++of#of_prep)
+@@ -1570 +1570 @@
+-the)
++the#the_adj)
+@@ -1572 +1572 @@
+-conyes)
++conyes#cony_n)
+@@ -1575 +1575 @@
+-or)
++or#or_conj2)
+@@ -1580 +1580 @@
+-rabettis)))
++rabettis#rabbit_n1)))
+@@ -1583 +1583 @@
+-being)
++being#be_v)
+@@ -1587 +1587 @@
+-within)
++within#within_adv)
+@@ -1590 +1590 @@
+-any)
++any#any_adj)
+@@ -1592 +1592 @@
+-parke)
++parke#park_n)
+@@ -1595 +1595 @@
+-or)
++or#or_conj2)
+@@ -1598 +1598 @@
+-ground)))
++ground#ground_n)))
+@@ -1601 +1601 @@
+-closed)
++closed#close_v)
+@@ -1604 +1604 @@
+-for)
++for#for_prep)
+@@ -1607 +1607 @@
+-maynten=a=nce)
++maynten=a=nce#maintenance_n)
+@@ -1609 +1609 @@
+-or)
++or#or_conj2)
+@@ -1611 +1611 @@
+-keping)
++keping#keeping_n)
+@@ -1614 +1614 @@
+-of)
++of#of_prep)
+@@ -1617 +1617 @@
+-Deere))))))))
++Deere#deer_n))))))))
+@@ -1622 +1622 @@
+-or)
++or#or_conj2)
+@@ -1625 +1625 @@
+-in)
++in#in_prep)
+@@ -1628 +1628 @@
+-any)
++any#any_adj)
+@@ -1630 +1630 @@
+-place)
++place#place_n.II-VII)
+@@ -1633 +1633 @@
+-being)
++being#be_v)
+@@ -1636 +1636 @@
+-laufull)
++laufull#lawful_adj)
+@@ -1638 +1638 @@
+-warren)))))))))))))
++warren#warren_n)))))))))))))
+@@ -1643 +1643 @@
+-except)
++except#except_adj)
+@@ -1650 +1650 @@
+-it))
++it#it_pron))
+@@ -1652 +1652 @@
+-be)
++be#be_v)
+@@ -1655 +1655 @@
+-suche)
++suche#such_adj)
+@@ -1657 +1657 @@
+-p~sonne)
++p~sonne#person_n)
+@@ -1660 +1660 @@
+-or)
++or#or_conj2)
+@@ -1663 +1663 @@
+-p~sones)))
++p~sones#person_n)))
+@@ -1667 +1667 @@
+-as)
++as#as_adv)
+@@ -1677 +1677 @@
+-hath)
++hath#have_v)
+@@ -1680 +1680 @@
+-or)
++or#or_conj2)
+@@ -1682 +1682 @@
+-shal@)
++shal@#shall_v)
+@@ -1684 +1684 @@
+-@have))
++@have#have_v))
+@@ -1687 +1687 @@
+-the)
++the#the_adj)
+@@ -1689 +1689 @@
+-keping)
++keping#keeping_n)
+@@ -1692 +1692 @@
+-or)
++or#or_conj2)
+@@ -1694 +1694 @@
+-be)
++be#be_v)
+@@ -1697 +1697 @@
+-maistre)))
++maistre#master_n1)))
+@@ -1700 +1700 @@
+-of)
++of#of_prep)
+@@ -1703 +1703 @@
+-the)
++the#the_adj)
+@@ -1705 +1705 @@
+-game)
++game#game_n)
+@@ -1708 +1708 @@
+-of)
++of#of_prep)
+@@ -1711 +1711 @@
+-suche)
++suche#such_adj)
+@@ -1713 +1713 @@
+-parkes)
++parkes#park_n)
+@@ -1716 +1716 @@
+-or)
++or#or_conj2)
+@@ -1719 +1719 @@
+-ground~)))
++ground~#ground_n)))
+@@ -1722 +1722 @@
+-closed)
++closed#close_v)
+@@ -1725 +1725 @@
+-for)
++for#for_prep)
+@@ -1728 +1728 @@
+-Deere))))))))))))
++Deere#deer_n))))))))))))
+@@ -1733 +1733 @@
+-or)
++or#or_conj2)
+@@ -1738 +1738 @@
+-that)
++that#that_conj)
+@@ -1744 +1744 @@
+-have)
++have#have_v)
+@@ -1747 +1747 @@
+-or)
++or#or_conj2)
+@@ -1749 +1749 @@
+-shal@)
++shal@#shall_v)
+@@ -1751 +1751 @@
+-@have))
++@have#have_v))
+@@ -1754 +1754 @@
+-the)
++the#the_adj)
+@@ -1756 +1756 @@
+-said)
++said#said_adj)
+@@ -1758 +1758 @@
+-conyes)
++conyes#cony_n)
+@@ -1761 +1761 @@
+-or)
++or#or_conj2)
+@@ -1764 +1764 @@
+-rabettis))))
++rabettis#rabbit_n1))))
+@@ -1767 +1767 @@
+-in)
++in#in_prep)
+@@ -1770 +1770 @@
+-ferme))))
++ferme#farm_n2))))
+@@ -1773 +1773 @@
+-or)
++or#or_conj2)
+@@ -1778 +1778 @@
+-shal@)
++shal@#shall_v)
+@@ -1780 +1780 @@
+-@be)
++@be#be_v)
+@@ -1784 +1784 @@
+-laufully))
++laufully#lawfully_adv))
+@@ -1786 +1786 @@
+-licenced)
++licenced#licensed_adj)
+@@ -1790 +1790 @@
+-so))
++so#so_adv))
+@@ -1792 +1792 @@
+-to)
++to#to_prep)
+@@ -1794 +1794 @@
+-doo))))))))))))))))
++doo#do_v))))))))))))))))
+@@ -1799 +1799 @@
+-Or)
++Or#or_conj2)
+@@ -1802 +1802 @@
+-if)
++if#if_conj)
+@@ -1810 +1810 @@
+-any)
++any#any_adj)
+@@ -1812 +1812 @@
+-p~sone)
++p~sone#person_n)
+@@ -1815 +1815 @@
+-or)
++or#or_conj2)
+@@ -1818 +1818 @@
+-p~sones))))
++p~sones#person_n))))
+@@ -1821 +1821 @@
+-at)
++at#at_prep)
+@@ -1824 +1824 @@
+-any)
++any#any_adj)
+@@ -1826 +1826 @@
+-tyme)
++tyme#time_n)
+@@ -1829 +1829 @@
+-of)
++of#of_prep)
+@@ -1832 +1832 @@
+-the)
++the#the_adj)
+@@ -1834 +1834 @@
+-night)))))
++night#night_n)))))
+@@ -1840 +1840 @@
+-that))
++that#that_pron))
+@@ -1842 +1842 @@
+-is)
++is#be_v)
+@@ -1845 +1845 @@
+-to)
++to#to_prep)
+@@ -1847 +1847 @@
+-say)
++say#say_v1)
+@@ -1850 +1850 @@
+-betwene)
++betwene#between_prep)
+@@ -1853 +1853 @@
+-the)
++the#the_adj)
+@@ -1855 +1855 @@
+-tyme)
++tyme#time_n)
+@@ -1858 +1858 @@
+-of)
++of#of_prep)
+@@ -1862 +1862 @@
+-going)
++going#going_n)
+@@ -1864 +1864 @@
+-downe)
++downe#down_adv)
+@@ -1867 +1867 @@
+-of)
++of#of_prep)
+@@ -1870 +1870 @@
+-the)
++the#the_adj)
+@@ -1872 +1872 @@
+-sonne))))
++sonne#son_n1))))
+@@ -1875 +1875 @@
+-and)
++and#and_conj1)
+@@ -1878 +1878 @@
+-arrising)
++arrising#arising_n)
+@@ -1881 +1881 @@
+-of)
++of#of_prep)
+@@ -1884 +1884 @@
+-the)
++the#the_adj)
+@@ -1886 +1886 @@
+-same)))))))))))
++same#same_adj)))))))))))
+@@ -1889 +1889 @@
+-take)
++take#take_v)
+@@ -1891 +1891 @@
+-kill)
++kill#kill_v)
+@@ -1893 +1893 @@
+-or)
++or#or_conj2)
+@@ -1895 +1895 @@
+-sle))
++sle#slay_v1))
+@@ -1898 +1898 @@
+-any)
++any#any_adj)
+@@ -1900 +1900 @@
+-Deere))
++Deere#deer_n))
+@@ -1903 +1903 @@
+-within)
++within#within_adv)
+@@ -1906 +1906 @@
+-any)
++any#any_adj)
+@@ -1908 +1908 @@
+-parke)
++parke#park_n)
+@@ -1911 +1911 @@
+-or)
++or#or_conj2)
+@@ -1914 +1914 @@
+-closed)
++closed#closed_adj)
+@@ -1916 +1916 @@
+-grounde)
++grounde#ground_n)
+@@ -1919 +1919 @@
+-for)
++for#for_prep)
+@@ -1922 +1922 @@
+-Deere))))))))
++Deere#deer_n))))))))
+@@ -1927 +1927 @@
+-or)
++or#or_conj2)
+@@ -1932 +1932 @@
+-with)
++with#with_prep)
+@@ -1935 +1935 @@
+-any)
++any#any_adj)
+@@ -1937 +1937 @@
+-hay)
++hay#hay_n3)
+@@ -1940 +1940 @@
+-or)
++or#or_conj2)
+@@ -1943 +1943 @@
+-other)
++other#other_adj)
+@@ -1945 +1945 @@
+-nette)))))
++nette#net_n1)))))
+@@ -1948 +1948 @@
+-or)
++or#or_conj2)
+@@ -1951 +1951 @@
+-with)
++with#with_prep)
+@@ -1954 +1954 @@
+-any)
++any#any_adj)
+@@ -1956 +1956 @@
+-fyrrett)
++fyrrett#ferret_n1)
+@@ -1959 +1959 @@
+-or)
++or#or_conj2)
+@@ -1962 +1962 @@
+-pursnett)))))))
++pursnett#purse-net_n)))))))
+@@ -1965 +1965 @@
+-any)
++any#any_adj)
+@@ -1968 +1968 @@
+-of)
++of#of_prep)
+@@ -1971 +1971 @@
+-the)
++the#the_adj)
+@@ -1973 +1973 @@
+-conyes)
++conyes#cony_n)
+@@ -1976 +1976 @@
+-or)
++or#or_conj2)
+@@ -1979 +1979 @@
+-rabbitt~))))))
++rabbitt~#rabbit_n1))))))
+@@ -1982 +1982 @@
+-in)
++in#in_prep)
+@@ -1985 +1985 @@
+-any)
++any#any_adj)
+@@ -1987 +1987 @@
+-parke)
++parke#park_n)
+@@ -1991 +1991 @@
+-closed)
++closed#closed_adj)
+@@ -1993 +1993 @@
+-ground)))
++ground#ground_n)))
+@@ -1996 +1996 @@
+-or)
++or#or_conj2)
+@@ -1999 +1999 @@
+-warren)))))))
++warren#warren_n)))))))
+@@ -2002 +2002 @@
+-as)
++as#as_adv)
+@@ -2012 +2012 @@
+-is)
++is#be_v)
+@@ -2015 +2015 @@
+-above))
++above#above_adv))
+@@ -2017 +2017 @@
+-written))))
++written#write_v))))
+@@ -2022 +2022 @@
+-except)
++except#except_adj)
+@@ -2029 +2029 @@
+-it))
++it#it_pron))
+@@ -2031 +2031 @@
+-be)
++be#be_v)
+@@ -2034 +2034 @@
+-suche)
++suche#such_adj)
+@@ -2036 +2036 @@
+-p~sone)
++p~sone#person_n)
+@@ -2039 +2039 @@
+-or)
++or#or_conj2)
+@@ -2042 +2042 @@
+-p~sonnes)))
++p~sonnes#person_n)))
+@@ -2046 +2046 @@
+-as)
++as#as_adv)
+@@ -2056 +2056 @@
+-hath)
++hath#have_v)
+@@ -2059,3 +2059,3 @@
+-or)
+-(MD
+-shal@)
++or#or_conj2)
++(MD
++shal@#shall_v)
+@@ -2063 +2063 @@
+-@have))
++@have#have_v))
+@@ -2066 +2066 @@
+-the)
++the#the_adj)
+@@ -2068 +2068 @@
+-keaping)
++keaping#keeping_n)
+@@ -2071 +2071 @@
+-or)
++or#or_conj2)
+@@ -2073 +2073 @@
+-be)
++be#be_v)
+@@ -2076 +2076 @@
+-maisters)))
++maisters#master_n1)))
+@@ -2079 +2079 @@
+-of)
++of#of_prep)
+@@ -2082 +2082 @@
+-the)
++the#the_adj)
+@@ -2084 +2084 @@
+-game)
++game#game_n)
+@@ -2087 +2087 @@
+-of)
++of#of_prep)
+@@ -2090 +2090 @@
+-suche)
++suche#such_adj)
+@@ -2092 +2092 @@
+-parkes)
++parkes#park_n)
+@@ -2095 +2095 @@
+-or)
++or#or_conj2)
+@@ -2098 +2098 @@
+-cloased)
++cloased#closed_adj)
+@@ -2100 +2100 @@
+-groundis)))
++groundis#ground_n)))
+@@ -2103 +2103 @@
+-for)
++for#for_prep)
+@@ -2106 +2106 @@
+-Deere)))))))))))
++Deere#deer_n)))))))))))
+@@ -2111 +2111 @@
+-or)
++or#or_conj2)
+@@ -2116 +2116 @@
+-that)
++that#that_conj)
+@@ -2122 +2122 @@
+-have)
++have#have_v)
+@@ -2125 +2125 @@
+-or)
++or#or_conj2)
+@@ -2127 +2127 @@
+-shal@)
++shal@#shall_v)
+@@ -2129 +2129 @@
+-@have))
++@have#have_v))
+@@ -2132 +2132 @@
+-the)
++the#the_adj)
+@@ -2134 +2134 @@
+-said)
++said#said_adj)
+@@ -2136 +2136 @@
+-conyes)
++conyes#cony_n)
+@@ -2139 +2139 @@
+-and)
++and#and_conj1)
+@@ -2142 +2142 @@
+-rabettis))))
++rabettis#rabbit_n1))))
+@@ -2145 +2145 @@
+-in)
++in#in_prep)
+@@ -2148 +2148 @@
+-ferme))))
++ferme#farm_n2))))
+@@ -2151 +2151 @@
+-or)
++or#or_conj2)
+@@ -2156 +2156 @@
+-shal@)
++shal@#shall_v)
+@@ -2158 +2158 @@
+-@be)
++@be#be_v)
+@@ -2161 +2161 @@
+-laufully)
++laufully#lawfully_adv)
+@@ -2163 +2163 @@
+-licenced)
++licenced#licensed_adj)
+@@ -2167 +2167 @@
+-so))
++so#so_adv))
+@@ -2169 +2169 @@
+-to)
++to#to_prep)
+@@ -2171 +2171 @@
+-doo))))))))))))))))))
++doo#do_v))))))))))))))))))
+@@ -2175 +2175 @@
+-that)
++that#that_conj)
+@@ -2182 +2182 @@
+-all)
++all#all_adj)
+@@ -2184 +2184 @@
+-suche)
++suche#such_adj)
+@@ -2186 +2186 @@
+-offences))
++offences#offence_n))
+@@ -2189 +2189 @@
+-and)
++and#and_conj1)
+@@ -2192 +2192 @@
+-ev~y)
++ev~y#every_adj)
+@@ -2195 +2195 @@
+-of)
++of#of_prep)
+@@ -2198 +2198 @@
+-them))))))
++them#them_pron))))))
+@@ -2200 +2200 @@
+-shal@)
++shal@#shall_v)
+@@ -2202 +2202 @@
+-@be)
++@be#be_v)
+@@ -2205 +2205 @@
+-adjudged)
++adjudged#adjudge_v)
+@@ -2207 +2207 @@
+-and)
++and#and_conj1)
+@@ -2209 +2209 @@
+-taken))
++taken#take_v))
+@@ -2215 +2215 @@
+-felony)))))
++felony#felony_n1)))))
+@@ -2220 +2220 @@
+-and)
++and#and_conj1)
+@@ -2223 +2223 @@
+-that)
++that#that_conj)
+@@ -2228 +2228 @@
+-th@)
++th@#the_adj)
+@@ -2230 +2230 @@
+-@offendour)
++@offendour#offender_n)
+@@ -2233 +2233 @@
+-and)
++and#and_conj1)
+@@ -2236 +2236 @@
+-offendours)))
++offendours#offender_n)))
+@@ -2239 +2239 @@
+-therin))
++therin#therein_adv))
+@@ -2242 +2242 @@
+-being)
++being#be_v)
+@@ -2245 +2245 @@
+-therof))
++therof#thereof_adv))
+@@ -2248 +2248 @@
+-laufully))
++laufully#lawfully_adv))
+@@ -2250 +2250 @@
+-attayntid)))
++attayntid#attaint_v)))
+@@ -2252 +2252 @@
+-shal@)
++shal@#shall_v)
+@@ -2255 +2255 @@
+-@have)
++@have#have_v)
+@@ -2257 +2257 @@
+-and)
++and#and_conj1)
+@@ -2259 +2259 @@
+-suffre))
++suffre#suffer_v))
+@@ -2262 +2262 @@
+-suche)
++suche#such_adj)
+@@ -2264 +2264 @@
+-paynes)
++paynes#pain_n1)
+@@ -2267 +2267 @@
+-of)
++of#of_prep)
+@@ -2270 +2270 @@
+-death)))))
++death#death_n)))))
+@@ -2273 +2273 @@
+-and)
++and#and_conj1)
+@@ -2278 +2278 @@
+-shall)
++shall#shall_v)
+@@ -2281 +2281 @@
+-lose)
++lose#lose_v1)
+@@ -2283 +2283 @@
+-and)
++and#and_conj1)
+@@ -2285 +2285 @@
+-forfaicte))
++forfaicte#forfeit_v))
+@@ -2288 +2288 @@
+-their)
++their#their_adj)
+@@ -2290 +2290 @@
+-goodis)
++goodis#good_adj)
+@@ -2293 +2293 @@
+-and)
++and#and_conj1)
+@@ -2296 +2296 @@
+-cattall~)))
++cattall~#cattle_n)))
+@@ -2298 +2298 @@
+-landis)
++landis#land_n1)
+@@ -2300 +2300 @@
+-and)
++and#and_conj1)
+@@ -2302 +2302 @@
+-tenementis))
++tenementis#tenement_n))
+@@ -2305 +2305 @@
+-as)
++as#as_adv)
+@@ -2308 +2308 @@
+-in)
++in#in_prep)
+@@ -2311 +2311 @@
+-caces)
++caces#case_n1)
+@@ -2314 +2314 @@
+-of)
++of#of_prep)
+@@ -2317 +2317 @@
+-felony)))))
++felony#felony_n1)))))
+@@ -2320 +2320 @@
+-by)
++by#by_prep)
+@@ -2323 +2323 @@
+-the)
++the#the_adj)
+@@ -2325 +2325 @@
+-course)
++course#course_n1)
+@@ -2328 +2328 @@
+-of)
++of#of_prep)
+@@ -2331 +2331 @@
+-the)
++the#the_adj)
+@@ -2333 +2333 @@
+-co~mon)
++co~mon#common_adj)
+@@ -2335 +2335 @@
+-lawes)
++lawes#law_n1)
+@@ -2338 +2338 @@
+-of)
++of#of_prep)
+@@ -2341 +2341 @@
+-this)
++this#this_pron)
+@@ -2343 +2343 @@
+-realme)))))))))))))))
++realme#realm_n)))))))))))))))
+@@ -2351 +2351 @@
+-Provided)
++Provided#provide_v)
+@@ -2354 +2354 @@
+-alway))
++alway#alway_adv))
+@@ -2357 +2357 @@
+-and)
++and#and_conj1)
+@@ -2359 +2359 @@
+-be)
++be#be_v)
+@@ -2362 +2362 @@
+-it))
++it#it_pron))
+@@ -2364 +2364 @@
+-enactid)
++enactid#enact_v)
+@@ -2367 +2367 @@
+-by)
++by#by_prep)
+@@ -2370 +2370 @@
+-th@)
++th@#the_adj)
+@@ -2372 +2372 @@
+-@auctoritie)
++@auctoritie#authority_n)
+@@ -2375 +2375 @@
+-aforesaid)))))
++aforesaid#aforesaid_adj)))))
+@@ -2380 +2380 @@
+-that)
++that#that_conj)
+@@ -2384 +2384 @@
+-no)
++no#no_adj)
+@@ -2386 +2386 @@
+-maner)
++maner#manner_n)
+@@ -2389 +2389 @@
+-of)
++of#of_prep)
+@@ -2392 +2392 @@
+-p~sonne)
++p~sonne#person_n)
+@@ -2394 +2394 @@
+-or)
++or#or_conj2)
+@@ -2396 +2396 @@
+-p~sonnes)))
++p~sonnes#person_n)))
+@@ -2400 +2400 @@
+-shal)
++shal#shall_v)
+@@ -2403 +2403 @@
+-herafter))
++herafter#hereafter_adv))
+@@ -2405 +2405 @@
+-be)
++be#be_v)
+@@ -2408 +2408 @@
+-made)
++made#make_v1)
+@@ -2410 +2410 @@
+-demed)
++demed#deem_v)
+@@ -2412 +2412 @@
+-or)
++or#or_conj2)
+@@ -2414 +2414 @@
+-taken))
++taken#take_v))
+@@ -2417 +2417 @@
+-by)
++by#by_prep)
+@@ -2420 +2420 @@
+-any)
++any#any_adj)
+@@ -2422 +2422 @@
+-maner)
++maner#manner_n)
+@@ -2425 +2425 @@
+-of)
++of#of_prep)
+@@ -2428 +2428 @@
+-meane)))))
++meane#mean_n2)))))
+@@ -2431 +2431 @@
+-as)
++as#as_adv)
+@@ -2434 +2434 @@
+-accessory)
++accessory#accessory_n)
+@@ -2436 +2436 @@
+-or)
++or#or_conj2)
+@@ -2438 +2438 @@
+-accessories)
++accessories#accessory_n)
+@@ -2441 +2441 @@
+-to)
++to#to_prep)
+@@ -2444 +2444 @@
+-any)
++any#any_adj)
+@@ -2446 +2446 @@
+-offendour)
++offendour#offender_n)
+@@ -2449 +2449 @@
+-or)
++or#or_conj2)
+@@ -2452 +2452 @@
+-offendours)))))
++offendours#offender_n)))))
+@@ -2455 +2455 @@
+-in)
++in#in_prep)
+@@ -2458 +2458 @@
+-any)
++any#any_adj)
+@@ -2460 +2460 @@
+-thing)
++thing#thing_n1)
+@@ -2464 +2464 @@
+-above))
++above#above_adv))
+@@ -2466 +2466 @@
+-written))))))
++written#write_v))))))
+@@ -2471 +2471 @@
+-but)
++but#but_prep)
+@@ -2474 +2474 @@
+-only)
++only#only_adj)
+@@ -2476 +2476 @@
+-suche)
++suche#such_adj)
+@@ -2478 +2478 @@
+-p~sonne)
++p~sonne#person_n)
+@@ -2481 +2481 @@
+-or)
++or#or_conj2)
+@@ -2484 +2484 @@
+-p~sonnes))))
++p~sonnes#person_n))))
+@@ -2487 +2487 @@
+-as)
++as#as_adv)
+@@ -2497 +2497 @@
+-shal)
++shal#shall_v)
+@@ -2500 +2500 @@
+-herafter))
++herafter#hereafter_adv))
+@@ -2505 +2505 @@
+-abbette)
++abbette#abet_v)
+@@ -2507 +2507 @@
+-or)
++or#or_conj2)
+@@ -2509 +2509 @@
+-procure))
++procure#procure_v))
+@@ -2512 +2512 @@
+-any)
++any#any_adj)
+@@ -2514 +2514 @@
+-p~sonne)
++p~sonne#person_n)
+@@ -2517 +2517 @@
+-or)
++or#or_conj2)
+@@ -2520 +2520 @@
+-p~sonnes))))
++p~sonnes#person_n))))
+@@ -2523 +2523 @@
+-to)
++to#to_prep)
+@@ -2526 +2526 @@
+-comitt)
++comitt#commit_v)
+@@ -2528 +2528 @@
+-or)
++or#or_conj2)
+@@ -2530 +2530 @@
+-doo))
++doo#do_v))
+@@ -2533 +2533 @@
+-any)
++any#any_adj)
+@@ -2536 +2536 @@
+-of)
++of#of_prep)
+@@ -2539 +2539 @@
+-the)
++the#the_adj)
+@@ -2541 +2541 @@
+-offences)
++offences#offence_n)
+@@ -2545 +2545 @@
+-above))
++above#above_adv))
+@@ -2547 +2547 @@
+-written)))))
++written#write_v)))))
+@@ -2550 +2550 @@
+-contrary)
++contrary#contrary_adj)
+@@ -2553 +2553 @@
+-to)
++to#to_prep)
+@@ -2556 +2556 @@
+-this)
++this#this_pron)
+@@ -2558 +2558 @@
+-said)
++said#said_adj)
+@@ -2560 +2560 @@
+-acte)))))))))))
++acte#act_n)))))))))))
+@@ -2566 +2566 @@
+-which)
++which#which_adj)
+@@ -2568 +2568 @@
+-p~sone)
++p~sone#person_n)
+@@ -2571 +2571 @@
+-and)
++and#and_conj1)
+@@ -2574 +2574 @@
+-p~sonnes)))
++p~sonnes#person_n)))
+@@ -2578 +2578 @@
+-so))
++so#so_adv))
+@@ -2581 +2581 @@
+-abetting)
++abetting#abet_v)
+@@ -2583 +2583 @@
+-or)
++or#or_conj2)
+@@ -2585 +2585 @@
+-procuring))))
++procuring#procure_v))))
+@@ -2592 +2592 @@
+-shall)
++shall#shall_v)
+@@ -2595 +2595 @@
+-after)
++after#after_adv)
+@@ -2599 +2599 @@
+-such)
++such#such_adj)
+@@ -2601 +2601 @@
+-offence))
++offence#offence_n))
+@@ -2603 +2603 @@
+-doon)))
++doon#do_v)))
+@@ -2606 +2606 @@
+-by)
++by#by_prep)
+@@ -2609 +2609 @@
+-auctoritie)
++auctoritie#authority_n)
+@@ -2612 +2612 @@
+-of)
++of#of_prep)
+@@ -2615 +2615 @@
+-this)
++this#this_pron)
+@@ -2617 +2617 @@
+-acte)))))
++acte#act_n)))))
+@@ -2619 +2619 @@
+-be)
++be#be_v)
+@@ -2622 +2622 @@
+-adjudged)
++adjudged#adjudge_v)
+@@ -2624 +2624 @@
+-demed)
++demed#deem_v)
+@@ -2626 +2626 @@
+-and)
++and#and_conj1)
+@@ -2628 +2628 @@
+-taken))
++taken#take_v))
+@@ -2631 +2631 @@
+-as)
++as#as_adv)
+@@ -2634 +2634 @@
+-accessory)
++accessory#accessory_n)
+@@ -2636 +2636 @@
+-or)
++or#or_conj2)
+@@ -2638 +2638 @@
+-accessories)))
++accessories#accessory_n)))
+@@ -2641 +2641 @@
+-in)
++in#in_prep)
+@@ -2644 +2644 @@
+-like)
++like#like_adj)
+@@ -2646 +2646 @@
+-maner)
++maner#manner_n)
+@@ -2649 +2649 @@
+-as)
++as#as_adv)
+@@ -2652 +2652 @@
+-in)
++in#in_prep)
+@@ -2655 +2655 @@
+-caces)
++caces#case_n1)
+@@ -2658 +2658 @@
+-of)
++of#of_prep)
+@@ -2661 +2661 @@
+-felony))))))))
++felony#felony_n1))))))))
+@@ -2664 +2664 @@
+-at)
++at#at_prep)
+@@ -2667 +2667 @@
+-the)
++the#the_adj)
+@@ -2669 +2669 @@
+-co~mon)
++co~mon#common_adj)
+@@ -2671 +2671 @@
+-lawe)))))
++lawe#law_n1)))))
+@@ -2679 +2679 @@
+-Provided)
++Provided#provide_v)
+@@ -2682 +2682 @@
+-alway))
++alway#alway_adv))
+@@ -2685 +2685 @@
+-that)
++that#that_conj)
+@@ -2689 +2689 @@
+-any)
++any#any_adj)
+@@ -2691 +2691 @@
+-wourde)
++wourde#word_n)
+@@ -2695 +2695 @@
+-article)))
++article#article_n)))
+@@ -2699 +2699 @@
+-clause)))
++clause#clause_n)))
+@@ -2703 +2703 @@
+-sentence)))
++sentence#sentence_n)))
+@@ -2707 +2707 @@
+-forfaiture)))
++forfaiture#forfeiture_n)))
+@@ -2711 +2711 @@
+-payne)))
++payne#pain_n1)))
+@@ -2714 +2714 @@
+-or)
++or#or_conj2)
+@@ -2717 +2717 @@
+-punyshment)))
++punyshment#punishment_n)))
+@@ -2720 +2720 @@
+-in)
++in#in_prep)
+@@ -2723 +2723 @@
+-the)
++the#the_adj)
+@@ -2725 +2725 @@
+-actes)
++actes#act_n)
+@@ -2729 +2729 @@
+-above))
++above#above_adv))
+@@ -2731 +2731 @@
+-written))))
++written#write_v))))
+@@ -2734 +2734 @@
+-declarid)))
++declarid#declare_v)))
+@@ -2738 +2738 @@
+-shall)
++shall#shall_v)
+@@ -2740 +2740 @@
+-not)
++not#not_adv)
+@@ -2743 +2743 @@
+-in)
++in#in_prep)
+@@ -2746 +2746 @@
+-any)
++any#any_adj)
+@@ -2748 +2748 @@
+-wise)))
++wise#wise_n1)))
+@@ -2750 +2750 @@
+-extend)
++extend#extend_v)
+@@ -2753 +2753 @@
+-to)
++to#to_prep)
+@@ -2756 +2756 @@
+-any)
++any#any_adj)
+@@ -2758 +2758 @@
+-p~sone)
++p~sone#person_n)
+@@ -2761 +2761 @@
+-or)
++or#or_conj2)
+@@ -2764 +2764 @@
+-p~sones)))
++p~sones#person_n)))
+@@ -2769 +2769 @@
+-that)
++that#that_conj)
+@@ -2774 +2774 @@
+-shall)
++shall#shall_v)
+@@ -2777 +2777 @@
+-hunt)
++hunt#hunt_v)
+@@ -2779 +2779 @@
+-take)
++take#take_v)
+@@ -2781 +2781 @@
+-kill)
++kill#kill_v)
+@@ -2783 +2783 @@
+-or)
++or#or_conj2)
+@@ -2785 +2785 @@
+-slee))
++slee#slay_v1))
+@@ -2788 +2788 @@
+-any)
++any#any_adj)
+@@ -2790 +2790 @@
+-conyes)
++conyes#cony_n)
+@@ -2793 +2793 @@
+-or)
++or#or_conj2)
+@@ -2796 +2796 @@
+-rabbettis))))
++rabbettis#rabbit_n1))))
+@@ -2800 +2800 @@
+-by)
++by#by_prep)
+@@ -2803 +2803 @@
+-day)))
++day#day_n)))
+@@ -2806 +2806 @@
+-or)
++or#or_conj2)
+@@ -2809 +2809 @@
+-by)
++by#by_prep)
+@@ -2812 +2812 @@
+-night)))))
++night#night_n)))))
+@@ -2815 +2815 @@
+-contrary)
++contrary#contrary_adj)
+@@ -2818 +2818 @@
+-to)
++to#to_prep)
+@@ -2821 +2821 @@
+-this)
++this#this_pron)
+@@ -2823 +2823 @@
+-acte))))
++acte#act_n))))
+@@ -2826 +2826 @@
+-in)
++in#in_prep)
+@@ -2829 +2829 @@
+-any)
++any#any_adj)
+@@ -2831 +2831 @@
+-chaces)
++chaces#chase_n1)
+@@ -2835 +2835 @@
+-forrestis)))
++forrestis#forest_n)))
+@@ -2838 +2838 @@
+-or)
++or#or_conj2)
+@@ -2841 +2841 @@
+-warrennes)))
++warrennes#warren_n)))
+@@ -2845 +2845 @@
+-of)
++of#of_prep)
+@@ -2850 +2850 @@
+-the)
++the#the_adj)
+@@ -2852 +2852 @@
+-Kinges))
++Kinges#king_n))
+@@ -2856 +2856 @@
+-the)
++the#the_adj)
+@@ -2858 +2858 @@
+-Quenys)))
++Quenys#queen_n)))
+@@ -2862 +2862 @@
+-the)
++the#the_adj)
+@@ -2864 +2864 @@
+-Princes))))))
++Princes#prince_n))))))
+@@ -2867 +2867 @@
+-or)
++or#or_conj2)
+@@ -2870 +2870 @@
+-of)
++of#of_prep)
+@@ -2873 +2873 @@
+-any)
++any#any_adj)
+@@ -2875 +2875 @@
+-other)
++other#other_adj)
+@@ -2877 +2877 @@
+-p~sones)))))
++p~sones#person_n)))))
+@@ -2883 +2883 @@
+-set)
++set#set_v)
+@@ -2885 +2885 @@
+-lying)
++lying#lie_v1)
+@@ -2887 +2887 @@
+-and)
++and#and_conj1)
+@@ -2889 +2889 @@
+-being))
++being#be_v))
+@@ -2893 +2893 @@
+-within)
++within#within_adv)
+@@ -2897 +2897 @@
+-the)
++the#the_adj)
+@@ -2899 +2899 @@
+-Kinges))
++Kinges#king_n))
+@@ -2901 +2901 @@
+-dominion)
++dominion#dominion_n)
+@@ -2904 +2904 @@
+-of)
++of#of_prep)
+@@ -2907 +2907 @@
+-Wales)))))
++Wales#NA)))))
+@@ -2910 +2910 @@
+-or)
++or#or_conj2)
+@@ -2913 +2913 @@
+-in)
++in#in_prep)
+@@ -2916 +2916 @@
+-the)
++the#the_adj)
+@@ -2918 +2918 @@
+-borders)
++borders#border_n)
+@@ -2921 +2921 @@
+-against)
++against#against_prep)
+@@ -2924 +2924 @@
+-Scotland))))))))))))))
++Scotland#NA))))))))))))))
+@@ -2930 +2930 @@
+-The)
++The#the_adj)
+@@ -2932 +2932 @@
+-forrest)
++forrest#forest_n)
+@@ -2935 +2935 @@
+-of)
++of#of_prep)
+@@ -2938 +2938 @@
+-Snowden)))
++Snowden#NA)))
+@@ -2941 +2941 @@
+-in)
++in#in_prep)
+@@ -2944 +2944 @@
+-Wales)))
++Wales#NA)))
+@@ -2946 +2946 @@
+-only))
++only#only_adj))
+@@ -2948 +2948 @@
+-exceptid)
++exceptid#except_v)
+@@ -2954 +2954 @@
+-any)
++any#any_adj)
+@@ -2956 +2956 @@
+-thing)
++thing#thing_n1)
+@@ -2960 +2960 @@
+-above))
++above#above_adv))
+@@ -2962 +2962 @@
+-written)))
++written#write_v)))
+@@ -2965 +2965 @@
+-notwithstanding))))))
++notwithstanding#notwithstanding_prep))))))
+@@ -2973 +2973 @@
+-Provided)
++Provided#provide_v)
+@@ -2975 +2975 @@
+-also)
++also#also_adv)
+@@ -2978 +2978 @@
+-and)
++and#and_conj1)
+@@ -2980 +2980 @@
+-be)
++be#be_v)
+@@ -2983 +2983 @@
+-it))
++it#it_pron))
+@@ -2985 +2985 @@
+-enactid))
++enactid#enact_v))
+@@ -2988 +2988 @@
+-that)
++that#that_conj)
+@@ -2993 +2993 @@
+-this)
++this#this_pron)
+@@ -2995 +2995 @@
+-acte))
++acte#act_n))
+@@ -2998 +2998 @@
+-or)
++or#or_conj2)
+@@ -3001 +3001 @@
+-any)
++any#any_adj)
+@@ -3003 +3003 @@
+-thing)
++thing#thing_n1)
+@@ -3007 +3007 @@
+-therin))
++therin#therein_adv))
+@@ -3009 +3009 @@
+-conteynid)))))
++conteynid#contain_v)))))
+@@ -3011 +3011 @@
+-extend)
++extend#extend_v)
+@@ -3013 +3013 @@
+-not)
++not#not_adv)
+@@ -3016 +3016 @@
+-to)
++to#to_prep)
+@@ -3019 +3019 @@
+-any)
++any#any_adj)
+@@ -3021 +3021 @@
+-p~sone)
++p~sone#person_n)
+@@ -3024 +3024 @@
+-or)
++or#or_conj2)
+@@ -3027 +3027 @@
+-p~sonnes)))
++p~sonnes#person_n)))
+@@ -3031 +3031 @@
+-which))
++which#which_adj))
+@@ -3038 +3038 @@
+-shall)
++shall#shall_v)
+@@ -3040 +3040 @@
+-not)
++not#not_adv)
+@@ -3042 +3042 @@
+-be)
++be#be_v)
+@@ -3045 +3045 @@
+-laufully))
++laufully#lawfully_adv))
+@@ -3048 +3048 @@
+-inditid)
++inditid#indict_v1)
+@@ -3050 +3050 @@
+-or)
++or#or_conj2)
+@@ -3052 +3052 @@
+-appeled))
++appeled#appeal_v))
+@@ -3055 +3055 @@
+-of)
++of#of_prep)
+@@ -3058 +3058 @@
+-any)
++any#any_adj)
+@@ -3061 +3061 @@
+-of)
++of#of_prep)
+@@ -3064 +3064 @@
+-th@)
++th@#the_adj)
+@@ -3066 +3066 @@
+-@offences)
++@offences#offence_n)
+@@ -3070 +3070 @@
+-above))
++above#above_adv))
+@@ -3072 +3072 @@
+-written))))))
++written#write_v))))))
+@@ -3075 +3075 @@
+-within)
++within#within_adv)
+@@ -3078 +3078 @@
+-one)
++one#one_adj)
+@@ -3080 +3080 @@
+-yere)
++yere#year_n)
+@@ -3083 +3083 @@
+-after)
++after#after_adv)
+@@ -3087 +3087 @@
+-any)
++any#any_adj)
+@@ -3089 +3089 @@
+-suche)
++suche#such_adj)
+@@ -3091 +3091 @@
+-offence))
++offence#offence_n))
+@@ -3094 +3094 @@
+-co~mittid)
++co~mittid#commit_v)
+@@ -3096 +3096 @@
+-or)
++or#or_conj2)
+@@ -3098 +3098 @@
+-doon))))))))))
++doon#do_v))))))))))
+@@ -3105 +3105 @@
+-this)
++this#this_pron)
+@@ -3107 +3107 @@
+-acte))
++acte#act_n))
+@@ -3110 +3110 @@
+-or)
++or#or_conj2)
+@@ -3113 +3113 @@
+-any)
++any#any_adj)
+@@ -3115 +3115 @@
+-thing)
++thing#thing_n1)
+@@ -3119 +3119 @@
+-therin))
++therin#therein_adv))
+@@ -3121 +3121 @@
+-conteyned))
++conteyned#contain_v))
+@@ -3124 +3124 @@
+-to)
++to#to_prep)
+@@ -3127 +3127 @@
+-the)
++the#the_adj)
+@@ -3129 +3129 @@
+-contrary))))))
++contrary#contrary_adj))))))
+@@ -3132 +3132 @@
+-notwithstanding)))))
++notwithstanding#notwithstanding_prep)))))
+@@ -3140 +3140 @@
+-Provided)
++Provided#provide_v)
+@@ -3143 +3143 @@
+-alway))
++alway#alway_adv))
+@@ -3146 +3146 @@
+-that)
++that#that_conj)
+@@ -3151 +3151 @@
+-this)
++this#this_pron)
+@@ -3153 +3153 @@
+-acte))
++acte#act_n))
+@@ -3156 +3156 @@
+-or)
++or#or_conj2)
+@@ -3159 +3159 @@
+-any)
++any#any_adj)
+@@ -3161 +3161 @@
+-thing)
++thing#thing_n1)
+@@ -3165 +3165 @@
+-therin))
++therin#therein_adv))
+@@ -3167 +3167 @@
+-conteynid)))))
++conteynid#contain_v)))))
+@@ -3169 +3169 @@
+-extend)
++extend#extend_v)
+@@ -3171 +3171 @@
+-not)
++not#not_adv)
+@@ -3175 +3175 @@
+-to)
++to#to_prep)
+@@ -3178 +3178 @@
+-any)
++any#any_adj)
+@@ -3180 +3180 @@
+-parke)
++parke#park_n)
+@@ -3183 +3183 @@
+-or)
++or#or_conj2)
+@@ -3186 +3186 @@
+-inclosed)
++inclosed#enclosed_adj)
+@@ -3188 +3188 @@
+-grounde)))
++grounde#ground_n)))
+@@ -3191 +3191 @@
+-usid)
++usid#use_v)
+@@ -3194 +3194 @@
+-for)
++for#for_prep)
+@@ -3197 +3197 @@
+-Deere))))
++Deere#deer_n))))
+@@ -3204 +3204 @@
+-heretofore))
++heretofore#heretofore_adv))
+@@ -3207 +3207 @@
+-had)
++had#have_v)
+@@ -3209 +3209 @@
+-or)
++or#or_conj2)
+@@ -3211 +3211 @@
+-made))
++made#make_v1))
+@@ -3214 +3214 @@
+-without)
++without#without_adv)
+@@ -3217 +3217 @@
+-the)
++the#the_adj)
+@@ -3219 +3219 @@
+-graunt)
++graunt#grant_n1)
+@@ -3222 +3222 @@
+-or)
++or#or_conj2)
+@@ -3225 +3225 @@
+-lycence)))
++lycence#licence_n)))
+@@ -3229 +3229 @@
+-of)
++of#of_prep)
+@@ -3232 +3232 @@
+-our)
++our#our_pron)
+@@ -3234 +3234 @@
+-Souveraine)
++Souveraine#sovereign_n)
+@@ -3236 +3236 @@
+-Lorde)
++Lorde#lord_n)
+@@ -3239 +3239 @@
+-the)
++the#the_adj)
+@@ -3241 +3241 @@
+-King))))
++King#king_n))))
+@@ -3244 +3244 @@
+-or)
++or#or_conj2)
+@@ -3247 +3247 @@
+-of)
++of#of_prep)
+@@ -3250 +3250 @@
+-any)
++any#any_adj)
+@@ -3253 +3253 @@
+-of)
++of#of_prep)
+@@ -3256 +3256 @@
+-his)
++his#his_adj)
+@@ -3258 +3258 @@
+-noble)
++noble#noble_adj)
+@@ -3260 +3260 @@
+-progenitours))))))))))
++progenitours#progenitor_n))))))))))
+@@ -3265 +3265 @@
+-or)
++or#or_conj2)
+@@ -3269 +3269 @@
+-otherwise))
++otherwise#otherwise_n))
+@@ -3271 +3271 @@
+-not)
++not#not_adv)
+@@ -3274 +3274 @@
+-allowed)
++allowed#allow_v)
+@@ -3276 +3276 @@
+-or)
++or#or_conj2)
+@@ -3278 +3278 @@
+-approved))
++approved#approve_v1))
+@@ -3281 +3281 @@
+-of)
++of#of_prep)
+@@ -3284 +3284 @@
+-recorde))))))))
++recorde#record_n))))))))
+@@ -3289 +3289 @@
+-nor)
++nor#nor_conj1)
+@@ -3292 +3292 @@
+-to)
++to#to_prep)
+@@ -3295 +3295 @@
+-any)
++any#any_adj)
+@@ -3297 +3297 @@
+-groundis)
++groundis#ground_n)
+@@ -3306 +3306 @@
+-herafter))
++herafter#hereafter_adv))
+@@ -3308 +3308 @@
+-to)
++to#to_prep)
+@@ -3310 +3310 @@
+-be)
++be#be_v)
+@@ -3313 +3313 @@
+-imparkid)
++imparkid#impark_v)
+@@ -3315 +3315 @@
+-or)
++or#or_conj2)
+@@ -3317 +3317 @@
+-inclosid))
++inclosid#enclose_v))
+@@ -3320 +3320 @@
+-for)
++for#for_prep)
+@@ -3323 +3323 @@
+-Deere)))
++Deere#deer_n)))
+@@ -3326 +3326 @@
+-by)
++by#by_prep)
+@@ -3329 +3329 @@
+-any)
++any#any_adj)
+@@ -3332 +3332 @@
+-of)
++of#of_prep)
+@@ -3336 +3336 @@
+-the)
++the#the_adj)
+@@ -3338 +3338 @@
+-Kinges))
++Kinges#king_n))
+@@ -3340 +3340 @@
+-subjectis))))))))))
++subjectis#subject_n))))))))))
+@@ -3345 +3345 @@
+-nor)
++nor#nor_conj1)
+@@ -3348 +3348 @@
+-to)
++to#to_prep)
+@@ -3351 +3351 @@
+-any)
++any#any_adj)
+@@ -3353 +3353 @@
+-groundes)
++groundes#ground_n)
+@@ -3356 +3356 @@
+-not)
++not#not_adv)
+@@ -3359 +3359 @@
+-nowe))
++nowe#now_adv))
+@@ -3361 +3361 @@
+-usid)
++usid#use_v)
+@@ -3364 +3364 @@
+-as)
++as#as_adv)
+@@ -3367 +3367 @@
+-a)
++a#a_adj2)
+@@ -3369 +3369 @@
+-warren)
++warren#warren_n)
+@@ -3373 +3373 @@
+-for)
++for#for_prep)
+@@ -3375 +3375 @@
+-or)
++or#or_conj2)
+@@ -3377 +3377 @@
+-of))
++of#of_prep))
+@@ -3380 +3380 @@
+-any)
++any#any_adj)
+@@ -3382 +3382 @@
+-conyes))
++conyes#cony_n))
+@@ -3385 +3385 @@
+-at)
++at#at_prep)
+@@ -3388 +3388 @@
+-this)
++this#this_pron)
+@@ -3390 +3390 @@
+-p~sent)
++p~sent#present_adj)
+@@ -3392 +3392 @@
+-tyme))))))))))
++tyme#time_n))))))))))
+@@ -3397 +3397 @@
+-nor)
++nor#nor_conj1)
+@@ -3400 +3400 @@
+-to)
++to#to_prep)
+@@ -3403 +3403 @@
+-anny)
++anny#any_adj)
+@@ -3405 +3405 @@
+-p~sone)
++p~sone#person_n)
+@@ -3408 +3408 @@
+-or)
++or#or_conj2)
+@@ -3411 +3411 @@
+-p~sonnes)))
++p~sonnes#person_n)))
+@@ -3414 +3414 @@
+-being)
++being#be_v)
+@@ -3418 +3418 @@
+-freeholder))
++freeholder#freeholder_n))
+@@ -3422 +3422 @@
+-copiholder)))
++copiholder#copyholder_n1)))
+@@ -3426 +3426 @@
+-lessee))
++lessee#lessee_n))
+@@ -3430 +3430 @@
+-for)
++for#for_prep)
+@@ -3433 +3433 @@
+-terme)
++terme#term_n)
+@@ -3436 +3436 @@
+-of)
++of#of_prep)
+@@ -3439 +3439 @@
+-yeris)))))
++yeris#year_n)))))
+@@ -3443 +3443 @@
+-for)
++for#for_prep)
+@@ -3447 +3447 @@
+-terme)
++terme#term_n)
+@@ -3450 +3450 @@
+-of)
++of#of_prep)
+@@ -3453 +3453 @@
+-lif))))
++lif#life_n))))
+@@ -3456 +3456 @@
+-or)
++or#or_conj2)
+@@ -3459 +3459 @@
+-any)
++any#any_adj)
+@@ -3461 +3461 @@
+-astate)
++astate#estate_n)
+@@ -3464 +3464 @@
+-of)
++of#of_prep)
+@@ -3467 +3467 @@
+-inheritaunce))))))))))))))))
++inheritaunce#inheritance_n))))))))))))))))
+@@ -3472 +3472 @@
+-for)
++for#for_prep)
+@@ -3475 +3475 @@
+-or)
++or#or_conj2)
+@@ -3478 +3478 @@
+-in)
++in#in_prep)
+@@ -3481 +3481 @@
+-any)
++any#any_adj)
+@@ -3483 +3483 @@
+-wise)))
++wise#wise_n1)))
+@@ -3486 +3486 @@
+-concerning)))
++concerning#concerning_prep)))
+@@ -3489 +3489 @@
+-taking)
++taking#taking_n)
+@@ -3491 +3491 @@
+-killing)
++killing#killing_n)
+@@ -3493 +3493 @@
+-or)
++or#or_conj2)
+@@ -3495 +3495 @@
+-sleying)
++sleying#slaying_n1)
+@@ -3498 +3498 @@
+-by)
++by#by_prep)
+@@ -3501 +3501 @@
+-any)
++any#any_adj)
+@@ -3503 +3503 @@
+-maner)
++maner#manner_n)
+@@ -3506 +3506 @@
+-or)
++or#or_conj2)
+@@ -3511 +3511 @@
+-meane)))))
++meane#mean_n2)))))
+@@ -3514 +3514 @@
+-of)
++of#of_prep)
+@@ -3517 +3517 @@
+-any)
++any#any_adj)
+@@ -3519 +3519 @@
+-conyes)
++conyes#cony_n)
+@@ -3522 +3522 @@
+-or)
++or#or_conj2)
+@@ -3525 +3525 @@
+-rabettis)))))
++rabettis#rabbit_n1)))))
+@@ -3530 +3530 @@
+-in)
++in#in_prep)
+@@ -3532 +3532 @@
+-or)
++or#or_conj2)
+@@ -3534 +3534 @@
+-uppon))
++uppon#upon_prep))
+@@ -3537 +3537 @@
+-any)
++any#any_adj)
+@@ -3539 +3539 @@
+-bury)
++bury#bury_n)
+@@ -3542 +3542 @@
+-within)
++within#within_adv)
+@@ -3545 +3545 @@
+-his)
++his#his_adj)
+@@ -3547 +3547 @@
+-awne)
++awne#own_adj)
+@@ -3549 +3549 @@
+-grounde)
++grounde#ground_n)
+@@ -3552 +3552 @@
+-or)
++or#or_conj2)
+@@ -3555 +3555 @@
+-soyle)))))))
++soyle#soil_n1)))))))
+@@ -3560 +3560 @@
+-or)
++or#or_conj2)
+@@ -3563 +3563 @@
+-elliswhere)
++elliswhere#elsewhere_adv)
+@@ -3566 +3566 @@
+-within)
++within#within_adv)
+@@ -3569 +3569 @@
+-the)
++the#the_adj)
+@@ -3571 +3571 @@
+-same)
++same#same_adj)
+@@ -3573 +3573 @@
+-his)
++his#his_adj)
+@@ -3575 +3575 @@
+-ground)
++ground#ground_n)
+@@ -3578 +3578 @@
+-or)
++or#or_conj2)
+@@ -3581 +3581 @@
+-soyle)))))
++soyle#soil_n1)))))
+@@ -3586 +3586 @@
+-being)
++being#be_v)
+@@ -3589 +3589 @@
+-no)
++no#no_adj)
+@@ -3591 +3591 @@
+-burye))))))
++burye#bury_n))))))
+@@ -3596 +3596 @@
+-with)
++with#with_prep)
+@@ -3599 +3599 @@
+-bowe)
++bowe#bow_n1)
+@@ -3602 +3602 @@
+-arrowe))
++arrowe#arrow_n))
+@@ -3605 +3605 @@
+-firrett))
++firrett#ferret_n1))
+@@ -3608 +3608 @@
+-or)
++or#or_conj2)
+@@ -3610 +3610 @@
+-pursenette))))))))
++pursenette#purse-net_n))))))))
+@@ -3616 +3616 @@
+-any)
++any#any_adj)
+@@ -3618 +3618 @@
+-thinges)
++thinges#thing_n1)
+@@ -3622 +3622 @@
+-bifore))
++bifore#before_adv))
+@@ -3625 +3625 @@
+-in)
++in#in_prep)
+@@ -3628 +3628 @@
+-this)
++this#this_pron)
+@@ -3630 +3630 @@
+-acte)))
++acte#act_n)))
+@@ -3632 +3632 @@
+-conteynid))
++conteynid#contain_v))
+@@ -3635 +3635 @@
+-to)
++to#to_prep)
+@@ -3638 +3638 @@
+-the)
++the#the_adj)
+@@ -3640 +3640 @@
+-contrary)))
++contrary#contrary_adj)))
+@@ -3643 +3643 @@
+-in)
++in#in_prep)
+@@ -3646 +3646 @@
+-any)
++any#any_adj)
+@@ -3648 +3648 @@
+-wise))))
++wise#wise_n1))))
+@@ -3651 +3651 @@
+-notwithstanding)))
++notwithstanding#notwithstanding_prep)))
+@@ -3665 +3665 @@
+-CHAPTER)
++CHAPTER#chapter_n)
+@@ -3667 +3667 @@
+-XVIII)
++XVIII#eighteen_adj)
+@@ -3675 +3675 @@
+-An)
++An#a_adj2)
+@@ -3677 +3677 @@
+-Acte)
++Acte#act_n)
+@@ -3680 +3680 @@
+-for)
++for#for_prep)
+@@ -3683 +3683 @@
+-true)
++true#true_adj)
+@@ -3685 +3685 @@
+-makinge)
++makinge#making_n1)
+@@ -3688 +3688 @@
+-of)
++of#of_prep)
+@@ -3691 +3691 @@
+-Kersies)))))
++Kersies#kersey_n)))))
+@@ -3704 +3704 @@
+-Where))
++Where#where_adv))
+@@ -3712 +3712 @@
+-at)
++at#at_prep)
+@@ -3715 +3715 @@
+-the)
++the#the_adj)
+@@ -3717 +3717 @@
+-Parliament)
++Parliament#parliament_n1)
+@@ -3721 +3721 @@
+-holden)
++holden#hold_v)
+@@ -3724 +3724 @@
+-at)
++at#at_prep)
+@@ -3727 +3727 @@
+-London)))
++London#NA)))
+@@ -3730 +3730 @@
+-in)
++in#in_prep)
+@@ -3733 +3733 @@
+-the)
++the#the_adj)
+@@ -3735 +3735 @@
+-thirde)
++thirde#third_adj)
+@@ -3737 +3737 @@
+-day)
++day#day_n)
+@@ -3740 +3740 @@
+-of)
++of#of_prep)
+@@ -3743 +3743 @@
+-November)))))
++November#NA)))))
+@@ -3746 +3746 @@
+-in)
++in#in_prep)
+@@ -3749 +3749 @@
+-the)
++the#the_adj)
+@@ -3751 +3751 @@
+-one_and_twentieth)
++one_and_twentieth#NA)
+@@ -3753 +3753 @@
+-yere)
++yere#year_n)
+@@ -3756 +3756 @@
+-of)
++of#of_prep)
+@@ -3760 +3760 @@
+-our)
++our#our_pron)
+@@ -3763 +3763 @@
+-moste)
++moste#most_adj)
+@@ -3765 +3765 @@
+-dread))
++dread#dread_adj))
+@@ -3767 +3767 @@
+-Soveraigne)
++Soveraigne#sovereign_n)
+@@ -3769 +3769 @@
+-Lorde)
++Lorde#lord_n)
+@@ -3772 +3772 @@
+-the)
++the#the_adj)
+@@ -3774 +3774 @@
+-Kinge@))
++Kinge@#king_n))
+@@ -3776 +3776 @@
+-@s)
++@s#NA)
+@@ -3781 +3781 @@
+-most)
++most#most_adj)
+@@ -3783 +3783 @@
+-gracious))
++gracious#gracious_adj))
+@@ -3785 +3785 @@
+-raigne)
++raigne#reign_n)
+@@ -3790 +3790 @@
+-that)
++that#that_conj)
+@@ -3796 +3796 @@
+-nowe))
++nowe#now_adv))
+@@ -3798 +3798 @@
+-ys))))))))
++ys#be_v))))))))
+@@ -3803 +3803 @@
+-and)
++and#and_conj1)
+@@ -3807 +3807 @@
+-from)
++from#from_prep)
+@@ -3810 +3810 @@
+-thence)))
++thence#thence_adv)))
+@@ -3812 +3812 @@
+-adjourned)
++adjourned#adjourn_v)
+@@ -3815 +3815 @@
+-to)
++to#to_prep)
+@@ -3818 +3818 @@
+-Westm~)))))
++Westm~#NA)))))
+@@ -3821 +3821 @@
+-and)
++and#and_conj1)
+@@ -3825 +3825 @@
+-there))
++there#there_adv))
+@@ -3827 +3827 @@
+-contynued)
++contynued#continue_v)
+@@ -3830 +3830 @@
+-by)
++by#by_prep)
+@@ -3833 +3833 @@
+-sundrie)
++sundrie#sundry_adj)
+@@ -3835 +3835 @@
+-progaco~ns)))
++progaco~ns#prorogation_n)))
+@@ -3838 +3838 @@
+-unto)
++unto#unto_prep)
+@@ -3841 +3841 @@
+-the)
++the#the_adj)
+@@ -3843 +3843 @@
+-fourth)
++fourth#NA)
+@@ -3845 +3845 @@
+-daye)
++daye#day_n)
+@@ -3848 +3848 @@
+-of)
++of#of_prep)
+@@ -3851 +3851 @@
+-Februarie)))
++Februarie#NA)))
+@@ -3854 +3854 @@
+-in)
++in#in_prep)
+@@ -3857 +3857 @@
+-the)
++the#the_adj)
+@@ -3859 +3859 @@
+-xxvij=th=)
++xxvij=th=#NA)
+@@ -3861 +3861 @@
+-yere)
++yere#year_n)
+@@ -3864 +3864 @@
+-of)
++of#of_prep)
+@@ -3868 +3868 @@
+-his)
++his#his_adj)
+@@ -3870 +3870 @@
+-Graces))
++Graces#grace_n))
+@@ -3872 +3872 @@
+-saide)
++saide#said_adj)
+@@ -3874 +3874 @@
+-raigne))))))))))))
++raigne#reign_n))))))))))))
+@@ -3879 +3879 @@
+-It))
++It#it_pron))
+@@ -3881 +3881 @@
+-was)
++was#be_v)
+@@ -3884 +3884 @@
+-ordeyned)
++ordeyned#ordain_v)
+@@ -3886 +3886 @@
+-and)
++and#and_conj1)
+@@ -3888 +3888 @@
+-enacted))
++enacted#enact_v))
+@@ -3893 +3893 @@
+-in)
++in#in_prep)
+@@ -3896 +3896 @@
+-the)
++the#the_adj)
+@@ -3898 +3898 @@
+-Session)
++Session#session_n)
+@@ -3901 +3901 @@
+-of)
++of#of_prep)
+@@ -3904 +3904 @@
+-the)
++the#the_adj)
+@@ -3906 +3906 @@
+-saide)
++saide#said_adj)
+@@ -3908 +3908 @@
+-Parliament)))))
++Parliament#parliament_n1)))))
+@@ -3911 +3911 @@
+-in)
++in#in_prep)
+@@ -3914 +3914 @@
+-the)
++the#the_adj)
+@@ -3916 +3916 @@
+-saide)
++saide#said_adj)
+@@ -3918 +3918 @@
+-seven_&_twentith)
++seven_&_twentith#NA)
+@@ -3920 +3920 @@
+-yere)))
++yere#year_n)))
+@@ -3923 +3923 @@
+-amongest)
++amongest#amongst_prep)
+@@ -3926 +3926 @@
+-other)
++other#other_adj)
+@@ -3928 +3928 @@
+-thing~)))
++thing~#thing_n1)))
+@@ -3934 +3934 @@
+-that)
++that#that_conj)
+@@ -3938 +3938 @@
+-after)
++after#after_adv)
+@@ -3941 +3941 @@
+-the)
++the#the_adj)
+@@ -3943 +3943 @@
+-Feast)
++Feast#feast_n)
+@@ -3946 +3946 @@
+-of)
++of#of_prep)
+@@ -3949 +3949 @@
+-Saincte)
++Saincte#NA)
+@@ -3951 +3951 @@
+-Michaell)
++Michaell#NA)
+@@ -3954 +3954 @@
+-th@)
++th@#the_adj)
+@@ -3956 +3956 @@
+-@archaungell))))
++@archaungell#archangel_n))))
+@@ -3960 +3960 @@
+-next))
++next#next_adj))
+@@ -3962 +3962 @@
+-ensuynge)
++ensuynge#ensue_v)
+@@ -3965 +3965 @@
+-after)
++after#after_adv)
+@@ -3968 +3968 @@
+-the)
++the#the_adj)
+@@ -3970 +3970 @@
+-makinge)
++makinge#making_n1)
+@@ -3973 +3973 @@
+-of)
++of#of_prep)
+@@ -3976 +3976 @@
+-the)
++the#the_adj)
+@@ -3978 +3978 @@
+-saide)
++saide#said_adj)
+@@ -3980 +3980 @@
+-acte))))))))
++acte#act_n))))))))
+@@ -3985 +3985 @@
+-everie)
++everie#every_adj)
+@@ -3987 +3987 @@
+-Clothier)
++Clothier#clothier_n)
+@@ -3990 +3990 @@
+-within)
++within#within_adv)
+@@ -3993 +3993 @@
+-this)
++this#this_pron)
+@@ -3995 +3995 @@
+-Realme))))
++Realme#realm_n))))
+@@ -3997 +3997 @@
+-sholde)
++sholde#shall_v)
+@@ -3999 +3999 @@
+-sett)
++sett#set_v)
+@@ -4002 +4002 @@
+-his)
++his#his_adj)
+@@ -4004 +4004 @@
+-seale)
++seale#seal_n2)
+@@ -4007 +4007 @@
+-of)
++of#of_prep)
+@@ -4010 +4010 @@
+-lead))))
++lead#lead_n1))))
+@@ -4013 +4013 @@
+-unto)
++unto#unto_prep)
+@@ -4016 +4016 @@
+-everie)
++everie#every_adj)
+@@ -4018 +4018 @@
+-Clothe)
++Clothe#cloth_n)
+@@ -4021 +4021 @@
+-and)
++and#and_conj1)
+@@ -4024 +4024 @@
+-Kersey)))
++Kersey#kersey_n)))
+@@ -4029 +4029 @@
+-that)
++that#that_conj)
+@@ -4034 +4034 @@
+-shold)
++shold#shall_v)
+@@ -4036 +4036 @@
+-be)
++be#be_v)
+@@ -4039 +4039 @@
+-redy))
++redy#ready_adj))
+@@ -4042 +4042 @@
+-made)
++made#make_v1)
+@@ -4044 +4044 @@
+-and)
++and#and_conj1)
+@@ -4046 +4046 @@
+-dressed))
++dressed#dress_v))
+@@ -4049 +4049 @@
+-to)
++to#to_prep)
+@@ -4051 +4051 @@
+-be)
++be#be_v)
+@@ -4053 +4053 @@
+-put)
++put#put_v)
+@@ -4056 +4056 @@
+-to)
++to#to_prep)
+@@ -4059 +4059 @@
+-sale))))))))
++sale#sale_n2))))))))
+@@ -4065 +4065 @@
+-in)
++in#in_prep)
+@@ -4068 +4068 @@
+-whiche)
++whiche#which_adj)
+@@ -4070 +4070 @@
+-seale)
++seale#seal_n2)
+@@ -4073 +4073 @@
+-of)
++of#of_prep)
+@@ -4076 +4076 @@
+-lead)))))
++lead#lead_n1)))))
+@@ -4083 +4083 @@
+-sholde)
++sholde#shall_v)
+@@ -4085 +4085 @@
+-be)
++be#be_v)
+@@ -4087 +4087 @@
+-conteyned)
++conteyned#contain_v)
+@@ -4090 +4090 @@
+-the)
++the#the_adj)
+@@ -4093 +4093 @@
+-true)
++true#true_adj)
+@@ -4095 +4095 @@
+-and)
++and#and_conj1)
+@@ -4097 +4097 @@
+-juste))
++juste#just_adj))
+@@ -4099 +4099 @@
+-content)
++content#content_n1)
+@@ -4102 +4102 @@
+-of)
++of#of_prep)
+@@ -4105 +4105 @@
+-the)
++the#the_adj)
+@@ -4107 +4107 @@
+-lenghe)
++lenghe#lengh_n)
+@@ -4110 +4110 @@
+-of)
++of#of_prep)
+@@ -4113 +4113 @@
+-everie)
++everie#every_adj)
+@@ -4116 +4116 @@
+-of)
++of#of_prep)
+@@ -4119 +4119 @@
+-the)
++the#the_adj)
+@@ -4121 +4121 @@
+-same)
++same#same_adj)
+@@ -4123 +4123 @@
+-Clothes)
++Clothes#cloth_n)
+@@ -4126 +4126 @@
+-or)
++or#or_conj2)
+@@ -4129 +4129 @@
+-Kerseyes))))))))))
++Kerseyes#kersey_n))))))))))
+@@ -4132 +4132 @@
+-as)
++as#as_adv)
+@@ -4143 +4143 @@
+-it))
++it#it_pron))
+@@ -4145 +4145 @@
+-sholde)
++sholde#shall_v)
+@@ -4147 +4147 @@
+-be)
++be#be_v)
+@@ -4150 +4150 @@
+-duely))
++duely#duly_adv))
+@@ -4152 +4152 @@
+-founde)
++founde#find_v)
+@@ -4155 +4155 @@
+-by)
++by#by_prep)
+@@ -4158 +4158 @@
+-everie)
++everie#every_adj)
+@@ -4160 +4160 @@
+-buyer)
++buyer#buyer_n)
+@@ -4163 +4163 @@
+-of)
++of#of_prep)
+@@ -4166 +4166 @@
+-the)
++the#the_adj)
+@@ -4168 +4168 @@
+-same)))))
++same#same_adj)))))
+@@ -4171 +4171 @@
+-upon)
++upon#upon_prep)
+@@ -4174 +4174 @@
+-due)
++due#due_adj)
+@@ -4176 +4176 @@
+-proufe)
++proufe#proof_n)
+@@ -4179 +4179 @@
+-thereof))
++thereof#thereof_adv))
+@@ -4187 +4187 @@
+-to)
++to#to_prep)
+@@ -4189 +4189 @@
+-be)
++be#be_v)
+@@ -4191 +4191 @@
+-tried)
++tried#try_v)
+@@ -4194 +4194 @@
+-by)
++by#by_prep)
+@@ -4197 +4197 @@
+-the)
++the#the_adj)
+@@ -4199 +4199 @@
+-water))))))))))))))
++water#water_n))))))))))))))
+@@ -4204 +4204 @@
+-And)
++And#and_conj1)
+@@ -4208 +4208 @@
+-in)
++in#in_prep)
+@@ -4211 +4211 @@
+-case)
++case#case_n1)
+@@ -4218 +4218 @@
+-upon)
++upon#upon_prep)
+@@ -4222 +4222 @@
+-any)
++any#any_adj)
+@@ -4224 +4224 @@
+-suche)
++suche#such_adj)
+@@ -4226 +4226 @@
+-profe))
++profe#proof_n))
+@@ -4228 +4228 @@
+-to)
++to#to_prep)
+@@ -4230 +4230 @@
+-be)
++be#be_v)
+@@ -4232 +4232 @@
+-made)
++made#make_v1)
+@@ -4235 +4235 @@
+-by)
++by#by_prep)
+@@ -4238 +4238 @@
+-any)
++any#any_adj)
+@@ -4240 +4240 @@
+-buyer)
++buyer#buyer_n)
+@@ -4243 +4243 @@
+-of)
++of#of_prep)
+@@ -4246 +4246 @@
+-them)))))
++them#them_pron)))))
+@@ -4249 +4249 @@
+-at)
++at#at_prep)
+@@ -4252 +4252 @@
+-the)
++the#the_adj)
+@@ -4254 +4254 @@
+-water)))))
++water#water_n)))))
+@@ -4257 +4257 @@
+-there))
++there#there_adv))
+@@ -4259 +4259 @@
+-sholde)
++sholde#shall_v)
+@@ -4261 +4261 @@
+-be)
++be#be_v)
+@@ -4263 +4263 @@
+-founde)
++founde#find_v)
+@@ -4267 +4267 @@
+-less)
++less#less_adj)
+@@ -4269 +4269 @@
+-and)
++and#and_conj1)
+@@ -4271 +4271 @@
+-smaller))
++smaller#small_adj))
+@@ -4273 +4273 @@
+-content)
++content#content_n1)
+@@ -4276 +4276 @@
+-in)
++in#in_prep)
+@@ -4279 +4279 @@
+-lenghe)))
++lenghe#lengh_n)))
+@@ -4282 +4282 @@
+-then)
++then#than_conj)
+@@ -4292 +4292 @@
+-sholde)
++sholde#shall_v)
+@@ -4294 +4294 @@
+-be)
++be#be_v)
+@@ -4297 +4297 @@
+-conteyned)
++conteyned#contain_v)
+@@ -4299 +4299 @@
+-and)
++and#and_conj1)
+@@ -4301 +4301 @@
+-sp~ified))
++sp~ified#specify_v))
+@@ -4304 +4304 @@
+-in)
++in#in_prep)
+@@ -4307 +4307 @@
+-everie)
++everie#every_adj)
+@@ -4310 +4310 @@
+-of)
++of#of_prep)
+@@ -4313 +4313 @@
+-the)
++the#the_adj)
+@@ -4315 +4315 @@
+-saide)
++saide#said_adj)
+@@ -4317 +4317 @@
+-seales)))))))))))))
++seales#seal_n2)))))))))))))
+@@ -4321 +4321 @@
+-that)
++that#that_conj)
+@@ -4325 +4325 @@
+-then))
++then#then_adv))
+@@ -4328 +4328 @@
+-everie)
++everie#every_adj)
+@@ -4330 +4330 @@
+-suche)
++suche#such_adj)
+@@ -4332 +4332 @@
+-clothier)
++clothier#clothier_n)
+@@ -4335 +4335 @@
+-makinge)
++makinge#make_v1)
+@@ -4338 +4338 @@
+-suche)
++suche#such_adj)
+@@ -4340 +4340 @@
+-defaulte))))
++defaulte#default_n))))
+@@ -4342 +4342 @@
+-sholde)
++sholde#shall_v)
+@@ -4345 +4345 @@
+-lose)
++lose#lose_v1)
+@@ -4347 +4347 @@
+-and)
++and#and_conj1)
+@@ -4349 +4349 @@
+-forfeyte))
++forfeyte#forfeit_v))
+@@ -4352 +4352 @@
+-unto)
++unto#unto_prep)
+@@ -4355 +4355 @@
+-everie)
++everie#every_adj)
+@@ -4357 +4357 @@
+-suche)
++suche#such_adj)
+@@ -4359 +4359 @@
+-buyer)))
++buyer#buyer_n)))
+@@ -4362 +4362 @@
+-of)
++of#of_prep)
+@@ -4365 +4365 @@
+-the)
++the#the_adj)
+@@ -4367 +4367 @@
+-same)))
++same#same_adj)))
+@@ -4370 +4370 @@
+-the)
++the#the_adj)
+@@ -4372 +4372 @@
+-double)
++double#double_adj1)
+@@ -4374 +4374 @@
+-value))
++value#value_n))
+@@ -4377 +4377 @@
+-of)
++of#of_prep)
+@@ -4381 +4381 @@
+-so)
++so#so_adv)
+@@ -4383 +4383 @@
+-muche))
++muche#much_adj))
+@@ -4385 +4385 @@
+-clothe)
++clothe#cloth_n)
+@@ -4388 +4388 @@
+-as)
++as#as_adv)
+@@ -4398 +4398 @@
+-sholde)
++sholde#shall_v)
+@@ -4401 +4401 @@
+-want)
++want#want_v)
+@@ -4403 +4403 @@
+-or)
++or#or_conj2)
+@@ -4405 +4405 @@
+-lacke))
++lacke#lack_v1))
+@@ -4408 +4408 @@
+-of)
++of#of_prep)
+@@ -4411 +4411 @@
+-his)
++his#his_adj)
+@@ -4413 +4413 @@
+-saide)
++saide#said_adj)
+@@ -4415 +4415 @@
+-content)))
++content#content_n1)))
+@@ -4418 +4418 @@
+-in)
++in#in_prep)
+@@ -4421 +4421 @@
+-lenghe))))))))
++lenghe#lengh_n))))))))
+@@ -4426 +4426 @@
+-at)
++at#at_prep)
+@@ -4429 +4429 @@
+-the)
++the#the_adj)
+@@ -4431 +4431 @@
+-onely)
++onely#only_adj)
+@@ -4433 +4433 @@
+-sight)
++sight#sight_n1)
+@@ -4436 +4436 @@
+-and)
++and#and_conj1)
+@@ -4439 +4439 @@
+-judgment)))
++judgment#judgement_n)))
+@@ -4442 +4442 @@
+-of)
++of#of_prep)
+@@ -4445 +4445 @@
+-any)
++any#any_adj)
+@@ -4447 +4447 @@
+-two)
++two#two_adj)
+@@ -4449 +4449 @@
+-indifferent)
++indifferent#indifferent_adj1)
+@@ -4451 +4451 @@
+-p~sons)
++p~sons#person_n)
+@@ -4456 +4456 @@
+-that)
++that#that_conj)
+@@ -4461 +4461 @@
+-sholde)
++sholde#shall_v)
+@@ -4463 +4463 @@
+-measure)
++measure#measure_v)
+@@ -4466 +4466 @@
+-the)
++the#the_adj)
+@@ -4468 +4468 @@
+-saide)
++saide#said_adj)
+@@ -4470 +4470 @@
+-Clothes)
++Clothes#cloth_n)
+@@ -4473 +4473 @@
+-and)
++and#and_conj1)
+@@ -4476 +4476 @@
+-Karseyes))))))))))))))))
++Karseyes#kersey_n))))))))))))))))
+@@ -4484 +4484 @@
+-And)
++And#and_conj1)
+@@ -4487 +4487 @@
+-furthermore))
++furthermore#furthermore_adv))
+@@ -4490 +4490 @@
+-it))
++it#it_pron))
+@@ -4492 +4492 @@
+-was)
++was#be_v)
+@@ -4494 +4494 @@
+-enacted)
++enacted#enact_v)
+@@ -4497 +4497 @@
+-by)
++by#by_prep)
+@@ -4500 +4500 @@
+-the)
++the#the_adj)
+@@ -4502 +4502 @@
+-saide)
++saide#said_adj)
+@@ -4504 +4504 @@
+-acte)))
++acte#act_n)))
+@@ -4507 +4507 @@
+-that)
++that#that_conj)
+@@ -4511 +4511 @@
+-everie)
++everie#every_adj)
+@@ -4513 +4513 @@
+-kersey)
++kersey#kersey_n)
+@@ -4522 +4522 @@
+-so))
++so#so_adv))
+@@ -4524 +4524 @@
+-to)
++to#to_prep)
+@@ -4526 +4526 @@
+-be)
++be#be_v)
+@@ -4528 +4528 @@
+-put@)
++put@#put_v)
+@@ -4531 +4531 @@
+-@to)
++@to#to_prep)
+@@ -4534 +4534 @@
+-sale))))))
++sale#sale_n2))))))
+@@ -4536 +4536 @@
+-sholde)
++sholde#shall_v)
+@@ -4538 +4538 @@
+-conteyne)
++conteyne#contain_v)
+@@ -4541 +4541 @@
+-in)
++in#in_prep)
+@@ -4544 +4544 @@
+-breadeth)))
++breadeth#breadth_n)))
+@@ -4547 +4547 @@
+-one)
++one#one_adj)
+@@ -4549 +4549 @@
+-yarde)
++yarde#yard_n2)
+@@ -4552 +4552 @@
+-within)
++within#within_adv)
+@@ -4555 +4555 @@
+-the)
++the#the_adj)
+@@ -4557 +4557 @@
+-liste))))
++liste#list_n3))))
+@@ -4562 +4562 @@
+-upon)
++upon#upon_prep)
+@@ -4566 +4566 @@
+-due)
++due#due_adj)
+@@ -4568 +4568 @@
+-profe)
++profe#proof_n)
+@@ -4571 +4571 @@
+-thereof)))
++thereof#thereof_adv)))
+@@ -4573 +4573 @@
+-to)
++to#to_prep)
+@@ -4575 +4575 @@
+-be)
++be#be_v)
+@@ -4577 +4577 @@
+-tried)
++tried#try_v)
+@@ -4580 +4580 @@
+-by)
++by#by_prep)
+@@ -4583 +4583 @@
+-the)
++the#the_adj)
+@@ -4585 +4585 @@
+-water)))))
++water#water_n)))))
+@@ -4590 +4590 @@
+-upon)
++upon#upon_prep)
+@@ -4593 +4593 @@
+-peyne)
++peyne#pain_n1)
+@@ -4596 +4596 @@
+-to)
++to#to_prep)
+@@ -4598 +4598 @@
+-forfeyte)
++forfeyte#forfeit_v)
+@@ -4601 +4601 @@
+-for)
++for#for_prep)
+@@ -4604 +4604 @@
+-everie)
++everie#every_adj)
+@@ -4606 +4606 @@
+-suche)
++suche#such_adj)
+@@ -4608 +4608 @@
+-kersey)
++kersey#kersey_n)
+@@ -4611 +4611 @@
+-lacking)
++lacking#lack_v1)
+@@ -4614 +4614 @@
+-of)
++of#of_prep)
+@@ -4617 +4617 @@
+-the)
++the#the_adj)
+@@ -4619 +4619 @@
+-saide)
++saide#said_adj)
+@@ -4621 +4621 @@
+-content)))
++content#content_n1)))
+@@ -4624 +4624 @@
+-in)
++in#in_prep)
+@@ -4627 +4627 @@
+-bredth))))))
++bredth#breadth_n))))))
+@@ -4630 +4630 @@
+-twenty)
++twenty#nineteen_adj)
+@@ -4632 +4632 @@
+-penc~)))))
++penc~#penny_n)))))
+@@ -4637 +4637 @@
+-as)
++as#as_adv)
+@@ -4649 +4649 @@
+-by)
++by#by_prep)
+@@ -4652 +4652 @@
+-the)
++the#the_adj)
+@@ -4654 +4654 @@
+-same)
++same#same_adj)
+@@ -4656 +4656 @@
+-acte)))
++acte#act_n)))
+@@ -4659 +4659 @@
+-amongest)
++amongest#amongst_prep)
+@@ -4662 +4662 @@
+-other)
++other#other_adj)
+@@ -4664 +4664 @@
+-thing~)
++thing~#thing_n1)
+@@ -4668 +4668 @@
+-therin))
++therin#therein_adv))
+@@ -4670 +4670 @@
+-conteyned)
++conteyned#contain_v)
+@@ -4673 +4673 @@
+-more)
++more#more_adj)
+@@ -4675 +4675 @@
+-at)
++at#at_prep)
+@@ -4678 +4678 @@
+-large))))))
++large#large_adj))))))
+@@ -4681 +4681 @@
+-it))
++it#it_pron))
+@@ -4683 +4683 @@
+-is)
++is#be_v)
+@@ -4685 +4685 @@
+-exp~ssed))
++exp~ssed#express_v1))
+@@ -4688 +4688 @@
+-and)
++and#and_conj1)
+@@ -4693 +4693 @@
+-may)
++may#may_v1)
+@@ -4695 +4695 @@
+-appere))))))
++appere#appear_v))))))
+@@ -4701 +4701 @@
+-Whiche)
++Whiche#which_adj)
+@@ -4703 +4703 @@
+-saide)
++saide#said_adj)
+@@ -4705 +4705 @@
+-acte))
++acte#act_n))
+@@ -4713 +4713 @@
+-yf)
++yf#if_conj)
+@@ -4720 +4720 @@
+-it))
++it#it_pron))
+@@ -4722 +4722 @@
+-sholde)
++sholde#shall_v)
+@@ -4724 +4724 @@
+-be)
++be#be_v)
+@@ -4726 +4726 @@
+-putt)
++putt#put_v)
+@@ -4729 +4729 @@
+-in)
++in#in_prep)
+@@ -4732 +4732 @@
+-execuco~n))))))
++execuco~n#execution_n))))))
+@@ -4734 +4734 @@
+-sholde)
++sholde#shall_v)
+@@ -4736 +4736 @@
+-not)
++not#not_adv)
+@@ -4738 +4738 @@
+-onelye)
++onelye#NA)
+@@ -4741 +4741 @@
+-growe)
++growe#grow_v)
+@@ -4743 +4743 @@
+-and)
++and#and_conj1)
+@@ -4745 +4745 @@
+-be))
++be#be_v))
+@@ -4753 +4753 @@
+-to)
++to#to_prep)
+@@ -4756 +4756 @@
+-the)
++the#the_adj)
+@@ -4758 +4758 @@
+-great)
++great#great_adj)
+@@ -4760 +4760 @@
+-losses)
++losses#loss_n1)
+@@ -4763 +4763 @@
+-and)
++and#and_conj1)
+@@ -4766 +4766 @@
+-decaye)))
++decaye#decay_n)))
+@@ -4769 +4769 @@
+-of)
++of#of_prep)
+@@ -4774 +4774 @@
+-the)
++the#the_adj)
+@@ -4776 +4776 @@
+-Kings~))
++Kings~#king_n))
+@@ -4778 +4778 @@
+-Highnes))
++Highnes#highness_n))
+@@ -4780 +4780 @@
+-Customes)))))
++Customes#custom_n)))))
+@@ -4785 +4785 @@
+-but)
++but#but_prep)
+@@ -4787 +4787 @@
+-also)
++also#also_adv)
+@@ -4790 +4790 @@
+-to)
++to#to_prep)
+@@ -4793 +4793 @@
+-the)
++the#the_adj)
+@@ -4795 +4795 @@
+-great)
++great#great_adj)
+@@ -4797 +4797 @@
+-hindraunce)
++hindraunce#hindrance_n)
+@@ -4801 +4801 @@
+-hurte)))
++hurte#hurt_n1)))
+@@ -4804 +4804 @@
+-and)
++and#and_conj1)
+@@ -4807 +4807 @@
+-ympoverishment)))
++ympoverishment#impoverishment_n)))
+@@ -4810 +4810 @@
+-of)
++of#of_prep)
+@@ -4814 +4814 @@
+-the)
++the#the_adj)
+@@ -4816 +4816 @@
+-Kinge~))
++Kinge~#king_n))
+@@ -4819 +4819 @@
+-lovinge)
++lovinge#loving_adj)
+@@ -4821 +4821 @@
+-and)
++and#and_conj1)
+@@ -4823 +4823 @@
+-obedient))
++obedient#obedient_adj))
+@@ -4825 +4825 @@
+-subjects))))))
++subjects#subject_n))))))
+@@ -4830 +4830 @@
+-and)
++and#and_conj1)
+@@ -4833 +4833 @@
+-specially)
++specially#specially_adv)
+@@ -4835 +4835 @@
+-of)
++of#of_prep)
+@@ -4838 +4838 @@
+-those)
++those#those_pron)
+@@ -4841 +4841 @@
+-inhabitinge)
++inhabitinge#inhabit_v)
+@@ -4844 +4844 @@
+-within)
++within#within_adv)
+@@ -4847 +4847 @@
+-the)
++the#the_adj)
+@@ -4849 +4849 @@
+-Counties)
++Counties#county_n1)
+@@ -4852 +4852 @@
+-of)
++of#of_prep)
+@@ -4855 +4855 @@
+-Berk)
++Berk#NA)
+@@ -4857 +4857 @@
+-Sutht~)
++Sutht~#NA)
+@@ -4859 +4859 @@
+-Oxfordedshire)
++Oxfordedshire#NA)
+@@ -4861 +4861 @@
+-Surrey)
++Surrey#NA)
+@@ -4863 +4863 @@
+-Sussex)
++Sussex#NA)
+@@ -4865 +4865 @@
+-and)
++and#and_conj1)
+@@ -4867 +4867 @@
+-Yorkeshire)))
++Yorkeshire#NA)))
+@@ -4873 +4873 @@
+-where))
++where#where_adv))
+@@ -4881 +4881 @@
+-there))
++there#there_adv))
+@@ -4883 +4883 @@
+-are)
++are#be_v)
+@@ -4886 +4886 @@
+-a)
++a#a_adj2)
+@@ -4888 +4888 @@
+-great)
++great#great_adj)
+@@ -4890 +4890 @@
+-nomber)
++nomber#number_n)
+@@ -4893 +4893 @@
+-of)
++of#of_prep)
+@@ -4896 +4896 @@
+-course)
++course#coarse_adj)
+@@ -4898 +4898 @@
+-kerseyes))))
++kerseyes#kersey_n))))
+@@ -4900 +4900 @@
+-made)
++made#make_v1)
+@@ -4903 +4903 @@
+-beinge)
++beinge#be_v)
+@@ -4906 +4906 @@
+-of)
++of#of_prep)
+@@ -4909 +4909 @@
+-the)
++the#the_adj)
+@@ -4911 +4911 @@
+-value)
++value#value_n)
+@@ -4914 +4914 @@
+-of)
++of#of_prep)
+@@ -4918 +4918 @@
+-thirtie)
++thirtie#NA)
+@@ -4920 +4920 @@
+-shilling~)
++shilling~#shilling_n)
+@@ -4923 +4923 @@
+-the)
++the#the_adj)
+@@ -4925 +4925 @@
+-pece)))
++pece#piece_n)))
+@@ -4928 +4928 @@
+-or)
++or#or_conj2)
+@@ -4931 +4931 @@
+-thereabout~)))))))))))))))))))))
++thereabout~#thereabouts_adv)))))))))))))))))))))
+@@ -4937 +4937 @@
+-whiche)
++whiche#which_adj)
+@@ -4939 +4939 @@
+-kerseys))
++kerseys#kersey_n))
+@@ -4947 +4947 @@
+-are)
++are#be_v)
+@@ -4949 +4949 @@
+-made)
++made#make_v1)
+@@ -4952 +4952 @@
+-of)
++of#of_prep)
+@@ -4955 +4955 @@
+-course)
++course#coarse_adj)
+@@ -4957 +4957 @@
+-wooll))))
++wooll#wool_n))))
+@@ -4960 +4960 @@
+-and)
++and#and_conj1)
+@@ -4965 +4965 @@
+-are)
++are#be_v)
+@@ -4968 +4968 @@
+-co~monly))
++co~monly#commonly_adv))
+@@ -4970 +4970 @@
+-solde)
++solde#sell_v)
+@@ -4973 +4973 @@
+-for)
++for#for_prep)
+@@ -4977 +4977 @@
+-twenty)
++twenty#nineteen_adj)
+@@ -4979 +4979 @@
+-pence))
++pence#penny_n))
+@@ -4982 +4982 @@
+-or)
++or#or_conj2)
+@@ -4985 +4985 @@
+-xxij)
++xxij#NA)
+@@ -4987 +4987 @@
+-d.)))
++d.#penny_n)))
+@@ -4990 +4990 @@
+-the)
++the#the_adj)
+@@ -4992 +4992 @@
+-yarde))))
++yarde#yard_n2))))
+@@ -4995 +4995 @@
+-coloured))))))
++coloured#coloured_adj))))))
+@@ -5001 +5001 @@
+-of)
++of#of_prep)
+@@ -5004 +5004 @@
+-whiche)
++whiche#which_adj)
+@@ -5006 +5006 @@
+-course)
++course#coarse_adj)
+@@ -5008 +5008 @@
+-sorte)
++sorte#sort_n2)
+@@ -5011 +5011 @@
+-of)
++of#of_prep)
+@@ -5014 +5014 @@
+-kerseyes)))))
++kerseyes#kersey_n)))))
+@@ -5020 +5020 @@
+-there))
++there#there_adv))
+@@ -5022 +5022 @@
+-are)
++are#be_v)
+@@ -5025 +5025 @@
+-co~monly))
++co~monly#commonly_adv))
+@@ -5027 +5027 @@
+-made)
++made#make_v1)
+@@ -5030 +5030 @@
+-in)
++in#in_prep)
+@@ -5033 +5033 @@
+-the)
++the#the_adj)
+@@ -5035 +5035 @@
+-saide)
++saide#said_adj)
+@@ -5037 +5037 @@
+-Counties)))
++Counties#county_n1)))
+@@ -5040 +5040 @@
+-fyve_hundred)
++fyve_hundred#NA)
+@@ -5045 +5045 @@
+-againste)
++againste#against_prep)
+@@ -5048 +5048 @@
+-one)
++one#one_adj)
+@@ -5050 +5050 @@
+-fyne)
++fyne#fine_adj)
+@@ -5052 +5052 @@
+-kersey)))))
++kersey#kersey_n)))))
+@@ -5058 +5058 @@
+-by)
++by#by_prep)
+@@ -5061 +5061 @@
+-the)
++the#the_adj)
+@@ -5063 +5063 @@
+-makinge)
++makinge#making_n1)
+@@ -5066 +5066 @@
+-and)
++and#and_conj1)
+@@ -5069 +5069 @@
+-workinge)))
++workinge#working_n)))
+@@ -5072 +5072 @@
+-whereof))))
++whereof#whereof_adv))))
+@@ -5081 +5081 @@
+-a)
++a#a_adj2)
+@@ -5083 +5083 @@
+-great)
++great#great_adj)
+@@ -5085 +5085 @@
+-nomber)
++nomber#number_n)
+@@ -5088 +5088 @@
+-of)
++of#of_prep)
+@@ -5092 +5092 @@
+-the)
++the#the_adj)
+@@ -5094 +5094 @@
+-King~))
++King~#king_n))
+@@ -5096 +5096 @@
+-subject~))))
++subject~#subject_n))))
+@@ -5098 +5098 @@
+-are)
++are#be_v)
+@@ -5100 +5100 @@
+-sett)
++sett#set_v)
+@@ -5103 +5103 @@
+-a)
++a#a_prep2)
+@@ -5106 +5106 @@
+-worke))))
++worke#work_n))))
+@@ -5109 +5109 @@
+-and)
++and#and_conj1)
+@@ -5116 +5116 @@
+-gett)
++gett#get_v)
+@@ -5119 +5119 @@
+-their)
++their#their_adj)
+@@ -5121 +5121 @@
+-living~))))))
++living~#living_n.3-5))))))
+@@ -5127 +5127 @@
+-whiche)
++whiche#which_adj)
+@@ -5129 +5129 @@
+-course)
++course#coarse_adj)
+@@ -5131 +5131 @@
+-kerseyes))
++kerseyes#kersey_n))
+@@ -5139 +5139 @@
+-are)
++are#be_v)
+@@ -5141 +5141 @@
+-uttered)
++uttered#utter_v1)
+@@ -5144 +5144 @@
+-unto)
++unto#unto_prep)
+@@ -5147 +5147 @@
+-the)
++the#the_adj)
+@@ -5149 +5149 @@
+-farr)
++farr#far_adj)
+@@ -5151 +5151 @@
+-part~)
++part~#part_n)
+@@ -5154 +5154 @@
+-beyond)
++beyond#beyond_adv)
+@@ -5157 +5157 @@
+-the)
++the#the_adj)
+@@ -5159 +5159 @@
+-sea))))))
++sea#sea_n))))))
+@@ -5162 +5162 @@
+-and)
++and#and_conj1)
+@@ -5167 +5167 @@
+-fewe)
++fewe#few_adj)
+@@ -5169 +5169 @@
+-or)
++or#or_conj2)
+@@ -5171 +5171 @@
+-none)))
++none#none_pron)))
+@@ -5173 +5173 @@
+-uttered)
++uttered#utter_v1)
+@@ -5176 +5176 @@
+-in)
++in#in_prep)
+@@ -5179 +5179 @@
+-this)
++this#this_pron)
+@@ -5181 +5181 @@
+-Realme)))))
++Realme#realm_n)))))
+@@ -5186 +5186 @@
+-and)
++and#and_conj1)
+@@ -5191 +5191 @@
+-have)
++have#have_v)
+@@ -5193 +5193 @@
+-not)
++not#not_adv)
+@@ -5195 +5195 @@
+-been)
++been#be_v)
+@@ -5197 +5197 @@
+-used)
++used#use_v)
+@@ -5200 +5200 @@
+-sithe)
++sithe#sith_adv)
+@@ -5203 +5203 @@
+-the)
++the#the_adj)
+@@ -5205 +5205 @@
+-remembrance)
++remembrance#remembrance_n)
+@@ -5208 +5208 @@
+-of)
++of#of_prep)
+@@ -5211 +5211 @@
+-man)))))
++man#man_n1)))))
+@@ -5216 +5216 @@
+-to)
++to#to_prep)
+@@ -5218 +5218 @@
+-be)
++be#be_v)
+@@ -5220 +5220 @@
+-made)
++made#make_v1)
+@@ -5223 +5223 @@
+-of)
++of#of_prep)
+@@ -5226 +5226 @@
+-suche)
++suche#such_adj)
+@@ -5228 +5228 @@
+-content)
++content#content_n1)
+@@ -5231 +5231 @@
+-in)
++in#in_prep)
+@@ -5234 +5234 @@
+-bredith)))
++bredith#breadth_n)))
+@@ -5237 +5237 @@
+-as)
++as#as_adv)
+@@ -5247 +5247 @@
+-ys)
++ys#be_v)
+@@ -5249 +5249 @@
+-lymitted)
++lymitted#limit_v)
+@@ -5252 +5252 @@
+-in)
++in#in_prep)
+@@ -5255 +5255 @@
+-the)
++the#the_adj)
+@@ -5257 +5257 @@
+-said)
++said#said_adj)
+@@ -5259 +5259 @@
+-estatute)))))))))
++estatute#estatute_n)))))))))
+@@ -5264 +5264 @@
+-for)
++for#for_prep)
+@@ -5267 +5267 @@
+-that)
++that#that_conj)
+@@ -5271 +5271 @@
+-the)
++the#the_adj)
+@@ -5273 +5273 @@
+-woll)
++woll#wool_n)
+@@ -5276 +5276 @@
+-and)
++and#and_conj1)
+@@ -5279 +5279 @@
+-yarne)))
++yarne#yarn_n)))
+@@ -5283 +5283 @@
+-wherof))
++wherof#whereof_adv))
+@@ -5291 +5291 @@
+-the)
++the#the_adj)
+@@ -5293 +5293 @@
+-saide)
++saide#said_adj)
+@@ -5295 +5295 @@
+-karsayes))
++karsayes#cress_n))
+@@ -5297 +5297 @@
+-are)
++are#be_v)
+@@ -5299 +5299 @@
+-made))))
++made#make_v1))))
+@@ -5301 +5301 @@
+-be)
++be#be_v)
+@@ -5304 +5304 @@
+-of)
++of#of_prep)
+@@ -5307 +5307 @@
+-suche)
++suche#such_adj)
+@@ -5309 +5309 @@
+-kindes)
++kindes#kind_n)
+@@ -5312 +5312 @@
+-and)
++and#and_conj1)
+@@ -5315 +5315 @@
+-p~pertyes)))
++p~pertyes#property_n)))
+@@ -5323 +5323 @@
+-as@)
++as@#as_adv)
+@@ -5325 +5325 @@
+-@well)
++@well#well_adv)
+@@ -5330 +5330 @@
+-by)
++by#by_prep)
+@@ -5333 +5333 @@
+-reason)
++reason#reason_n1)
+@@ -5336 +5336 @@
+-of)
++of#of_prep)
+@@ -5339 +5339 @@
+-the)
++the#the_adj)
+@@ -5341 +5341 @@
+-coursnes)
++coursnes#coarseness_n)
+@@ -5344 +5344 @@
+-of)
++of#of_prep)
+@@ -5347 +5347 @@
+-the)
++the#the_adj)
+@@ -5349 +5349 @@
+-woll)))))))
++woll#wool_n)))))))
+@@ -5352 +5352 @@
+-as)
++as#as_adv)
+@@ -5354 +5354 @@
+-also)
++also#also_adv)
+@@ -5358 +5358 @@
+-for)
++for#for_prep)
+@@ -5361 +5361 @@
+-the)
++the#the_adj)
+@@ -5363 +5363 @@
+-manyfolde)
++manyfolde#manifold_adj)
+@@ -5365 +5365 @@
+-difference)
++difference#difference_n1)
+@@ -5368 +5368 @@
+-of)
++of#of_prep)
+@@ -5371 +5371 @@
+-sundrie)
++sundrie#sundry_adj)
+@@ -5373 +5373 @@
+-spynnyng~)
++spynnyng~#spinning_n)
+@@ -5376 +5376 @@
+-of)
++of#of_prep)
+@@ -5379 +5379 @@
+-the)
++the#the_adj)
+@@ -5381 +5381 @@
+-same)))))))
++same#same_adj)))))))
+@@ -5386 +5386 @@
+-and)
++and#and_conj1)
+@@ -5389 +5389 @@
+-for)
++for#for_prep)
+@@ -5392 +5392 @@
+-div~se)
++div~se#diverse_adj)
+@@ -5394 +5394 @@
+-other)
++other#other_adj)
+@@ -5396 +5396 @@
+-consideraco~ns)))))))
++consideraco~ns#consideration_n)))))))
+@@ -5403 +5403 @@
+-the)
++the#the_adj)
+@@ -5405 +5405 @@
+-kerseyes)
++kerseyes#kersey_n)
+@@ -5409 +5409 @@
+-thereof))
++thereof#thereof_adv))
+@@ -5411 +5411 @@
+-made)))
++made#make_v1)))
+@@ -5413 +5413 @@
+-can@)
++can@#can_v1)
+@@ -5415 +5415 @@
+-@not)
++@not#not_adv)
+@@ -5417 +5417 @@
+-be)
++be#be_v)
+@@ -5420 +5420 @@
+-so)
++so#so_adv)
+@@ -5422 +5422 @@
+-certenly)
++certenly#certainly_adv)
+@@ -5426 +5426 @@
+-wroughte)
++wroughte#work_v)
+@@ -5429 +5429 @@
+-as)
++as#as_adv)
+@@ -5436 +5436 @@
+-the)
++the#the_adj)
+@@ -5438 +5438 @@
+-same))
++same#same_adj))
+@@ -5441 +5441 @@
+-sholde)
++sholde#shall_v)
+@@ -5443 +5443 @@
+-and)
++and#and_conj1)
+@@ -5445 +5445 @@
+-myght))
++myght#may_v1))
+@@ -5447 +5447 @@
+-kepe)
++kepe#keep_v)
+@@ -5450 +5450 @@
+-any)
++any#any_adj)
+@@ -5453 +5453 @@
+-true)
++true#true_adj)
+@@ -5455 +5455 @@
+-or)
++or#or_conj2)
+@@ -5457 +5457 @@
+-just))
++just#just_adj))
+@@ -5459 +5459 @@
+-certentye)
++certentye#certainty_n)
+@@ -5462 +5462 @@
+-of)
++of#of_prep)
+@@ -5465 +5465 @@
+-lenghe)
++lenghe#lengh_n)
+@@ -5467 +5467 @@
+-or)
++or#or_conj2)
+@@ -5469 +5469 @@
+-breadeth))))
++breadeth#breadth_n))))
+@@ -5472 +5472 @@
+-throughlye))
++throughlye#throughly_adv))
+@@ -5475 +5475 @@
+-when)
++when#when_adv)
+@@ -5482 +5482 @@
+-it))
++it#it_pron))
+@@ -5484 +5484 @@
+-shall)
++shall#shall_v)
+@@ -5486 +5486 @@
+-come)
++come#come_v)
+@@ -5489 +5489 @@
+-to)
++to#to_prep)
+@@ -5492 +5492 @@
+-the)
++the#the_adj)
+@@ -5494 +5494 @@
+-water))))))
++water#water_n))))))
+@@ -5499 +5499 @@
+-althoughe)
++althoughe#although_conj)
+@@ -5506 +5506 @@
+-the)
++the#the_adj)
+@@ -5508 +5508 @@
+-workers)
++workers#worker_n)
+@@ -5511 +5511 @@
+-and)
++and#and_conj1)
+@@ -5514 +5514 @@
+-makers)))
++makers#maker_n)))
+@@ -5517 +5517 @@
+-of)
++of#of_prep)
+@@ -5520 +5520 @@
+-the)
++the#the_adj)
+@@ -5522 +5522 @@
+-same))))
++same#same_adj))))
+@@ -5524 +5524 @@
+-due)
++due#do_v)
+@@ -5526 +5526 @@
+-putt)
++putt#put_v)
+@@ -5529 +5529 @@
+-thereunto))
++thereunto#thereunto_adv))
+@@ -5532 +5532 @@
+-the)
++the#the_adj)
+@@ -5534 +5534 @@
+-best)
++best#best_adj)
+@@ -5537 +5537 @@
+-of)
++of#of_prep)
+@@ -5540 +5540 @@
+-their)
++their#their_adj)
+@@ -5542 +5542 @@
+-forces)
++forces#force_n1)
+@@ -5545 +5545 @@
+-and)
++and#and_conj1)
+@@ -5548 +5548 @@
+-diligence)))))))))
++diligence#diligence_n1)))))))))
+@@ -5553 +5553 @@
+-as)
++as#as_adv)
+@@ -5565 +5565 @@
+-by)
++by#by_prep)
+@@ -5568 +5568 @@
+-experience)
++experience#experience_n)
+@@ -5570 +5570 @@
+-and)
++and#and_conj1)
+@@ -5572 +5572 @@
+-proofe)
++proofe#proof_n)
+@@ -5575 +5575 @@
+-thereof))))
++thereof#thereof_adv))))
+@@ -5577 +5577 @@
+-hathe)
++hathe#have_v)
+@@ -5579 +5579 @@
+-bene)
++bene#be_v)
+@@ -5582 +5582 @@
+-dulye))
++dulye#duly_adv))
+@@ -5584 +5584 @@
+-p~ved))
++p~ved#prove_v))
+@@ -5587 +5587 @@
+-and)
++and#and_conj1)
+@@ -5592 +5592 @@
+-ys)
++ys#be_v)
+@@ -5595 +5595 @@
+-nowe))
++nowe#now_adv))
+@@ -5598 +5598 @@
+-right)
++right#right_adv)
+@@ -5600 +5600 @@
+-well))
++well#well_adv))
+@@ -5602 +5602 @@
+-p~ceyved))))))))))))))))))
++p~ceyved#perceive_v))))))))))))))))))
+@@ -5608 +5608 @@
+-by)
++by#by_prep)
+@@ -5611 +5611 @@
+-occaco~n)
++occaco~n#occasion_n1)
+@@ -5614 +5614 @@
+-whereof))))
++whereof#whereof_adv))))
+@@ -5622 +5622 @@
+-the)
++the#the_adj)
+@@ -5624 +5624 @@
+-makers)
++makers#maker_n)
+@@ -5627 +5627 @@
+-and)
++and#and_conj1)
+@@ -5630 +5630 @@
+-workers)))
++workers#worker_n)))
+@@ -5633 +5633 @@
+-of)
++of#of_prep)
+@@ -5636 +5636 @@
+-suche)
++suche#such_adj)
+@@ -5638 +5638 @@
+-course)
++course#coarse_adj)
+@@ -5640 +5640 @@
+-kerseies))))
++kerseies#kersey_n))))
+@@ -5642 +5642 @@
+-sholde)
++sholde#shall_v)
+@@ -5644 +5644 @@
+-be)
++be#be_v)
+@@ -5646 +5646 @@
+-compelled)
++compelled#compel_v)
+@@ -5649 +5649 @@
+-either)
++either#either_pron)
+@@ -5652 +5652 @@
+-to)
++to#to_prep)
+@@ -5654 +5654 @@
+-forsake)
++forsake#forsake_v)
+@@ -5657 +5657 @@
+-their)
++their#their_adj)
+@@ -5659 +5659 @@
+-mysteries)
++mysteries#mystery_n1)
+@@ -5662 +5662 @@
+-of)
++of#of_prep)
+@@ -5665 +5665 @@
+-makinge)
++makinge#making_n1)
+@@ -5668 +5668 @@
+-of)
++of#of_prep)
+@@ -5671 +5671 @@
+-suche)
++suche#such_adj)
+@@ -5673 +5673 @@
+-course)
++course#coarse_adj)
+@@ -5675 +5675 @@
+-kerseyes))))))
++kerseyes#kersey_n))))))
+@@ -5681 +5681 @@
+-wherby))
++wherby#whereby_adv))
+@@ -5690 +5690 @@
+-many)
++many#many_adj)
+@@ -5692 +5692 @@
+-thousand~)
++thousand~#thousand_n)
+@@ -5694 +5694 @@
+-p~sons)
++p~sons#person_n)
+@@ -5697 +5697 @@
+-dwelling)
++dwelling#dwell_v)
+@@ -5701 +5701 @@
+-within)
++within#within_adv)
+@@ -5704 +5704 @@
+-this)
++this#this_pron)
+@@ -5706 +5706 @@
+-Realme)))
++Realme#realm_n)))
+@@ -5711 +5711 @@
+-and)
++and#and_conj1)
+@@ -5714 +5714 @@
+-speciallye)
++speciallye#specially_adv)
+@@ -5716 +5716 @@
+-within)
++within#within_adv)
+@@ -5719 +5719 @@
+-the)
++the#the_adj)
+@@ -5721 +5721 @@
+-Counties)
++Counties#county_n1)
+@@ -5725 +5725 @@
+-above))
++above#above_adv))
+@@ -5727 +5727 @@
+-rehersed)))))))
++rehersed#rehearse_v)))))))
+@@ -5733 +5733 @@
+-nowe))
++nowe#now_adv))
+@@ -5735 +5735 @@
+-havinge)
++havinge#have_v)
+@@ -5739 +5739 @@
+-good)
++good#good_adj)
+@@ -5741 +5741 @@
+-&)
++&#and_conj1)
+@@ -5743 +5743 @@
+-competente))
++competente#competent_adj))
+@@ -5745 +5745 @@
+-lyvinges))))
++lyvinges#living_n.3-5))))
+@@ -5747 +5747 @@
+-shoulde)
++shoulde#shall_v)
+@@ -5749 +5749 @@
+-be)
++be#be_v)
+@@ -5752 +5752 @@
+-unoccupied)))
++unoccupied#unoccupied_adj)))
+@@ -5755 +5755 @@
+-and)
++and#and_conj1)
+@@ -5758 +5758 @@
+-fall)
++fall#fall_v)
+@@ -5761 +5761 @@
+-to)
++to#to_prep)
+@@ -5764 +5764 @@
+-idlenes))))))))
++idlenes#idleness_n))))))))
+@@ -5769 +5769 @@
+-or)
++or#or_conj2)
+@@ -5771 +5771 @@
+-els)
++els#else_adv)
+@@ -5774 +5774 @@
+-to)
++to#to_prep)
+@@ -5776 +5776 @@
+-incurre)
++incurre#incur_v)
+@@ -5779 +5779 @@
+-the)
++the#the_adj)
+@@ -5781 +5781 @@
+-daunger)
++daunger#danger_n)
+@@ -5784 +5784 @@
+-and)
++and#and_conj1)
+@@ -5787 +5787 @@
+-penaltye)))
++penaltye#penalty_n)))
+@@ -5790 +5790 @@
+-of)
++of#of_prep)
+@@ -5793 +5793 @@
+-the)
++the#the_adj)
+@@ -5795 +5795 @@
+-saide)
++saide#said_adj)
+@@ -5797 +5797 @@
+-estatute))))
++estatute#estatute_n))))
+@@ -5800 +5800 @@
+-to)
++to#to_prep)
+@@ -5803 +5803 @@
+-their)
++their#their_adj)
+@@ -5805 +5805 @@
+-utter)
++utter#utter_adj)
+@@ -5807 +5807 @@
+-undoinge))))))))
++undoinge#undoing_n1))))))))
+@@ -5813 +5813 @@
+-For)
++For#for_prep)
+@@ -5817 +5817 @@
+-remedy))
++remedy#remedy_n))
+@@ -5820 +5820 @@
+-whereof))))
++whereof#whereof_adv))))
+@@ -5827 +5827 @@
+-be)
++be#be_v)
+@@ -5830 +5830 @@
+-it))
++it#it_pron))
+@@ -5832 +5832 @@
+-enacted)
++enacted#enact_v)
+@@ -5836 +5836 @@
+-by)
++by#by_prep)
+@@ -5840 +5840 @@
+-the)
++the#the_adj)
+@@ -5842 +5842 @@
+-Kinge)
++Kinge#king_n)
+@@ -5845 +5845 @@
+-our)
++our#our_pron)
+@@ -5847 +5847 @@
+-Soveraigne)
++Soveraigne#sovereign_n)
+@@ -5849 +5849 @@
+-Lorde)))
++Lorde#lord_n)))
+@@ -5853 +5853 @@
+-the)
++the#the_adj)
+@@ -5855 +5855 @@
+-Lordes)
++Lordes#lord_n)
+@@ -5858 +5858 @@
+-sp~uall)
++sp~uall#spiritual_adj)
+@@ -5860 +5860 @@
+-and)
++and#and_conj1)
+@@ -5862 +5862 @@
+-temporall))))
++temporall#temporal_adj1))))
+@@ -5865 +5865 @@
+-and)
++and#and_conj1)
+@@ -5868 +5868 @@
+-the)
++the#the_adj)
+@@ -5870 +5870 @@
+-Co~mons)))
++Co~mons#commons_n)))
+@@ -5874 +5874 @@
+-in)
++in#in_prep)
+@@ -5877 +5877 @@
+-this)
++this#this_pron)
+@@ -5879 +5879 @@
+-p~sent)
++p~sent#present_adj)
+@@ -5881 +5881 @@
+-Parliament)))
++Parliament#parliament_n1)))
+@@ -5883 +5883 @@
+-assembled))))
++assembled#assemble_v1))))
+@@ -5886 +5886 @@
+-and)
++and#and_conj1)
+@@ -5889 +5889 @@
+-by)
++by#by_prep)
+@@ -5892 +5892 @@
+-authoritie)
++authoritie#authority_n)
+@@ -5895 +5895 @@
+-of)
++of#of_prep)
+@@ -5898 +5898 @@
+-the)
++the#the_adj)
+@@ -5900 +5900 @@
+-same)))))))
++same#same_adj)))))))
+@@ -5905 +5905 @@
+-that)
++that#that_conj)
+@@ -5909 +5909 @@
+-from)
++from#from_prep)
+@@ -5912 +5912 @@
+-hensforth)))
++hensforth#henceforth_adv)))
+@@ -5915 +5915 @@
+-it))
++it#it_pron))
+@@ -5918 +5918 @@
+-shall)
++shall#shall_v)
+@@ -5920 +5920 @@
+-and)
++and#and_conj1)
+@@ -5922 +5922 @@
+-maye))
++maye#may_v1))
+@@ -5924 +5924 @@
+-be)
++be#be_v)
+@@ -5927 +5927 @@
+-laufull)
++laufull#lawful_adj)
+@@ -5930 +5930 @@
+-to)
++to#to_prep)
+@@ -5934 +5934 @@
+-all)
++all#all_adj)
+@@ -5936 +5936 @@
+-and)
++and#and_conj1)
+@@ -5938 +5938 @@
+-everie))
++everie#every_adj))
+@@ -5941 +5941 @@
+-of)
++of#of_prep)
+@@ -5945 +5945 @@
+-the)
++the#the_adj)
+@@ -5947 +5947 @@
+-King~))
++King~#king_n))
+@@ -5949 +5949 @@
+-subject~))))))
++subject~#subject_n))))))
+@@ -5954 +5954 @@
+-to)
++to#to_prep)
+@@ -5956 +5956 @@
+-make)
++make#make_v1)
+@@ -5959 +5959 @@
+-worke))
++worke#work_v))
+@@ -5962 +5962 @@
+-and)
++and#and_conj1)
+@@ -5964 +5964 @@
+-put@)
++put@#put_v)
+@@ -5967 +5967 @@
+-@to)
++@to#to_prep)
+@@ -5970 +5970 @@
+-sale))))
++sale#sale_n2))))
+@@ -5973 +5973 @@
+-at)
++at#at_prep)
+@@ -5976 +5976 @@
+-their)
++their#their_adj)
+@@ -5978 +5978 @@
+-lib~tye)
++lib~tye#liberty_n)
+@@ -5981 +5981 @@
+-and)
++and#and_conj1)
+@@ -5984 +5984 @@
+-pleasure)))))
++pleasure#pleasure_n)))))
+@@ -5987 +5987 @@
+-all)
++all#all_adj)
+@@ -5989 +5989 @@
+-manner)
++manner#manner_n)
+@@ -5992 +5992 @@
+-of)
++of#of_prep)
+@@ -5995 +5995 @@
+-suche)
++suche#such_adj)
+@@ -5997 +5997 @@
+-coloured)
++coloured#coloured_adj)
+@@ -5999 +5999 @@
+-kersey)
++kersey#kersey_n)
+@@ -6002 +6002 @@
+-and)
++and#and_conj1)
+@@ -6005 +6005 @@
+-kerseyes)))
++kerseyes#kersey_n)))
+@@ -6009 +6009 @@
+-whiche))
++whiche#which_adj))
+@@ -6016 +6016 @@
+-shal@)
++shal@#shall_v)
+@@ -6018 +6018 @@
+-@be)
++@be#be_v)
+@@ -6020 +6020 @@
+-solde)
++solde#sell_v)
+@@ -6025 +6025 @@
+-at)
++at#at_prep)
+@@ -6027 +6027 @@
+-or)
++or#or_conj2)
+@@ -6029 +6029 @@
+-for))
++for#for_prep))
+@@ -6033 +6033 @@
+-twenty)
++twenty#nineteen_adj)
+@@ -6035 +6035 @@
+-pence))
++pence#penny_n))
+@@ -6038 +6038 @@
+-or)
++or#or_conj2)
+@@ -6041 +6041 @@
+-xxij)
++xxij#NA)
+@@ -6043 +6043 @@
+-d.)))
++d.#penny_n)))
+@@ -6046 +6046 @@
+-the)
++the#the_adj)
+@@ -6048 +6048 @@
+-yarde))))
++yarde#yard_n2))))
+@@ -6053 +6053 @@
+-or)
++or#or_conj2)
+@@ -6056 +6056 @@
+-under)
++under#under_prep)
+@@ -6061 +6061 @@
+-and)
++and#and_conj1)
+@@ -6064 +6064 @@
+-not)
++not#not_adv)
+@@ -6066 +6066 @@
+-above)
++above#above_adv)
+@@ -6073 +6073 @@
+-of)
++of#of_prep)
+@@ -6076 +6076 @@
+-suche)
++suche#such_adj)
+@@ -6078 +6078 @@
+-lenghes)
++lenghes#lengh_n)
+@@ -6081 +6081 @@
+-and)
++and#and_conj1)
+@@ -6084 +6084 @@
+-breadethes)))
++breadethes#breadth_n)))
+@@ -6087 +6087 @@
+-as)
++as#as_adv)
+@@ -6096 +6096 @@
+-they))
++they#they_pron))
+@@ -6098 +6098 @@
+-did)
++did#do_v)
+@@ -6100 +6100 @@
+-myght)
++myght#may_v1)
+@@ -6103 +6103 @@
+-or)
++or#or_conj2)
+@@ -6105 +6105 @@
+-were)
++were#be_v)
+@@ -6108 +6108 @@
+-wonte)))
++wonte#wont_adj)))
+@@ -6113 +6113 @@
+-to)
++to#to_prep)
+@@ -6115 +6115 @@
+-doe)
++doe#do_v)
+@@ -6118 +6118 @@
+-before)
++before#before_adv)
+@@ -6121 +6121 @@
+-the)
++the#the_adj)
+@@ -6123 +6123 @@
+-makinge)
++makinge#making_n1)
+@@ -6126 +6126 @@
+-of)
++of#of_prep)
+@@ -6129 +6129 @@
+-the)
++the#the_adj)
+@@ -6131 +6131 @@
+-said)
++said#said_adj)
+@@ -6133 +6133 @@
+-acte)
++acte#act_n)
+@@ -6136 +6136 @@
+-made)
++made#make_v1)
+@@ -6139 +6139 @@
+-in)
++in#in_prep)
+@@ -6143 +6143 @@
+-the)
++the#the_adj)
+@@ -6145 +6145 @@
+-saide)
++saide#said_adj)
+@@ -6147 +6147 @@
+-seven_and_twentieth)
++seven_and_twentieth#NA)
+@@ -6149 +6149 @@
+-yere)
++yere#year_n)
+@@ -6152 +6152 @@
+-of)
++of#of_prep)
+@@ -6156 +6156 @@
+-our)
++our#our_pron)
+@@ -6158 +6158 @@
+-saide)
++saide#said_adj)
+@@ -6160 +6160 @@
+-Soveraigne)
++Soveraigne#sovereign_n)
+@@ -6162 +6162 @@
+-Lorde)
++Lorde#lord_n)
+@@ -6165 +6165 @@
+-the)
++the#the_adj)
+@@ -6167 +6167 @@
+-King~)))
++King~#king_n)))
+@@ -6171 +6171 @@
+-raigne))))
++raigne#reign_n))))
+@@ -6176 +6176 @@
+-or)
++or#or_conj2)
+@@ -6179 +6179 @@
+-any)
++any#any_adj)
+@@ -6181 +6181 @@
+-other)
++other#other_adj)
+@@ -6183 +6183 @@
+-acte)))))))))))))))))))))
++acte#act_n)))))))))))))))))))))
+@@ -6188 +6188 @@
+-without)
++without#without_adv)
+@@ -6191 +6191 @@
+-incurringe)
++incurringe#incur_v)
+@@ -6194 +6194 @@
+-or)
++or#or_conj2)
+@@ -6196 +6196 @@
+-ru~nynge)
++ru~nynge#run_v)
+@@ -6199 +6199 @@
+-into)
++into#into_prep)
+@@ -6204 +6204 @@
+-any)
++any#any_adj)
+@@ -6206 +6206 @@
+-daunger)
++daunger#danger_n)
+@@ -6209 +6209 @@
+-or)
++or#or_conj2)
+@@ -6212 +6212 @@
+-penaltie)))
++penaltie#penalty_n)))
+@@ -6215 +6215 @@
+-for)
++for#for_prep)
+@@ -6218 +6218 @@
+-the)
++the#the_adj)
+@@ -6220 +6220 @@
+-same)))))))))))
++same#same_adj)))))))))))
+@@ -6227 +6227 @@
+-the)
++the#the_adj)
+@@ -6229 +6229 @@
+-saide)
++saide#said_adj)
+@@ -6231 +6231 @@
+-acte)
++acte#act_n)
+@@ -6234 +6234 @@
+-made)
++made#make_v1)
+@@ -6237 +6237 @@
+-in)
++in#in_prep)
+@@ -6240 +6240 @@
+-the)
++the#the_adj)
+@@ -6242 +6242 @@
+-saide)
++saide#said_adj)
+@@ -6244 +6244 @@
+-xxvij=th=)
++xxvij=th=#NA)
+@@ -6246 +6246 @@
+-yere)))))
++yere#year_n)))))
+@@ -6249 +6249 @@
+-or)
++or#or_conj2)
+@@ -6252 +6252 @@
+-any)
++any#any_adj)
+@@ -6254 +6254 @@
+-thinge)
++thinge#thing_n1)
+@@ -6258 +6258 @@
+-therin))
++therin#therein_adv))
+@@ -6260 +6260 @@
+-conteyned))))
++conteyned#contain_v))))
+@@ -6263 +6263 @@
+-or)
++or#or_conj2)
+@@ -6266 +6266 @@
+-any)
++any#any_adj)
+@@ -6268 +6268 @@
+-other)
++other#other_adj)
+@@ -6270 +6270 @@
+-acte)
++acte#act_n)
+@@ -6273 +6273 @@
+-or)
++or#or_conj2)
+@@ -6276 +6276 @@
+-statute)))
++statute#statute_n)))
+@@ -6279 +6279 @@
+-made))))
++made#make_v1))))
+@@ -6282 +6282 @@
+-to)
++to#to_prep)
+@@ -6285 +6285 @@
+-the)
++the#the_adj)
+@@ -6287 +6287 @@
+-cont=a=rie))))
++cont=a=rie#contrary_adj))))
+@@ -6290 +6290 @@
+-notwithstandinge)))
++notwithstandinge#notwithstanding_prep)))
+@@ -6298 +6298 @@
+-Provided)
++Provided#provide_v)
+@@ -6301 +6301 @@
+-alwaye))
++alwaye#alway_adv))
+@@ -6304 +6304 @@
+-that)
++that#that_conj)
+@@ -6308 +6308 @@
+-all)
++all#all_adj)
+@@ -6310 +6310 @@
+-manner)
++manner#manner_n)
+@@ -6313 +6313 @@
+-of)
++of#of_prep)
+@@ -6316 +6316 @@
+-Kerseyes)))
++Kerseyes#kersey_n)))
+@@ -6324 +6324 @@
+-to)
++to#to_prep)
+@@ -6326 +6326 @@
+-be)
++be#be_v)
+@@ -6328 +6328 @@
+-made)
++made#make_v1)
+@@ -6331 +6331 @@
+-wrought))
++wrought#work_v))
+@@ -6334 +6334 @@
+-and)
++and#and_conj1)
+@@ -6336 +6336 @@
+-put@)
++put@#put_v)
+@@ -6339 +6339 @@
+-@to)
++@to#to_prep)
+@@ -6342 +6342 @@
+-sale))))
++sale#sale_n2))))
+@@ -6345 +6345 @@
+-within)
++within#within_adv)
+@@ -6348 +6348 @@
+-this)
++this#this_pron)
+@@ -6350 +6350 @@
+-Realme)))))
++Realme#realm_n)))))
+@@ -6355 +6355 @@
+-of)
++of#of_prep)
+@@ -6358 +6358 @@
+-the)
++the#the_adj)
+@@ -6360 +6360 @@
+-colours)
++colours#colour_n1)
+@@ -6363 +6363 @@
+-of)
++of#of_prep)
+@@ -6366 +6366 @@
+-blacke)
++blacke#black_adj)
+@@ -6368 +6368 @@
+-Marble)
++Marble#marble_n)
+@@ -6370 +6370 @@
+-russett)
++russett#russet_n)
+@@ -6372 +6372 @@
+-or)
++or#or_conj2)
+@@ -6374 +6374 @@
+-white))))))
++white#white_adj))))))
+@@ -6380 +6380 @@
+-whiche)
++whiche#which_adj)
+@@ -6382 +6382 @@
+-saide)
++saide#said_adj)
+@@ -6384 +6384 @@
+-colours))
++colours#colour_n1))
+@@ -6391 +6391 @@
+-be)
++be#be_v)
+@@ -6394 +6394 @@
+-co~monly))
++co~monly#commonly_adv))
+@@ -6397 +6397 @@
+-solde)
++solde#sell_v)
+@@ -6399 +6399 @@
+-and)
++and#and_conj1)
+@@ -6401 +6401 @@
+-retayled))
++retayled#retail_v))
+@@ -6404 +6404 @@
+-within)
++within#within_adv)
+@@ -6407 +6407 @@
+-this)
++this#this_pron)
+@@ -6409 +6409 @@
+-Realme)))))
++Realme#realm_n)))))
+@@ -6413 +6413 @@
+-shal@)
++shal@#shall_v)
+@@ -6415 +6415 @@
+-@be)
++@be#be_v)
+@@ -6417 +6417 @@
+-made)
++made#make_v1)
+@@ -6420 +6420 @@
+-of)
++of#of_prep)
+@@ -6423 +6423 @@
+-suche)
++suche#such_adj)
+@@ -6425 +6425 @@
+-content)
++content#content_n1)
+@@ -6428 +6428 @@
+-in)
++in#in_prep)
+@@ -6431 +6431 @@
+-Breadeth)))
++Breadeth#breadth_n)))
+@@ -6434 +6434 @@
+-as)
++as#as_adv)
+@@ -6444 +6444 @@
+-is)
++is#be_v)
+@@ -6446 +6446 @@
+-lymitted)
++lymitted#limit_v)
+@@ -6449 +6449 @@
+-in)
++in#in_prep)
+@@ -6452 +6452 @@
+-the)
++the#the_adj)
+@@ -6454 +6454 @@
+-saide)
++saide#said_adj)
+@@ -6456 +6456 @@
+-former)
++former#former_adj)
+@@ -6458 +6458 @@
+-Acte)))))))
++Acte#act_n)))))))
+@@ -6463 +6463 @@
+-upon)
++upon#upon_prep)
+@@ -6466 +6466 @@
+-peyne)
++peyne#pain_n1)
+@@ -6470 +6470 @@
+-in)
++in#in_prep)
+@@ -6473 +6473 @@
+-the)
++the#the_adj)
+@@ -6475 +6475 @@
+-same)
++same#same_adj)
+@@ -6477 +6477 @@
+-former)
++former#former_adj)
+@@ -6479 +6479 @@
+-Acte)))
++Acte#act_n)))
+@@ -6481 +6481 @@
+-conteyned)))))))
++conteyned#contain_v)))))))
+@@ -6487 +6487 @@
+-any)
++any#any_adj)
+@@ -6489 +6489 @@
+-thinge)
++thinge#thing_n1)
+@@ -6493 +6493 @@
+-in)
++in#in_prep)
+@@ -6496 +6496 @@
+-this)
++this#this_pron)
+@@ -6498 +6498 @@
+-p~sent)
++p~sent#present_adj)
+@@ -6500 +6500 @@
+-Acte)))
++Acte#act_n)))
+@@ -6502 +6502 @@
+-conteyned))
++conteyned#contain_v))
+@@ -6505 +6505 @@
+-to)
++to#to_prep)
+@@ -6508 +6508 @@
+-the)
++the#the_adj)
+@@ -6510 +6510 @@
+-cont=a=rie))))
++cont=a=rie#contrary_adj))))
+@@ -6513 +6513 @@
+-notwithstandinge)))
++notwithstandinge#notwithstanding_prep)))
+@@ -6521 +6521 @@
+-And)
++And#and_conj1)
+@@ -6524 +6524 @@
+-it))
++it#it_pron))
+@@ -6526 +6526 @@
+-is)
++is#be_v)
+@@ -6529 +6529 @@
+-further))
++further#further_adj))
+@@ -6531 +6531 @@
+-enacted)
++enacted#enact_v)
+@@ -6534 +6534 @@
+-by)
++by#by_prep)
+@@ -6537 +6537 @@
+-th@)
++th@#the_adj)
+@@ -6539 +6539 @@
+-@auctoritie)
++@auctoritie#authority_n)
+@@ -6541 +6541 @@
+-aforesaide)))
++aforesaide#aforesaid_adj)))
+@@ -6547 +6547 @@
+-That)
++That#that_conj)
+@@ -6552 +6552 @@
+-all)
++all#all_adj)
+@@ -6554 +6554 @@
+-and)
++and#and_conj1)
+@@ -6556 +6556 @@
+-everie))
++everie#every_adj))
+@@ -6558 +6558 @@
+-p~son)
++p~son#person_n)
+@@ -6561 +6561 @@
+-or)
++or#or_conj2)
+@@ -6564 +6564 @@
+-p~sons)))
++p~sons#person_n)))
+@@ -6568 +6568 @@
+-whiche))
++whiche#which_adj))
+@@ -6575 +6575 @@
+-shall)
++shall#shall_v)
+@@ -6578 +6578 @@
+-make)
++make#make_v1)
+@@ -6580 +6580 @@
+-or)
++or#or_conj2)
+@@ -6582 +6582 @@
+-worke))
++worke#work_v))
+@@ -6585 +6585 @@
+-any)
++any#any_adj)
+@@ -6587 +6587 @@
+-Kerseyes)
++Kerseyes#kersey_n)
+@@ -6590 +6590 @@
+-of)
++of#of_prep)
+@@ -6594 +6594 @@
+-the)
++the#the_adj)
+@@ -6596 +6596 @@
+-prices)
++prices#price_n)
+@@ -6600 +6600 @@
+-above))
++above#above_adv))
+@@ -6602 +6602 @@
+-rehersed)))
++rehersed#rehearse_v)))
+@@ -6605 +6605 @@
+-or)
++or#or_conj2)
+@@ -6608 +6608 @@
+-under)))))))))
++under#under_adv)))))))))
+@@ -6612 +6612 @@
+-shall)
++shall#shall_v)
+@@ -6615 +6615 @@
+-at)
++at#at_prep)
+@@ -6618 +6618 @@
+-all)
++all#all_adj)
+@@ -6620 +6620 @@
+-tymes)))
++tymes#time_n)))
+@@ -6623 +6623 @@
+-hereafter))
++hereafter#hereafter_adv))
+@@ -6627 +6627 @@
+-from)
++from#from_prep)
+@@ -6630 +6630 @@
+-tyme)))
++tyme#time_n)))
+@@ -6633 +6633 @@
+-to)
++to#to_prep)
+@@ -6636 +6636 @@
+-tyme))))
++tyme#time_n))))
+@@ -6638 +6638 @@
+-make)
++make#make_v1)
+@@ -6641 +6641 @@
+-the)
++the#the_adj)
+@@ -6643 +6643 @@
+-same)
++same#same_adj)
+@@ -6645 +6645 @@
+-Kerseyes))
++Kerseyes#kersey_n))
+@@ -6648 +6648 @@
+-trulye))
++trulye#truly_adv))
+@@ -6651 +6651 @@
+-without)
++without#without_adv)
+@@ -6654 +6654 @@
+-deceipte)))))
++deceipte#deceit_n)))))
+@@ -6659 +6659 @@
+-And)
++And#and_conj1)
+@@ -6662 +6662 @@
+-that)
++that#that_conj)
+@@ -6668 +6668 @@
+-they))
++they#they_pron))
+@@ -6671 +6671 @@
+-or)
++or#or_conj2)
+@@ -6674 +6674 @@
+-any)
++any#any_adj)
+@@ -6677 +6677 @@
+-of)
++of#of_prep)
+@@ -6680 +6680 @@
+-them))))))
++them#them_pron))))))
+@@ -6683 +6683 @@
+-do)
++do#do_v)
+@@ -6685 +6685 @@
+-nor)
++nor#nor_conj1)
+@@ -6687 +6687 @@
+-shall))
++shall#shall_v))
+@@ -6689 +6689 @@
+-falsefye)
++falsefye#falsify_v)
+@@ -6692 +6692 @@
+-or)
++or#or_conj2)
+@@ -6695 +6695 @@
+-untrulie))
++untrulie#untruly_adv))
+@@ -6698 +6698 @@
+-make)
++make#make_v1)
+@@ -6700 +6700 @@
+-or)
++or#or_conj2)
+@@ -6702 +6702 @@
+-stoppe)))
++stoppe#stop_v)))
+@@ -6705 +6705 @@
+-any)
++any#any_adj)
+@@ -6707 +6707 @@
+-manner)
++manner#manner_n)
+@@ -6710 +6710 @@
+-Kerseyes)))
++Kerseyes#kersey_n)))
+@@ -6713 +6713 @@
+-withe)
++withe#with_prep)
+@@ -6717 +6717 @@
+-flock~))
++flock~#flock_n2))
+@@ -6721 +6721 @@
+-thru~mes)))
++thru~mes#thrum_n2)))
+@@ -6724 +6724 @@
+-or)
++or#or_conj2)
+@@ -6727 +6727 @@
+-other)
++other#other_adj)
+@@ -6729 +6729 @@
+-deceivable)
++deceivable#deceivable_adj)
+@@ -6731 +6731 @@
+-things)))
++things#thing_n1)))
+@@ -6734 +6734 @@
+-or)
++or#or_conj2)
+@@ -6737 +6737 @@
+-things)
++things#thing_n1)
+@@ -6740 +6740 @@
+-to)
++to#to_prep)
+@@ -6743 +6743 @@
+-the)
++the#the_adj)
+@@ -6745 +6745 @@
+-deceite)
++deceite#deceit_n)
+@@ -6748 +6748 @@
+-of)
++of#of_prep)
+@@ -6751 +6751 @@
+-any)
++any#any_adj)
+@@ -6753 +6753 @@
+-p~son)
++p~son#person_n)
+@@ -6756 +6756 @@
+-or)
++or#or_conj2)
+@@ -6759 +6759 @@
+-p~sons))))))))))))
++p~sons#person_n))))))))))))
+@@ -6764 +6764 @@
+-nor)
++nor#nor_conj1)
+@@ -6769 +6769 @@
+-shall)
++shall#shall_v)
+@@ -6772 +6772 @@
+-by)
++by#by_prep)
+@@ -6775 +6775 @@
+-colour)
++colour#colour_n1)
+@@ -6778 +6778 @@
+-of)
++of#of_prep)
+@@ -6781 +6781 @@
+-any)
++any#any_adj)
+@@ -6783 +6783 @@
+-lib~tye)
++lib~tye#liberty_n)
+@@ -6787 +6787 @@
+-to)
++to#to_prep)
+@@ -6790 +6790 @@
+-them)))
++them#them_pron)))
+@@ -6792 +6792 @@
+-geven))
++geven#give_v))
+@@ -6795 +6795 @@
+-or)
++or#or_conj2)
+@@ -6798 +6798 @@
+-other)
++other#other_adj)
+@@ -6800 +6800 @@
+-matter)
++matter#matter_n1)
+@@ -6803 +6803 @@
+-comprised)
++comprised#comprise_v)
+@@ -6806 +6806 @@
+-in)
++in#in_prep)
+@@ -6809 +6809 @@
+-this)
++this#this_pron)
+@@ -6811 +6811 @@
+-estatute))))))))))
++estatute#estatute_n))))))))))
+@@ -6813 +6813 @@
+-make)
++make#make_v1)
+@@ -6816 +6816 @@
+-worke))
++worke#work_v))
+@@ -6819 +6819 @@
+-and)
++and#and_conj1)
+@@ -6821 +6821 @@
+-put@)
++put@#put_v)
+@@ -6824 +6824 @@
+-@to)
++@to#to_prep)
+@@ -6827 +6827 @@
+-sale))))
++sale#sale_n2))))
+@@ -6830 +6830 @@
+-any)
++any#any_adj)
+@@ -6832 +6832 @@
+-coloured)
++coloured#coloured_adj)
+@@ -6834 +6834 @@
+-Kersey)
++Kersey#kersey_n)
+@@ -6837 +6837 @@
+-or)
++or#or_conj2)
+@@ -6840 +6840 @@
+-Kerseyes)))
++Kerseyes#kersey_n)))
+@@ -6843 +6843 @@
+-of)
++of#of_prep)
+@@ -6846 +6846 @@
+-the)
++the#the_adj)
+@@ -6848 +6848 @@
+-price)
++price#price_n)
+@@ -6852 +6852 @@
+-above))
++above#above_adv))
+@@ -6854 +6854 @@
+-rehersed))))
++rehersed#rehearse_v))))
+@@ -6860 +6860 @@
+-whiche))
++whiche#which_adj))
+@@ -6867 +6867 @@
+-shall)
++shall#shall_v)
+@@ -6869 +6869 @@
+-conteyne)
++conteyne#contain_v)
+@@ -6873 +6873 @@
+-any)
++any#any_adj)
+@@ -6875 +6875 @@
+-lesse))
++lesse#less_adj))
+@@ -6878 +6878 @@
+-in)
++in#in_prep)
+@@ -6881 +6881 @@
+-bredth)))
++bredth#breadth_n)))
+@@ -6884 +6884 @@
+-than)
++than#than_conj)
+@@ -6888 +6888 @@
+-thre)
++thre#five_v)
+@@ -6890 +6890 @@
+-quarters)
++quarters#quarter_n)
+@@ -6893 +6893 @@
+-of)
++of#of_prep)
+@@ -6896 +6896 @@
+-a)
++a#a_adj2)
+@@ -6898 +6898 @@
+-yarde))))
++yarde#yard_n2))))
+@@ -6901 +6901 @@
+-and)
++and#and_conj1)
+@@ -6904 +6904 @@
+-one)
++one#one_adj)
+@@ -6906 +6906 @@
+-nayle)))
++nayle#nail_n)))
+@@ -6909 +6909 @@
+-within)
++within#within_adv)
+@@ -6912 +6912 @@
+-the)
++the#the_adj)
+@@ -6914 +6914 @@
+-liste)))
++liste#list_n3)))
+@@ -6922 +6922 @@
+-to)
++to#to_prep)
+@@ -6924 +6924 @@
+-be)
++be#be_v)
+@@ -6926 +6926 @@
+-tried)
++tried#try_v)
+@@ -6929 +6929 @@
+-at)
++at#at_prep)
+@@ -6932 +6932 @@
+-the)
++the#the_adj)
+@@ -6934 +6934 @@
+-Water)))))))))))
++Water#water_n)))))))))))
+@@ -6940 +6940 @@
+-upon)
++upon#upon_prep)
+@@ -6943 +6943 @@
+-peyne)
++peyne#pain_n1)
+@@ -6946 +6946 @@
+-to)
++to#to_prep)
+@@ -6948 +6948 @@
+-forfeyte)
++forfeyte#forfeit_v)
+@@ -6951 +6951 @@
+-for)
++for#for_prep)
+@@ -6954 +6954 @@
+-everie)
++everie#every_adj)
+@@ -6956 +6956 @@
+-Kersey)
++Kersey#kersey_n)
+@@ -6961 +6961 @@
+-so))
++so#so_adv))
+@@ -6964 +6964 @@
+-falslye))
++falslye#falsely_adv))
+@@ -6966 +6966 @@
+-made))
++made#make_v1))
+@@ -6969 +6969 @@
+-or)
++or#or_conj2)
+@@ -6972 +6972 @@
+-stopped)
++stopped#stop_v)
+@@ -6975 +6975 @@
+-withe)
++withe#with_prep)
+@@ -6979 +6979 @@
+-flock~))
++flock~#flock_n2))
+@@ -6983 +6983 @@
+-thru~mes)))
++thru~mes#thrum_n2)))
+@@ -6986 +6986 @@
+-or)
++or#or_conj2)
+@@ -6989 +6989 @@
+-other)
++other#other_adj)
+@@ -6991 +6991 @@
+-deceyvable)
++deceyvable#deceivable_adj)
+@@ -6993 +6993 @@
+-thinge)))
++thinge#thing_n1)))
+@@ -6996 +6996 @@
+-or)
++or#or_conj2)
+@@ -6999 +6999 @@
+-thing~)))))
++thing~#thing_n1)))))
+@@ -7002 +7002 @@
+-to)
++to#to_prep)
+@@ -7005 +7005 @@
+-the)
++the#the_adj)
+@@ -7007 +7007 @@
+-deceite)
++deceite#deceit_n)
+@@ -7010 +7010 @@
+-of)
++of#of_prep)
+@@ -7013 +7013 @@
+-any)
++any#any_adj)
+@@ -7015 +7015 @@
+-p~son)
++p~son#person_n)
+@@ -7018 +7018 @@
+-or)
++or#or_conj2)
+@@ -7021 +7021 @@
+-p~sons))))))))))))
++p~sons#person_n))))))))))))
+@@ -7024 +7024 @@
+-Twenty)
++Twenty#twenty_adj)
+@@ -7026 +7026 @@
+-shilling~)))))
++shilling~#shilling_n)))))
+@@ -7031 +7031 @@
+-and)
++and#and_conj1)
+@@ -7034 +7034 @@
+-upon)
++upon#upon_prep)
+@@ -7037 +7037 @@
+-peyne)
++peyne#pain_n1)
+@@ -7040 +7040 @@
+-to)
++to#to_prep)
+@@ -7042 +7042 @@
+-forfeyte)
++forfeyte#forfeit_v)
+@@ -7045 +7045 @@
+-for)
++for#for_prep)
+@@ -7048 +7048 @@
+-everie)
++everie#every_adj)
+@@ -7050 +7050 @@
+-suche)
++suche#such_adj)
+@@ -7052 +7052 @@
+-coloured)
++coloured#coloured_adj)
+@@ -7054 +7054 @@
+-Kersey)
++Kersey#kersey_n)
+@@ -7057 +7057 @@
+-of)
++of#of_prep)
+@@ -7060 +7060 @@
+-the)
++the#the_adj)
+@@ -7062 +7062 @@
+-price)
++price#price_n)
+@@ -7066 +7066 @@
+-above))
++above#above_adv))
+@@ -7068 +7068 @@
+-rehersed))))
++rehersed#rehearse_v))))
+@@ -7080 +7080 @@
+-to)
++to#to_prep)
+@@ -7082 +7082 @@
+-be)
++be#be_v)
+@@ -7084 +7084 @@
+-made))
++made#make_v1))
+@@ -7087 +7087 @@
+-and)
++and#and_conj1)
+@@ -7090 +7090 @@
+-put@)
++put@#put_v)
+@@ -7093 +7093 @@
+-@to)
++@to#to_prep)
+@@ -7096 +7096 @@
+-sale)))))))
++sale#sale_n2)))))))
+@@ -7100 +7100 @@
+-not)
++not#not_adv)
+@@ -7102 +7102 @@
+-conteyninge)
++conteyninge#contain_v)
+@@ -7106 +7106 @@
+-thre)
++thre#five_v)
+@@ -7108 +7108 @@
+-Quarters)
++Quarters#quarter_n)
+@@ -7111 +7111 @@
+-of)
++of#of_prep)
+@@ -7114 +7114 @@
+-a)
++a#a_adj2)
+@@ -7116 +7116 @@
+-yarde))))
++yarde#yard_n2))))
+@@ -7119 +7119 @@
+-and)
++and#and_conj1)
+@@ -7122 +7122 @@
+-one)
++one#one_adj)
+@@ -7124 +7124 @@
+-nayle)))
++nayle#nail_n)))
+@@ -7127 +7127 @@
+-in)
++in#in_prep)
+@@ -7130 +7130 @@
+-Breadth)))
++Breadth#breadth_n)))
+@@ -7133 +7133 @@
+-within)
++within#within_adv)
+@@ -7136 +7136 @@
+-the)
++the#the_adj)
+@@ -7138 +7138 @@
+-Liste)))
++Liste#list_n3)))
+@@ -7146 +7146 @@
+-to)
++to#to_prep)
+@@ -7148 +7148 @@
+-be)
++be#be_v)
+@@ -7150 +7150 @@
+-tried)
++tried#try_v)
+@@ -7153 +7153 @@
+-at)
++at#at_prep)
+@@ -7156 +7156 @@
+-the)
++the#the_adj)
+@@ -7158 +7158 @@
+-Water)))))))))))
++Water#water_n)))))))))))
+@@ -7161 +7161 @@
+-as)
++as#as_adv)
+@@ -7171 +7171 @@
+-ys)
++ys#be_v)
+@@ -7174 +7174 @@
+-aforesaide)))))
++aforesaide#aforesaid_adj)))))
+@@ -7179 +7179 @@
+-Twentye)
++Twentye#twenty_adj)
+@@ -7181 +7181 @@
+-pence)))))))))))))
++pence#penny_n)))))))))))))
+@@ -7187 +7187 @@
+-the)
++the#the_adj)
+@@ -7189 +7189 @@
+-one)
++one#one_adj)
+@@ -7191 +7191 @@
+-halfe)
++halfe#half_n)
+@@ -7194 +7194 @@
+-of)
++of#of_prep)
+@@ -7197 +7197 @@
+-whiche)
++whiche#which_adj)
+@@ -7199 +7199 @@
+-forfeytures))))
++forfeytures#forfeiture_n))))
+@@ -7207 +7207 @@
+-to)
++to#to_prep)
+@@ -7209 +7209 @@
+-be)
++be#be_v)
+@@ -7212 +7212 @@
+-to)
++to#to_prep)
+@@ -7215 +7215 @@
+-our)
++our#our_pron)
+@@ -7217 +7217 @@
+-Soveraigne)
++Soveraigne#sovereign_n)
+@@ -7219 +7219 @@
+-Lorde)
++Lorde#lord_n)
+@@ -7222 +7222 @@
+-the)
++the#the_adj)
+@@ -7226 +7226 @@
+-Kinge)))))
++Kinge#king_n)))))
+@@ -7229 +7229 @@
+-and)
++and#and_conj1)
+@@ -7233 +7233 @@
+-th@)
++th@#the_adj)
+@@ -7235 +7235 @@
+-@other)
++@other#other_adj)
+@@ -7237 +7237 @@
+-halfe)
++halfe#half_n)
+@@ -7240 +7240 @@
+-thereof)))
++thereof#thereof_adv)))
+@@ -7242 +7242 @@
+-to)
++to#to_prep)
+@@ -7244 +7244 @@
+-be)
++be#be_v)
+@@ -7247 +7247 @@
+-to)
++to#to_prep)
+@@ -7250 +7250 @@
+-him)
++him#him_pron)
+@@ -7252 +7252 @@
+-or)
++or#or_conj2)
+@@ -7254 +7254 @@
+-them)
++them#them_pron)
+@@ -7259 +7259 @@
+-that)
++that#that_conj)
+@@ -7264 +7264 @@
+-will)
++will#will_v1)
+@@ -7266 +7266 @@
+-sue)
++sue#sue_v)
+@@ -7269 +7269 @@
+-for)
++for#for_prep)
+@@ -7272 +7272 @@
+-the)
++the#the_adj)
+@@ -7274 +7274 @@
+-same)))
++same#same_adj)))
+@@ -7277 +7277 @@
+-in)
++in#in_prep)
+@@ -7280 +7280 @@
+-any)
++any#any_adj)
+@@ -7283 +7283 @@
+-of)
++of#of_prep)
+@@ -7287 +7287 @@
+-the)
++the#the_adj)
+@@ -7289 +7289 @@
+-King~))
++King~#king_n))
+@@ -7291 +7291 @@
+-Court~)
++Court~#court_n1)
+@@ -7294 +7294 @@
+-of)
++of#of_prep)
+@@ -7297 +7297 @@
+-Recorde)))))))
++Recorde#record_n)))))))
+@@ -7300 +7300 @@
+-by)
++by#by_prep)
+@@ -7304 +7304 @@
+-acc~on)
++acc~on#action_n)
+@@ -7307 +7307 @@
+-of)
++of#of_prep)
+@@ -7310 +7310 @@
+-Dett))))
++Dett#debt_n))))
+@@ -7314 +7314 @@
+-Bill)))
++Bill#bill_n3)))
+@@ -7318 +7318 @@
+-Playnte)))
++Playnte#plaint_n)))
+@@ -7321 +7321 @@
+-or)
++or#or_conj2)
+@@ -7324 +7324 @@
+-Informac~on)))))
++Informac~on#information_n)))))
+@@ -7330 +7330 @@
+-wherein))
++wherein#wherein_adv))
+@@ -7339 +7339 @@
+-the)
++the#the_adj)
+@@ -7341 +7341 @@
+-Defendaunts))
++Defendaunts#defendant_n))
+@@ -7343 +7343 @@
+-shall)
++shall#shall_v)
+@@ -7345 +7345 @@
+-not)
++not#not_adv)
+@@ -7347 +7347 @@
+-be)
++be#be_v)
+@@ -7349 +7349 @@
+-receyved)
++receyved#receive_v)
+@@ -7352 +7352 @@
+-to)
++to#to_prep)
+@@ -7354 +7354 @@
+-wage)
++wage#wage_v)
+@@ -7357 +7357 @@
+-his)
++his#his_adj)
+@@ -7359 +7359 @@
+-lawe))))
++lawe#law_n1))))
+@@ -7362 +7362 @@
+-nor)
++nor#nor_conj1)
+@@ -7366 +7366 @@
+-anye)
++anye#any_adj)
+@@ -7368 +7368 @@
+-essoyne)
++essoyne#essoin_n)
+@@ -7371 +7371 @@
+-or)
++or#or_conj2)
+@@ -7374 +7374 @@
+-p~tecc~on)))
++p~tecc~on#protection_n)))
+@@ -7377 +7377 @@
+-for)
++for#for_prep)
+@@ -7380 +7380 @@
+-suche)
++suche#such_adj)
+@@ -7382 +7382 @@
+-Defendaunte)))
++Defendaunte#defendant_n)))
+@@ -7386 +7386 @@
+-to)
++to#to_prep)
+@@ -7388 +7388 @@
+-be)
++be#be_v)
+@@ -7390 +7390 @@
+-allowed)))))))))))))
++allowed#allow_v)))))))))))))
+@@ -7398 +7398 @@
+-Provided)
++Provided#provide_v)
+@@ -7401 +7401 @@
+-alwaye))
++alwaye#alway_adv))
+@@ -7404 +7404 @@
+-that)
++that#that_conj)
+@@ -7410 +7410 @@
+-the)
++the#the_adj)
+@@ -7412 +7412 @@
+-saide)
++saide#said_adj)
+@@ -7414 +7414 @@
+-former)
++former#former_adj)
+@@ -7416 +7416 @@
+-Acte)
++Acte#act_n)
+@@ -7419 +7419 @@
+-made)
++made#make_v1)
+@@ -7422 +7422 @@
+-in)
++in#in_prep)
+@@ -7425 +7425 @@
+-the)
++the#the_adj)
+@@ -7427 +7427 @@
+-saide)
++saide#said_adj)
+@@ -7429 +7429 @@
+-xxvij=th=)
++xxvij=th=#NA)
+@@ -7431 +7431 @@
+-yere)))))
++yere#year_n)))))
+@@ -7436 +7436 @@
+-and)
++and#and_conj1)
+@@ -7439 +7439 @@
+-all)
++all#all_adj)
+@@ -7441 +7441 @@
+-Clauses)
++Clauses#clause_n)
+@@ -7444 +7444 @@
+-and)
++and#and_conj1)
+@@ -7447 +7447 @@
+-Articles)))
++Articles#article_n)))
+@@ -7451 +7451 @@
+-in)
++in#in_prep)
+@@ -7454 +7454 @@
+-the)
++the#the_adj)
+@@ -7456 +7456 @@
+-same)))
++same#same_adj)))
+@@ -7458 +7458 @@
+-conteyned))
++conteyned#contain_v))
+@@ -7463 +7463 @@
+-other)
++other#other_adj)
+@@ -7466 +7466 @@
+-then)
++then#than_conj)
+@@ -7469 +7469 @@
+-concerning)
++concerning#concerning_prep)
+@@ -7472 +7472 @@
+-the)
++the#the_adj)
+@@ -7474 +7474 @@
+-breadeth)
++breadeth#breadth_n)
+@@ -7477 +7477 @@
+-of)
++of#of_prep)
+@@ -7480 +7480 @@
+-coloured)
++coloured#coloured_adj)
+@@ -7482 +7482 @@
+-Kerseyes)
++Kerseyes#kersey_n)
+@@ -7485 +7485 @@
+-of)
++of#of_prep)
+@@ -7488 +7488 @@
+-the)
++the#the_adj)
+@@ -7490 +7490 @@
+-prices)
++prices#price_n)
+@@ -7494 +7494 @@
+-afore))
++afore#afore_adv))
+@@ -7496 +7496 @@
+-rehersed)))))))))))))
++rehersed#rehearse_v)))))))))))))
+@@ -7498 +7498 @@
+-shall)
++shall#shall_v)
+@@ -7500 +7500 @@
+-stande))
++stande#stand_v))
+@@ -7503 +7503 @@
+-and)
++and#and_conj1)
+@@ -7506 +7506 @@
+-be)
++be#be_v)
+@@ -7509 +7509 @@
+-in)
++in#in_prep)
+@@ -7512 +7512 @@
+-their)
++their#their_adj)
+@@ -7514 +7514 @@
+-full)
++full#full_adj)
+@@ -7516 +7516 @@
+-strenghe)
++strenghe#strength_n)
+@@ -7519 +7519 @@
+-and)
++and#and_conj1)
+@@ -7522 +7522 @@
+-effecte)))))))
++effecte#effect_n)))))))
+@@ -7525 +7525 @@
+-and)
++and#and_conj1)
+@@ -7528 +7528 @@
+-be)
++be#be_v)
+@@ -7531 +7531 @@
+-kepte)
++kepte#keep_v)
+@@ -7533 +7533 @@
+-and)
++and#and_conj1)
+@@ -7535 +7535 @@
+-observed))))
++observed#observe_v))))
+@@ -7540 +7540 @@
+-accordinge)
++accordinge#accord_v)
+@@ -7543 +7543 @@
+-to)
++to#to_prep)
+@@ -7546 +7546 @@
+-the)
++the#the_adj)
+@@ -7548 +7548 @@
+-tenour)
++tenour#tenor_n1)
+@@ -7551 +7551 @@
+-and)
++and#and_conj1)
+@@ -7554 +7554 @@
+-purporte)))
++purporte#purport_n)))
+@@ -7557 +7557 @@
+-of)
++of#of_prep)
+@@ -7560 +7560 @@
+-the)
++the#the_adj)
+@@ -7562 +7562 @@
+-same)
++same#same_adj)
+@@ -7564 +7564 @@
+-Acte))))))))
++Acte#act_n))))))))
+@@ -7572 +7572 @@
+-Provided)
++Provided#provide_v)
+@@ -7574 +7574 @@
+-also)
++also#also_adv)
+@@ -7577 +7577 @@
+-and)
++and#and_conj1)
+@@ -7579 +7579 @@
+-be)
++be#be_v)
+@@ -7582 +7582 @@
+-it))
++it#it_pron))
+@@ -7584 +7584 @@
+-enacted)
++enacted#enact_v)
+@@ -7587 +7587 @@
+-by)
++by#by_prep)
+@@ -7590 +7590 @@
+-the)
++the#the_adj)
+@@ -7592 +7592 @@
+-auctoritie)
++auctoritie#authority_n)
+@@ -7595 +7595 @@
+-aforesaide)))))
++aforesaide#aforesaid_adj)))))
+@@ -7600 +7600 @@
+-That)
++That#that_conj)
+@@ -7604 +7604 @@
+-the)
++the#the_adj)
+@@ -7606 +7606 @@
+-Aulnager)
++Aulnager#alnager_n)
+@@ -7609 +7609 @@
+-of)
++of#of_prep)
+@@ -7612 +7612 @@
+-ev~ye)
++ev~ye#every_adj)
+@@ -7614 +7614 @@
+-County))))
++County#county_n1))))
+@@ -7617 +7617 @@
+-shall)
++shall#shall_v)
+@@ -7619 +7619 @@
+-and)
++and#and_conj1)
+@@ -7621 +7621 @@
+-maye))
++maye#may_v1))
+@@ -7624 +7624 @@
+-laufullye))
++laufullye#lawfully_adv))
+@@ -7626 +7626 @@
+-seale)
++seale#seal_v1)
+@@ -7629 +7629 @@
+-everie)
++everie#every_adj)
+@@ -7632 +7632 @@
+-of)
++of#of_prep)
+@@ -7635 +7635 @@
+-the)
++the#the_adj)
+@@ -7637 +7637 @@
+-same)
++same#same_adj)
+@@ -7639 +7639 @@
+-coloured)
++coloured#coloured_adj)
+@@ -7641 +7641 @@
+-Kerseyes)
++Kerseyes#kersey_n)
+@@ -7644 +7644 @@
+-of)
++of#of_prep)
+@@ -7647 +7647 @@
+-the)
++the#the_adj)
+@@ -7649 +7649 @@
+-prices)
++prices#price_n)
+@@ -7652 +7652 @@
+-abovesaide)))))))
++abovesaide#abovesaid_adj)))))))
+@@ -7657 +7657 @@
+-in)
++in#in_prep)
+@@ -7660 +7660 @@
+-like)
++like#like_adj)
+@@ -7662 +7662 @@
+-manner)
++manner#manner_n)
+@@ -7665 +7665 @@
+-and)
++and#and_conj1)
+@@ -7668 +7668 @@
+-fourme)))
++fourme#form_n)))
+@@ -7671 +7671 @@
+-as)
++as#as_adv)
+@@ -7682 +7682 @@
+-he)
++he#he_pron)
+@@ -7684 +7684 @@
+-or)
++or#or_conj2)
+@@ -7686 +7686 @@
+-they))
++they#they_pron))
+@@ -7689 +7689 @@
+-shoulde)
++shoulde#shall_v)
+@@ -7691 +7691 @@
+-or)
++or#or_conj2)
+@@ -7693 +7693 @@
+-myght))
++myght#may_v1))
+@@ -7695 +7695 @@
+-have)
++have#have_v)
+@@ -7697 +7697 @@
+-done)
++done#do_v)
+@@ -7700 +7700 @@
+-yf)
++yf#if_conj)
+@@ -7707 +7707 @@
+-the)
++the#the_adj)
+@@ -7709 +7709 @@
+-saide)
++saide#said_adj)
+@@ -7711 +7711 @@
+-former)
++former#former_adj)
+@@ -7713 +7713 @@
+-Acte))
++Acte#act_n))
+@@ -7715 +7715 @@
+-had)
++had#have_v)
+@@ -7718 +7718 @@
+-never))
++never#never_adv))
+@@ -7720 +7720 @@
+-bene)
++bene#be_v)
+@@ -7723 +7723 @@
+-had)
++had#have_v)
+@@ -7725 +7725 @@
+-nor)
++nor#nor_conj1)
+@@ -7727 +7727 @@
+-made))))))))))))
++made#make_v1))))))))))))
+@@ -7735 +7735 @@
+-Provided)
++Provided#provide_v)
+@@ -7737 +7737 @@
+-also)
++also#also_adv)
+@@ -7740 +7740 @@
+-that)
++that#that_conj)
+@@ -7745 +7745 @@
+-none)
++none#none_pron)
+@@ -7748 +7748 @@
+-of)
++of#of_prep)
+@@ -7751 +7751 @@
+-the)
++the#the_adj)
+@@ -7753 +7753 @@
+-said)
++said#said_adj)
+@@ -7755 +7755 @@
+-Kerseyes)
++Kerseyes#kersey_n)
+@@ -7758 +7758 @@
+-of)
++of#of_prep)
+@@ -7761 +7761 @@
+-the)
++the#the_adj)
+@@ -7763 +7763 @@
+-prices)
++prices#price_n)
+@@ -7767 +7767 @@
+-afore))
++afore#afore_adv))
+@@ -7769 +7769 @@
+-lymitted)))))))
++lymitted#limit_v)))))))
+@@ -7774 +7774 @@
+-nor)
++nor#nor_conj1)
+@@ -7777 +7777 @@
+-any)
++any#any_adj)
+@@ -7779 +7779 @@
+-other)
++other#other_adj)
+@@ -7781 +7781 @@
+-Kersey)
++Kersey#kersey_n)
+@@ -7784 +7784 @@
+-or)
++or#or_conj2)
+@@ -7787 +7787 @@
+-Brode)
++Brode#broad_adj1)
+@@ -7789 +7789 @@
+-Clothe)))
++Clothe#cloth_n)))
+@@ -7792 +7792 @@
+-made)
++made#make_v1)
+@@ -7795 +7795 @@
+-within)
++within#within_adv)
+@@ -7798 +7798 @@
+-this)
++this#this_pron)
+@@ -7800 +7800 @@
+-Realme)))
++Realme#realm_n)))
+@@ -7803 +7803 @@
+-to)
++to#to_prep)
+@@ -7805 +7805 @@
+-be)
++be#be_v)
+@@ -7808 +7808 @@
+-uttered)
++uttered#utter_v1)
+@@ -7810 +7810 @@
+-and)
++and#and_conj1)
+@@ -7812 +7812 @@
+-soulde)))))))
++soulde#sell_v)))))))
+@@ -7816 +7816 @@
+-shal@)
++shal@#shall_v)
+@@ -7818 +7818 @@
+-@be)
++@be#be_v)
+@@ -7820 +7820 @@
+-put@)
++put@#put_v)
+@@ -7823 +7823 @@
+-to@)
++to@#to_prep)
+@@ -7826 +7826 @@
+-sale)))
++sale#sale_n2)))
+@@ -7829 +7829 @@
+-before)
++before#before_adv)
+@@ -7832 +7832 @@
+-that)
++that#that_conj)
+@@ -7837 +7837 @@
+-they))
++they#they_pron))
+@@ -7840 +7840 @@
+-and)
++and#and_conj1)
+@@ -7843 +7843 @@
+-everie)
++everie#every_adj)
+@@ -7846 +7846 @@
+-of)
++of#of_prep)
+@@ -7849 +7849 @@
+-them))))))
++them#them_pron))))))
+@@ -7851 +7851 @@
+-shal@)
++shal@#shall_v)
+@@ -7853 +7853 @@
+-@be)
++@be#be_v)
+@@ -7855 +7855 @@
+-sealed)
++sealed#seal_v1)
+@@ -7858 +7858 @@
+-by)
++by#by_prep)
+@@ -7861 +7861 @@
+-the)
++the#the_adj)
+@@ -7863 +7863 @@
+-Aulnager)))
++Aulnager#alnager_n)))
+@@ -7866 +7866 @@
+-withe)
++withe#with_prep)
+@@ -7870 +7870 @@
+-the)
++the#the_adj)
+@@ -7872 +7872 @@
+-Kings))
++Kings#NA))
+@@ -7874 +7874 @@
+-Seale))))))
++Seale#NA))))))
+@@ -7877 +7877 @@
+-as)
++as#as_adv)
+@@ -7887 +7887 @@
+-hathe)
++hathe#have_v)
+@@ -7889 +7889 @@
+-bene)
++bene#be_v)
+@@ -7892 +7892 @@
+-accustomed)))))))
++accustomed#accustomed_adj)))))))
+@@ -7906 +7906 @@
+-CHAPTER)
++CHAPTER#chapter_n)
+@@ -7908 +7908 @@
+-IX)
++IX#nine_adj)
+@@ -7916 +7916 @@
+-An)
++An#a_adj2)
+@@ -7918 +7918 @@
+-Acte)
++Acte#act_n)
+@@ -7921 +7921 @@
+-against)
++against#against_prep)
+@@ -7924 +7924 @@
+-Usurye)))
++Usurye#usury_n)))
+@@ -7938 +7938 @@
+-Wheare))
++Wheare#where_adv))
+@@ -7946 +7946 @@
+-before)
++before#before_adv)
+@@ -7949 +7949 @@
+-this)
++this#this_pron)
+@@ -7951 +7951 @@
+-tyme)))
++tyme#time_n)))
+@@ -7955 +7955 @@
+-div~se)
++div~se#diverse_adj)
+@@ -7957 +7957 @@
+-and)
++and#and_conj1)
+@@ -7959 +7959 @@
+-sondrie))
++sondrie#sundry_adj))
+@@ -7961 +7961 @@
+-Actes)
++Actes#act_n)
+@@ -7965 +7965 @@
+-Statut~)))
++Statut~#statute_n)))
+@@ -7968 +7968 @@
+-and)
++and#and_conj1)
+@@ -7971 +7971 @@
+-Lawes))))
++Lawes#law_n1))))
+@@ -7973 +7973 @@
+-have)
++have#have_v)
+@@ -7975 +7975 @@
+-bene)
++bene#be_v)
+@@ -7978 +7978 @@
+-ordeyned)
++ordeyned#ordain_v)
+@@ -7980 +7980 @@
+-had)
++had#have_v)
+@@ -7982 +7982 @@
+-&)
++&#and_conj1)
+@@ -7984 +7984 @@
+-made))
++made#make_v1))
+@@ -7987 +7987 @@
+-within)
++within#within_adv)
+@@ -7990 +7990 @@
+-this)
++this#this_pron)
+@@ -7992 +7992 @@
+-Realme)))
++Realme#realm_n)))
+@@ -7995 +7995 @@
+-for)
++for#for_prep)
+@@ -7998 +7998 @@
+-th@)
++th@#the_adj)
+@@ -8000 +8000 @@
+-@avoydinge)
++@avoydinge#avoiding_n)
+@@ -8003 +8003 @@
+-and)
++and#and_conj1)
+@@ -8006 +8006 @@
+-punyshment)))
++punyshment#punishment_n)))
+@@ -8010 +8010 @@
+-of)
++of#of_prep)
+@@ -8013 +8013 @@
+-Usurye)
++Usurye#usury_n)
+@@ -8018 +8018 @@
+-beinge)
++beinge#be_v)
+@@ -8021 +8021 @@
+-a)
++a#a_adj2)
+@@ -8023 +8023 @@
+-thinge)
++thinge#thing_n1)
+@@ -8026 +8026 @@
+-unlaufull))))))
++unlaufull#unlawful_adj))))))
+@@ -8031 +8031 @@
+-and)
++and#and_conj1)
+@@ -8034 +8034 @@
+-of)
++of#of_prep)
+@@ -8037 +8037 @@
+-other)
++other#other_adj)
+@@ -8039 +8039 @@
+-corrupte)
++corrupte#corrupt_adj)
+@@ -8041 +8041 @@
+-bargaynes)
++bargaynes#bargain_n1)
+@@ -8045 +8045 @@
+-shift~)))
++shift~#shift_n)))
+@@ -8048 +8048 @@
+-and)
++and#and_conj1)
+@@ -8051 +8051 @@
+-chev=s=nses)))))))))
++chev=s=nses#chevisance_n1)))))))))
+@@ -8057 +8057 @@
+-w=ch=)
++w=ch=#which_adj)
+@@ -8059 +8059 @@
+-Actes)
++Actes#act_n)
+@@ -8063 +8063 @@
+-Statut~)))
++Statut~#statute_n)))
+@@ -8066 +8066 @@
+-and)
++and#and_conj1)
+@@ -8069 +8069 @@
+-Lawes))))
++Lawes#law_n1))))
+@@ -8077 +8077 @@
+-ben)
++ben#be_v)
+@@ -8080 +8080 @@
+-soe)
++soe#so_adv)
+@@ -8082 +8082 @@
+-obscure)
++obscure#obscure_adj)
+@@ -8085 +8085 @@
+-and)
++and#and_conj1)
+@@ -8088 +8088 @@
+-darke)))
++darke#dark_adj)))
+@@ -8091 +8091 @@
+-in)
++in#in_prep)
+@@ -8094 +8094 @@
+-sentenc~)
++sentenc~#sentence_n)
+@@ -8096 +8096 @@
+-wordes)
++wordes#word_n)
+@@ -8098 +8098 @@
+-and)
++and#and_conj1)
+@@ -8100 +8100 @@
+-termes)))))
++termes#term_n)))))
+@@ -8105 +8105 @@
+-and)
++and#and_conj1)
+@@ -8109 +8109 @@
+-upon)
++upon#upon_prep)
+@@ -8112 +8112 @@
+-the)
++the#the_adj)
+@@ -8114 +8114 @@
+-same)))
++same#same_adj)))
+@@ -8118 +8118 @@
+-soe)
++soe#so_adv)
+@@ -8120 +8120 @@
+-many))
++many#many_adj))
+@@ -8122 +8122 @@
+-doubt~)
++doubt~#doubt_n1)
+@@ -8126 +8126 @@
+-ambiguyties)))
++ambiguyties#ambiguity_n)))
+@@ -8129 +8129 @@
+-and)
++and#and_conj1)
+@@ -8132 +8132 @@
+-questions))))
++questions#question_n))))
+@@ -8134 +8134 @@
+-have)
++have#have_v)
+@@ -8137 +8137 @@
+-risen)
++risen#rise_v)
+@@ -8139 +8139 @@
+-and)
++and#and_conj1)
+@@ -8141 +8141 @@
+-growen))))
++growen#grow_v))))
+@@ -8146 +8146 @@
+-&)
++&#and_conj1)
+@@ -8150 +8150 @@
+-the)
++the#the_adj)
+@@ -8152 +8152 @@
+-same)
++same#same_adj)
+@@ -8154 +8154 @@
+-Actes)
++Actes#act_n)
+@@ -8158 +8158 @@
+-Statut~)))
++Statut~#statute_n)))
+@@ -8161 +8161 @@
+-and)
++and#and_conj1)
+@@ -8164 +8164 @@
+-Lawes))))
++Lawes#law_n1))))
+@@ -8166 +8166 @@
+-bene)
++bene#be_v)
+@@ -8169 +8169 @@
+-of)
++of#of_prep)
+@@ -8173 +8173 @@
+-so)
++so#so_adv)
+@@ -8175 +8175 @@
+-litle))
++litle#little_adj))
+@@ -8177 +8177 @@
+-force)
++force#force_n1)
+@@ -8180 +8180 @@
+-and)
++and#and_conj1)
+@@ -8183 +8183 @@
+-effect)))
++effect#effect_n)))
+@@ -8188 +8188 @@
+-that)
++that#that_conj)
+@@ -8192 +8192 @@
+-by)
++by#by_prep)
+@@ -8195 +8195 @@
+-reason)
++reason#reason_n1)
+@@ -8198 +8198 @@
+-therof))))
++therof#thereof_adv))))
+@@ -8202 +8202 @@
+-litle)
++litle#little_adj)
+@@ -8204 +8204 @@
+-or)
++or#or_conj2)
+@@ -8206 +8206 @@
+-noe))
++noe#no_adj))
+@@ -8208 +8208 @@
+-punyshment))
++punyshment#punishment_n))
+@@ -8210 +8210 @@
+-hath)
++hath#have_v)
+@@ -8212 +8212 @@
+-ensued)
++ensued#ensue_v)
+@@ -8215 +8215 @@
+-to)
++to#to_prep)
+@@ -8218 +8218 @@
+-th@)
++th@#the_adj)
+@@ -8220 +8220 @@
+-@eoffendors)
++@eoffendors#offender_n)
+@@ -8223 +8223 @@
+-of)
++of#of_prep)
+@@ -8226 +8226 @@
+-the)
++the#the_adj)
+@@ -8228 +8228 @@
+-same)))))))))))
++same#same_adj)))))))))))
+@@ -8233 +8233 @@
+-but)
++but#but_prep)
+@@ -8239 +8239 @@
+-rather))
++rather#rather_adv))
+@@ -8241 +8241 @@
+-hath)
++hath#have_v)
+@@ -8243 +8243 @@
+-encouraged)
++encouraged#encourage_v)
+@@ -8246 +8246 @@
+-them))
++them#them_pron))
+@@ -8249 +8249 @@
+-to)
++to#to_prep)
+@@ -8251 +8251 @@
+-use)
++use#use_v)
+@@ -8254 +8254 @@
+-the)
++the#the_adj)
+@@ -8256 +8256 @@
+-same))))))))))
++same#same_adj))))))))))
+@@ -8262 +8262 @@
+-For)
++For#for_prep)
+@@ -8265 +8265 @@
+-Reformac~on)
++Reformac~on#reformation_n)
+@@ -8268 +8268 @@
+-wherof))))
++wherof#whereof_adv))))
+@@ -8275 +8275 @@
+-bee)
++bee#be_v)
+@@ -8278 +8278 @@
+-it))
++it#it_pron))
+@@ -8280 +8280 @@
+-enacted)
++enacted#enact_v)
+@@ -8284 +8284 @@
+-by)
++by#by_prep)
+@@ -8287 +8287 @@
+-the)
++the#the_adj)
+@@ -8289 +8289 @@
+-King)
++King#king_n)
+@@ -8292 +8292 @@
+-our)
++our#our_pron)
+@@ -8294 +8294 @@
+-Sov~aigne)
++Sov~aigne#sovereign_n)
+@@ -8296 +8296 @@
+-lorde))))
++lorde#lord_n))))
+@@ -8300 +8300 @@
+-by)
++by#by_prep)
+@@ -8303 +8303 @@
+-th@)
++th@#the_adj)
+@@ -8305 +8305 @@
+-@assent)
++@assent#assent_n)
+@@ -8309 +8309 @@
+-of)
++of#of_prep)
+@@ -8312 +8312 @@
+-the)
++the#the_adj)
+@@ -8314 +8314 @@
+-Lords)
++Lords#lord_n)
+@@ -8317 +8317 @@
+-sp~uall)
++sp~uall#spiritual_adj)
+@@ -8319 +8319 @@
+-and)
++and#and_conj1)
+@@ -8321 +8321 @@
+-temporall))))
++temporall#temporal_adj1))))
+@@ -8324 +8324 @@
+-and)
++and#and_conj1)
+@@ -8327 +8327 @@
+-of)
++of#of_prep)
+@@ -8330 +8330 @@
+-the)
++the#the_adj)
+@@ -8332 +8332 @@
+-Comens)
++Comens#commons_n)
+@@ -8336 +8336 @@
+-in)
++in#in_prep)
+@@ -8339 +8339 @@
+-this)
++this#this_pron)
+@@ -8341 +8341 @@
+-p~sent)
++p~sent#present_adj)
+@@ -8343 +8343 @@
+-Parliament)))
++Parliament#parliament_n1)))
+@@ -8345 +8345 @@
+-assembled)))))))))
++assembled#assemble_v1)))))))))
+@@ -8348 +8348 @@
+-and)
++and#and_conj1)
+@@ -8351 +8351 @@
+-by)
++by#by_prep)
+@@ -8354 +8354 @@
+-th@)
++th@#the_adj)
+@@ -8356 +8356 @@
+-@auctoritie)
++@auctoritie#authority_n)
+@@ -8359 +8359 @@
+-of)
++of#of_prep)
+@@ -8362 +8362 @@
+-the)
++the#the_adj)
+@@ -8364 +8364 @@
+-same)))))))
++same#same_adj)))))))
+@@ -8369 +8369 @@
+-that)
++that#that_conj)
+@@ -8375 +8375 @@
+-all)
++all#all_adj)
+@@ -8377 +8377 @@
+-and)
++and#and_conj1)
+@@ -8379 +8379 @@
+-everie))
++everie#every_adj))
+@@ -8381 +8381 @@
+-the)
++the#the_adj)
+@@ -8383 +8383 @@
+-saide)
++saide#said_adj)
+@@ -8385 +8385 @@
+-Act~)
++Act~#act_n)
+@@ -8387 +8387 @@
+-Statutes)
++Statutes#statute_n)
+@@ -8390 +8390 @@
+-and)
++and#and_conj1)
+@@ -8393 +8393 @@
+-Lawes)))
++Lawes#law_n1)))
+@@ -8397 +8397 @@
+-heretofore))
++heretofore#heretofore_adv))
+@@ -8399 +8399 @@
+-made)
++made#make_v1)
+@@ -8403 +8403 @@
+-of)
++of#of_prep)
+@@ -8405 +8405 @@
+-for)
++for#for_prep)
+@@ -8407 +8407 @@
+-or)
++or#or_conj2)
+@@ -8409 +8409 @@
+-concerninge))
++concerninge#concern_v))
+@@ -8413 +8413 @@
+-usury))
++usury#usury_n))
+@@ -8417 +8417 @@
+-shift~)))
++shift~#shift_n)))
+@@ -8421 +8421 @@
+-corrupt)
++corrupt#corrupt_adj)
+@@ -8423 +8423 @@
+-bargaynes)))
++bargaynes#bargain_n1)))
+@@ -8426 +8426 @@
+-and)
++and#and_conj1)
+@@ -8429 +8429 @@
+-chevysaunc~)))))))
++chevysaunc~#chevisance_n1)))))))
+@@ -8432 +8432 @@
+-and)
++and#and_conj1)
+@@ -8435 +8435 @@
+-ev~y)
++ev~y#every_adj)
+@@ -8438 +8438 @@
+-of)
++of#of_prep)
+@@ -8441 +8441 @@
+-them)))))
++them#them_pron)))))
+@@ -8446 +8446 @@
+-and)
++and#and_conj1)
+@@ -8449 +8449 @@
+-all)
++all#all_adj)
+@@ -8451 +8451 @@
+-peynes)
++peynes#pain_n1)
+@@ -8455 +8455 @@
+-forfeytures)))
++forfeytures#forfeiture_n)))
+@@ -8458 +8458 @@
+-and)
++and#and_conj1)
+@@ -8461 +8461 @@
+-penalities)))
++penalities#penality_n)))
+@@ -8464 +8464 @@
+-concerninge)
++concerninge#concerning_prep)
+@@ -8467 +8467 @@
+-the)
++the#the_adj)
+@@ -8469 +8469 @@
+-same)))))
++same#same_adj)))))
+@@ -8472 +8472 @@
+-and)
++and#and_conj1)
+@@ -8475 +8475 @@
+-ev~y)
++ev~y#every_adj)
+@@ -8477 +8477 @@
+-parte)
++parte#part_n)
+@@ -8480 +8480 @@
+-thereof)))))
++thereof#thereof_adv)))))
+@@ -8484 +8484 @@
+-shall)
++shall#shall_v)
+@@ -8487 +8487 @@
+-from)
++from#from_prep)
+@@ -8490 +8490 @@
+-henseforthe)))
++henseforthe#henceforth_adv)))
+@@ -8492 +8492 @@
+-be)
++be#be_v)
+@@ -8496 +8496 @@
+-utterlie)
++utterlie#utterly_adv)
+@@ -8498 +8498 @@
+-voide))
++voide#void_adj))
+@@ -8501 +8501 @@
+-and)
++and#and_conj1)
+@@ -8504 +8504 @@
+-of)
++of#of_prep)
+@@ -8507 +8507 @@
+-none)
++none#none_pron)
+@@ -8509 +8509 @@
+-effect))))
++effect#effect_n))))
+@@ -8512 +8512 @@
+-to)
++to#to_prep)
+@@ -8515 +8515 @@
+-all)
++all#all_adj)
+@@ -8517 +8517 @@
+-intentes)
++intentes#intent_n)
+@@ -8521 +8521 @@
+-construcc~ons)))
++construcc~ons#construction_n)))
+@@ -8524 +8524 @@
+-and)
++and#and_conj1)
+@@ -8527 +8527 @@
+-purposes))))))))))
++purposes#purpose_n))))))))))
+@@ -8535 +8535 @@
+-And)
++And#and_conj1)
+@@ -8537 +8537 @@
+-be)
++be#be_v)
+@@ -8540 +8540 @@
+-it))
++it#it_pron))
+@@ -8543 +8543 @@
+-further))
++further#further_adj))
+@@ -8545 +8545 @@
+-enacted)
++enacted#enact_v)
+@@ -8548 +8548 @@
+-by)
++by#by_prep)
+@@ -8551 +8551 @@
+-th@)
++th@#the_adj)
+@@ -8553 +8553 @@
+-@auctoritie)
++@auctoritie#authority_n)
+@@ -8556 +8556 @@
+-aforesaide))))
++aforesaide#aforesaid_adj))))
+@@ -8561 +8561 @@
+-that)
++that#that_conj)
+@@ -8566 +8566 @@
+-noe)
++noe#no_adj)
+@@ -8568 +8568 @@
+-p~son)
++p~son#person_n)
+@@ -8571 +8571 @@
+-ne)
++ne#ne_adv1)
+@@ -8574 +8574 @@
+-p~sons)))
++p~sons#person_n)))
+@@ -8579 +8579 @@
+-of)
++of#of_prep)
+@@ -8582 +8582 @@
+-what)
++what#what_pron)
+@@ -8584 +8584 @@
+-estate)
++estate#estate_n)
+@@ -8588 +8588 @@
+-degre)))
++degre#degree_n)))
+@@ -8591 +8591 @@
+-or)
++or#or_conj2)
+@@ -8594 +8594 @@
+-condic~on)))
++condic~on#condition_n)))
+@@ -8596 +8596 @@
+-soever)))
++soever#soever_adv)))
+@@ -8604 +8604 @@
+-he)
++he#he_pron)
+@@ -8606 +8606 @@
+-or)
++or#or_conj2)
+@@ -8608 +8608 @@
+-they))
++they#they_pron))
+@@ -8610 +8610 @@
+-be)))))
++be#be_v)))))
+@@ -8616 +8616 @@
+-from)
++from#from_prep)
+@@ -8618 +8618 @@
+-and)
++and#and_conj1)
+@@ -8620 +8620 @@
+-after))
++after#after_adv))
+@@ -8623 +8623 @@
+-the)
++the#the_adj)
+@@ -8625 +8625 @@
+-last)
++last#last_adv)
+@@ -8627 +8627 @@
+-daye)
++daye#day_n)
+@@ -8630 +8630 @@
+-of)
++of#of_prep)
+@@ -8633 +8633 @@
+-Januarie)
++Januarie#NA)
+@@ -8637 +8637 @@
+-next))
++next#next_adj))
+@@ -8639 +8639 @@
+-comynge))))))
++comynge#come_v))))))
+@@ -8643 +8643 @@
+-shall)
++shall#shall_v)
+@@ -8646 +8646 @@
+-by)
++by#by_prep)
+@@ -8650 +8650 @@
+-himselfe))
++himselfe#himself_pron))
+@@ -8654 +8654 @@
+-Factor)))
++Factor#factor_n)))
+@@ -8658 +8658 @@
+-Attorney)))
++Attorney#attorney_n)))
+@@ -8662 +8662 @@
+-Serv=a=nte)))
++Serv=a=nte#servant_n)))
+@@ -8665 +8665 @@
+-or)
++or#or_conj2)
+@@ -8668 +8668 @@
+-Deputy)))))
++Deputy#deputy_n)))))
+@@ -8672 +8672 @@
+-sell)
++sell#sell_v)
+@@ -8675 +8675 @@
+-his)
++his#his_adj)
+@@ -8677 +8677 @@
+-m~chaundizes)
++m~chaundizes#merchandise_n)
+@@ -8680 +8680 @@
+-or)
++or#or_conj2)
+@@ -8683 +8683 @@
+-Wares))))
++Wares#ware_n3))))
+@@ -8686 +8686 @@
+-to)
++to#to_prep)
+@@ -8689 +8689 @@
+-any)
++any#any_adj)
+@@ -8691 +8691 @@
+-p~son)
++p~son#person_n)
+@@ -8694 +8694 @@
+-or)
++or#or_conj2)
+@@ -8697 +8697 @@
+-p~sons))))))
++p~sons#person_n))))))
+@@ -8702 +8702 @@
+-and)
++and#and_conj1)
+@@ -8706 +8706 @@
+-within)
++within#within_adv)
+@@ -8709 +8709 @@
+-three)
++three#three_adj)
+@@ -8711 +8711 @@
+-monethes)
++monethes#month_n1)
+@@ -8714 +8714 @@
+-next)
++next#next_adj)
+@@ -8716 +8716 @@
+-after))))
++after#after_adv))))
+@@ -8720 +8720 @@
+-by)
++by#by_prep)
+@@ -8724 +8724 @@
+-himselfe))
++himselfe#himself_pron))
+@@ -8728 +8728 @@
+-Factor)))
++Factor#factor_n)))
+@@ -8732 +8732 @@
+-Attorney)))
++Attorney#attorney_n)))
+@@ -8736 +8736 @@
+-Deputye)))))
++Deputye#deputy_n)))))
+@@ -8741 +8741 @@
+-or)
++or#or_conj2)
+@@ -8744 +8744 @@
+-by)
++by#by_prep)
+@@ -8747 +8747 @@
+-any)
++any#any_adj)
+@@ -8749 +8749 @@
+-other)
++other#other_adj)
+@@ -8751 +8751 @@
+-p~son)
++p~son#person_n)
+@@ -8754 +8754 @@
+-or)
++or#or_conj2)
+@@ -8757 +8757 @@
+-p~sons)))))))
++p~sons#person_n)))))))
+@@ -8760 +8760 @@
+-to)
++to#to_prep)
+@@ -8763 +8763 @@
+-his)
++his#his_adj)
+@@ -8765 +8765 @@
+-use@)
++use@#use_n)
+@@ -8768 +8768 @@
+-@and)
++@and#and_conj1)
+@@ -8771 +8771 @@
+-be_houfe)))))
++be_houfe#behoof_n)))))
+@@ -8775 +8775 @@
+-by)
++by#buy_v)
+@@ -8779 +8779 @@
+-the)
++the#the_adj)
+@@ -8781 +8781 @@
+-same)
++same#same_adj)
+@@ -8783 +8783 @@
+-m~chaundizes)
++m~chaundizes#merchandise_n)
+@@ -8786 +8786 @@
+-or)
++or#or_conj2)
+@@ -8789 +8789 @@
+-Wares))))
++Wares#ware_n3))))
+@@ -8794 +8794 @@
+-or)
++or#or_conj2)
+@@ -8797 +8797 @@
+-any)
++any#any_adj)
+@@ -8799 +8799 @@
+-parte)
++parte#part_n)
+@@ -8802 +8802 @@
+-or)
++or#or_conj2)
+@@ -8805 +8805 @@
+-p~cell)))
++p~cell#parcel_n)))
+@@ -8808 +8808 @@
+-therof)))))
++therof#thereof_adv)))))
+@@ -8813 +8813 @@
+-uppon)
++uppon#upon_prep)
+@@ -8816 +8816 @@
+-a)
++a#a_adj2)
+@@ -8818 +8818 @@
+-lower)
++lower#low_adj)
+@@ -8820 +8820 @@
+-price)))))
++price#price_n)))))
+@@ -8825 +8825 @@
+-knowinge)
++knowinge#know_v)
+@@ -8829 +8829 @@
+-them))
++them#them_pron))
+@@ -8831 +8831 @@
+-to)
++to#to_prep)
+@@ -8833 +8833 @@
+-be)
++be#be_v)
+@@ -8836 +8836 @@
+-y=e=)
++y=e=#the_adj)
+@@ -8838 +8838 @@
+-same)
++same#same_adj)
+@@ -8840 +8840 @@
+-wares)
++wares#ware_n3)
+@@ -8843 +8843 @@
+-or)
++or#or_conj2)
+@@ -8846 +8846 @@
+-m~chaundizes)))
++m~chaundizes#merchandise_n)))
+@@ -8851 +8851 @@
+-that)
++that#that_conj)
+@@ -8857 +8857 @@
+-he))
++he#he_pron))
+@@ -8859 +8859 @@
+-did)
++did#do_v)
+@@ -8862 +8862 @@
+-before))
++before#before_adv))
+@@ -8865 +8865 @@
+-so))
++so#so_adv))
+@@ -8868 +8868 @@
+-bargayne)
++bargayne#bargain_v)
+@@ -8870 +8870 @@
+-and)
++and#and_conj1)
+@@ -8872 +8872 @@
+-sell)))))))
++sell#sell_v)))))))
+@@ -8877 +8877 @@
+-uppon)
++uppon#upon_prep)
+@@ -8880 +8880 @@
+-the)
++the#the_adj)
+@@ -8882 +8882 @@
+-peynes)
++peynes#pain_n1)
+@@ -8885 +8885 @@
+-and)
++and#and_conj1)
+@@ -8888 +8888 @@
+-forfeytures)))
++forfeytures#forfeiture_n)))
+@@ -8892 +8892 @@
+-hereafter))
++hereafter#hereafter_adv))
+@@ -8894 +8894 @@
+-lymitted)
++lymitted#limit_v)
+@@ -8897 +8897 @@
+-in)
++in#in_prep)
+@@ -8900 +8900 @@
+-this)
++this#this_pron)
+@@ -8902 +8902 @@
+-Estatute)))))))))
++Estatute#estatute_n)))))))))
+@@ -8908 +8908 @@
+-And)
++And#and_conj1)
+@@ -8910 +8910 @@
+-be)
++be#be_v)
+@@ -8913 +8913 @@
+-it))
++it#it_pron))
+@@ -8915 +8915 @@
+-also)
++also#also_adv)
+@@ -8917 +8917 @@
+-enacted)
++enacted#enact_v)
+@@ -8920 +8920 @@
+-by)
++by#by_prep)
+@@ -8923 +8923 @@
+-the)
++the#the_adj)
+@@ -8925 +8925 @@
+-same)
++same#same_adj)
+@@ -8927 +8927 @@
+-auctoritie)))
++auctoritie#authority_n)))
+@@ -8932 +8932 @@
+-that)
++that#that_conj)
+@@ -8937 +8937 @@
+-no)
++no#no_adj)
+@@ -8939 +8939 @@
+-p~son)
++p~son#person_n)
+@@ -8942 +8942 @@
+-or)
++or#or_conj2)
+@@ -8945 +8945 @@
+-p~sons)))
++p~sons#person_n)))
+@@ -8950 +8950 @@
+-of)
++of#of_prep)
+@@ -8953 +8953 @@
+-what)
++what#what_pron)
+@@ -8955 +8955 @@
+-estate)
++estate#estate_n)
+@@ -8959 +8959 @@
+-degree)))
++degree#degree_n)))
+@@ -8963 +8963 @@
+-quality)))
++quality#quality_n)))
+@@ -8966 +8966 @@
+-or)
++or#or_conj2)
+@@ -8969 +8969 @@
+-condic~on)))
++condic~on#condition_n)))
+@@ -8971 +8971 @@
+-soever)))
++soever#soever_adv)))
+@@ -8979 +8979 @@
+-he)
++he#he_pron)
+@@ -8981 +8981 @@
+-or)
++or#or_conj2)
+@@ -8983 +8983 @@
+-they))
++they#they_pron))
+@@ -8985 +8985 @@
+-be)))))
++be#be_v)))))
+@@ -8990 +8990 @@
+-at)
++at#at_prep)
+@@ -8993 +8993 @@
+-any)
++any#any_adj)
+@@ -8995 +8995 @@
+-tyme)
++tyme#time_n)
+@@ -8998 +8998 @@
+-after)
++after#after_adv)
+@@ -9001 +9001 @@
+-the)
++the#the_adj)
+@@ -9003 +9003 @@
+-saide)
++saide#said_adj)
+@@ -9005 +9005 @@
+-last)
++last#last_adv)
+@@ -9007 +9007 @@
+-day)
++day#day_n)
+@@ -9010 +9010 @@
+-of)
++of#of_prep)
+@@ -9013 +9013 @@
+-Januarie)
++Januarie#NA)
+@@ -9017 +9017 @@
+-next))
++next#next_adj))
+@@ -9019 +9019 @@
+-comynge))))))))
++comynge#come_v))))))))
+@@ -9024 +9024 @@
+-by)
++by#by_prep)
+@@ -9028 +9028 @@
+-way)
++way#way_n1)
+@@ -9030 +9030 @@
+-or)
++or#or_conj2)
+@@ -9032 +9032 @@
+-meane))
++meane#mean_n2))
+@@ -9035 +9035 @@
+-or)
++or#or_conj2)
+@@ -9038 +9038 @@
+-any)
++any#any_adj)
+@@ -9040 +9040 @@
+-corrupte)
++corrupte#corrupt_adj)
+@@ -9042 +9042 @@
+-bargayne)
++bargayne#bargain_n1)
+@@ -9046 +9046 @@
+-loone)))
++loone#loan_n1)))
+@@ -9049 +9049 @@
+-or)
++or#or_conj2)
+@@ -9053 +9053 @@
+-eschaunge)
++eschaunge#NA)
+@@ -9055 +9055 @@
+-chevisaunce))))))))
++chevisaunce#NA))))))))
+@@ -9057 +9057 @@
+-shifte)
++shifte#shift_v)
+@@ -9060 +9060 @@
+-int~est)
++int~est#interest_n)
+@@ -9063 +9063 @@
+-of)
++of#of_prep)
+@@ -9066 +9066 @@
+-any)
++any#any_adj)
+@@ -9068 +9068 @@
+-wares)
++wares#ware_n3)
+@@ -9072 +9072 @@
+-m~chaundizes)))
++m~chaundizes#merchandise_n)))
+@@ -9075 +9075 @@
+-or)
++or#or_conj2)
+@@ -9078 +9078 @@
+-other)
++other#other_adj)
+@@ -9080 +9080 @@
+-thinge)
++thinge#thing_n1)
+@@ -9083 +9083 @@
+-or)
++or#or_conj2)
+@@ -9086 +9086 @@
+-thinges)))))
++thinges#thing_n1)))))
+@@ -9091 +9091 @@
+-whatsoever))))))))
++whatsoever#whatsoever_pron))))))))
+@@ -9096 +9096 @@
+-or)
++or#or_conj2)
+@@ -9103 +9103 @@
+-by)
++by#by_prep)
+@@ -9106 +9106 @@
+-any)
++any#any_adj)
+@@ -9108 +9108 @@
+-other)
++other#other_adj)
+@@ -9111 +9111 @@
+-corrupte)
++corrupte#corrupt_adj)
+@@ -9113 +9113 @@
+-or)
++or#or_conj2)
+@@ -9115 +9115 @@
+-deceitfull))
++deceitfull#deceitful_adj))
+@@ -9117 +9117 @@
+-waye)
++waye#way_n1)
+@@ -9120 +9120 @@
+-or)
++or#or_conj2)
+@@ -9123 +9123 @@
+-meane)))))
++meane#mean_n2)))))
+@@ -9128 +9128 @@
+-or)
++or#or_conj2)
+@@ -9131 +9131 @@
+-by)
++by#by_prep)
+@@ -9134 +9134 @@
+-any)
++any#any_adj)
+@@ -9137 +9137 @@
+-covyne)
++covyne#covin_n)
+@@ -9139 +9139 @@
+-yngyne)
++yngyne#ingine_n)
+@@ -9141 +9141 @@
+-or)
++or#or_conj2)
+@@ -9143 +9143 @@
+-deceitfull))
++deceitfull#deceitful_adj))
+@@ -9145 +9145 @@
+-waye)
++waye#way_n1)
+@@ -9148 +9148 @@
+-or)
++or#or_conj2)
+@@ -9151 +9151 @@
+-conveyaunce)))))))
++conveyaunce#conveyance_n)))))))
+@@ -9155 +9155 @@
+-shall)
++shall#shall_v)
+@@ -9158 +9158 @@
+-haue)
++haue#have_v)
+@@ -9160 +9160 @@
+-receyve)
++receyve#receive_v)
+@@ -9162 +9162 @@
+-accepte)
++accepte#accept_v)
+@@ -9164 +9164 @@
+-or)
++or#or_conj2)
+@@ -9166 +9166 @@
+-take))
++take#take_v))
+@@ -9171 +9171 @@
+-in)
++in#in_prep)
+@@ -9174 +9174 @@
+-lucre)
++lucre#lucre_n)
+@@ -9176 +9176 @@
+-or)
++or#or_conj2)
+@@ -9178 +9178 @@
+-gaynes)))
++gaynes#gain_n2)))
+@@ -9183 +9183 @@
+-for)
++for#for_prep)
+@@ -9186 +9186 @@
+-the)
++the#the_adj)
+@@ -9190 +9190 @@
+-forbearinge)
++forbearinge#forbear_v)
+@@ -9192 +9192 @@
+-or)
++or#or_conj2)
+@@ -9194 +9194 @@
+-givinge))
++givinge#give_v))
+@@ -9197 +9197 @@
+-daye)
++daye#day_n)
+@@ -9200 +9200 @@
+-of)
++of#of_prep)
+@@ -9203 +9203 @@
+-payment)))
++payment#payment_n1)))
+@@ -9206 +9206 @@
+-of)
++of#of_prep)
+@@ -9209 +9209 @@
+-one)
++one#one_adj)
+@@ -9211 +9211 @@
+-hole)
++hole#whole_adj)
+@@ -9213 +9213 @@
+-yere)))
++yere#year_n)))
+@@ -9217 +9217 @@
+-of)
++of#of_prep)
+@@ -9219 +9219 @@
+-and)
++and#and_conj1)
+@@ -9221 +9221 @@
+-for))
++for#for_prep))
+@@ -9225 +9225 @@
+-his)
++his#his_adj)
+@@ -9227 +9227 @@
+-or)
++or#or_conj2)
+@@ -9229 +9229 @@
+-their))
++their#their_adj))
+@@ -9231 +9231 @@
+-money)
++money#money_n)
+@@ -9234 +9234 @@
+-or)
++or#or_conj2)
+@@ -9237 +9237 @@
+-other)
++other#other_adj)
+@@ -9239 +9239 @@
+-thing~)
++thing~#thing_n1)
+@@ -9244 +9244 @@
+-that)
++that#that_conj)
+@@ -9249 +9249 @@
+-shall)
++shall#shall_v)
+@@ -9251 +9251 @@
+-be)
++be#be_v)
+@@ -9254 +9254 @@
+-due))
++due#due_adj))
+@@ -9257 +9257 @@
+-for)
++for#for_prep)
+@@ -9260 +9260 @@
+-the)
++the#the_adj)
+@@ -9262 +9262 @@
+-same)
++same#same_adj)
+@@ -9264 +9264 @@
+-wares)
++wares#ware_n3)
+@@ -9268 +9268 @@
+-m~chaundizes)))
++m~chaundizes#merchandise_n)))
+@@ -9271 +9271 @@
+-or)
++or#or_conj2)
+@@ -9274 +9274 @@
+-other)
++other#other_adj)
+@@ -9276 +9276 @@
+-thinge)
++thinge#thing_n1)
+@@ -9279 +9279 @@
+-or)
++or#or_conj2)
+@@ -9282 +9282 @@
+-thing~)))))))))))))))))
++thing~#thing_n1)))))))))))))))))
+@@ -9287 +9287 @@
+-above)
++above#above_adv)
+@@ -9290 +9290 @@
+-the)
++the#the_adj)
+@@ -9292 +9292 @@
+-some)
++some#sum_n1)
+@@ -9295 +9295 @@
+-of)
++of#of_prep)
+@@ -9298 +9298 @@
+-tenne)
++tenne#ten_adj)
+@@ -9300 +9300 @@
+-poundes)
++poundes#pound_n1)
+@@ -9303 +9303 @@
+-in)
++in#in_prep)
+@@ -9306 +9306 @@
+-the)
++the#the_adj)
+@@ -9308 +9308 @@
+-hundred)))))))
++hundred#hundred_n)))))))
+@@ -9313 +9313 @@
+-and)
++and#and_conj1)
+@@ -9316 +9316 @@
+-so))
++so#so_adv))
+@@ -9320 +9320 @@
+-after)
++after#after_adv)
+@@ -9323 +9323 @@
+-that)
++that#that_pron)
+@@ -9325 +9325 @@
+-rate)))
++rate#rate_n1)))
+@@ -9330 +9330 @@
+-and)
++and#and_conj1)
+@@ -9333 +9333 @@
+-not)
++not#not_adv)
+@@ -9335 +9335 @@
+-above)
++above#above_adv)
+@@ -9342 +9342 @@
+-of)
++of#of_prep)
+@@ -9344 +9344 @@
+-and)
++and#and_conj1)
+@@ -9346 +9346 @@
+-for))
++for#for_prep))
+@@ -9349 +9349 @@
+-a)
++a#a_adj2)
+@@ -9352 +9352 @@
+-more)
++more#more_adj)
+@@ -9354 +9354 @@
+-or)
++or#or_conj2)
+@@ -9356 +9356 @@
+-lesse))
++lesse#less_adj))
+@@ -9358 +9358 @@
+-some)))
++some#sum_n1)))
+@@ -9361 +9361 @@
+-or)
++or#or_conj2)
+@@ -9364 +9364 @@
+-for)
++for#for_prep)
+@@ -9368 +9368 @@
+-a)
++a#a_adj2)
+@@ -9371 +9371 @@
+-longer)
++longer#long_adj1)
+@@ -9373 +9373 @@
+-or)
++or#or_conj2)
+@@ -9375 +9375 @@
+-shorter))
++shorter#short_adj))
+@@ -9377 +9377 @@
+-tyme))
++tyme#time_n))
+@@ -9382 +9382 @@
+-and)
++and#and_conj1)
+@@ -9386 +9386 @@
+-noe)
++noe#no_adj)
+@@ -9388 +9388 @@
+-more)
++more#more_adj)
+@@ -9391 +9391 @@
+-or)
++or#or_conj2)
+@@ -9394 +9394 @@
+-greater))))
++greater#great_adj))))
+@@ -9396 +9396 @@
+-gayne)
++gayne#gain_n2)
+@@ -9399 +9399 @@
+-or)
++or#or_conj2)
+@@ -9402 +9402 @@
+-some)))
++some#sum_n1)))
+@@ -9411 +9411 @@
+-therupon))
++therupon#thereupon_adv))
+@@ -9413 +9413 @@
+-to)
++to#to_prep)
+@@ -9415 +9415 @@
+-be)
++be#be_v)
+@@ -9417 +9417 @@
+-had))))))))))
++had#have_v))))))))))
+@@ -9422 +9422 @@
+-upon)
++upon#upon_prep)
+@@ -9425 +9425 @@
+-the)
++the#the_adj)
+@@ -9427 +9427 @@
+-paynes)
++paynes#pain_n1)
+@@ -9430 +9430 @@
+-and)
++and#and_conj1)
+@@ -9433 +9433 @@
+-forfeytures)))
++forfeytures#forfeiture_n)))
+@@ -9437 +9437 @@
+-hereafter))
++hereafter#hereafter_adv))
+@@ -9440 +9440 @@
+-in)
++in#in_prep)
+@@ -9443 +9443 @@
+-this)
++this#this_pron)
+@@ -9445 +9445 @@
+-Acte)))
++Acte#act_n)))
+@@ -9448 +9448 @@
+-mencioned)
++mencioned#mention_v)
+@@ -9450 +9450 @@
+-&)
++&#and_conj1)
+@@ -9452 +9452 @@
+-conteyned)))))))))
++conteyned#contain_v)))))))))
+@@ -9460 +9460 @@
+-And)
++And#and_conj1)
+@@ -9462 +9462 @@
+-be)
++be#be_v)
+@@ -9465 +9465 @@
+-it))
++it#it_pron))
+@@ -9468 +9468 @@
+-further))
++further#further_adj))
+@@ -9470 +9470 @@
+-inacted)
++inacted#enact_v)
+@@ -9473 +9473 @@
+-by)
++by#by_prep)
+@@ -9476 +9476 @@
+-auctoritie)
++auctoritie#authority_n)
+@@ -9479 +9479 @@
+-aforesaide))))
++aforesaide#aforesaid_adj))))
+@@ -9484 +9484 @@
+-that)
++that#that_conj)
+@@ -9488 +9488 @@
+-if)
++if#if_conj)
+@@ -9495 +9495 @@
+-any)
++any#any_adj)
+@@ -9497 +9497 @@
+-p~son)
++p~son#person_n)
+@@ -9500 +9500 @@
+-or)
++or#or_conj2)
+@@ -9503 +9503 @@
+-p~sons))))
++p~sons#person_n))))
+@@ -9508 +9508 @@
+-at)
++at#at_prep)
+@@ -9511 +9511 @@
+-any)
++any#any_adj)
+@@ -9513 +9513 @@
+-tyme)
++tyme#time_n)
+@@ -9516 +9516 @@
+-after)
++after#after_adv)
+@@ -9519 +9519 @@
+-the)
++the#the_adj)
+@@ -9521 +9521 @@
+-said)
++said#said_adj)
+@@ -9523 +9523 @@
+-last)
++last#last_adv)
+@@ -9525 +9525 @@
+-day)
++day#day_n)
+@@ -9528 +9528 @@
+-of)
++of#of_prep)
+@@ -9531 +9531 @@
+-Januarie)))))))
++Januarie#NA)))))))
+@@ -9535 +9535 @@
+-doe)
++doe#do_v)
+@@ -9538 +9538 @@
+-bargayne)
++bargayne#bargain_v)
+@@ -9540 +9540 @@
+-and)
++and#and_conj1)
+@@ -9542 +9542 @@
+-sell))
++sell#sell_v))
+@@ -9545 +9545 @@
+-or)
++or#or_conj2)
+@@ -9547 +9547 @@
+-ley)
++ley#lay_v1)
+@@ -9550 +9550 @@
+-to)
++to#to_prep)
+@@ -9553 +9553 @@
+-morgage))))
++morgage#mortgage_n))))
+@@ -9556 +9556 @@
+-by)
++by#by_prep)
+@@ -9559 +9559 @@
+-any)
++any#any_adj)
+@@ -9561 +9561 @@
+-waye)
++waye#way_n1)
+@@ -9564 +9564 @@
+-or)
++or#or_conj2)
+@@ -9567 +9567 @@
+-meane)))))
++meane#mean_n2)))))
+@@ -9572 +9572 @@
+-any)
++any#any_adj)
+@@ -9574 +9574 @@
+-Mannors)
++Mannors#manor_n)
+@@ -9578 +9578 @@
+-Landes)))
++Landes#land_n1)))
+@@ -9582 +9582 @@
+-Tenn~t~)))
++Tenn~t~#tenement_n)))
+@@ -9585 +9585 @@
+-or)
++or#or_conj2)
+@@ -9588 +9588 @@
+-hereditament~))))
++hereditament~#hereditament_n))))
+@@ -9591 +9591 @@
+-to)
++to#to_prep)
+@@ -9594 +9594 @@
+-any)
++any#any_adj)
+@@ -9596 +9596 @@
+-p~son)
++p~son#person_n)
+@@ -9599 +9599 @@
+-or)
++or#or_conj2)
+@@ -9602 +9602 @@
+-p~sons)))))
++p~sons#person_n)))))
+@@ -9607 +9607 @@
+-upon)
++upon#upon_prep)
+@@ -9610 +9610 @@
+-condic~on)
++condic~on#condition_n)
+@@ -9613 +9613 @@
+-of)
++of#of_prep)
+@@ -9616 +9616 @@
+-payment)
++payment#payment_n1)
+@@ -9618 +9618 @@
+-or)
++or#or_conj2)
+@@ -9620 +9620 @@
+-non_payment)
++non_payment#non-payment_n)
+@@ -9623 +9623 @@
+-of)
++of#of_prep)
+@@ -9626 +9626 @@
+-any)
++any#any_adj)
+@@ -9628 +9628 @@
+-so~me)
++so~me#sum_n1)
+@@ -9631 +9631 @@
+-or)
++or#or_conj2)
+@@ -9634 +9634 @@
+-so~mes)))
++so~mes#sum_n1)))
+@@ -9637 +9637 @@
+-of)
++of#of_prep)
+@@ -9640 +9640 @@
+-money)))
++money#money_n)))
+@@ -9648 +9648 @@
+-to)
++to#to_prep)
+@@ -9650 +9650 @@
+-be)
++be#be_v)
+@@ -9652 +9652 @@
+-had)
++had#have_v)
+@@ -9658 +9658 @@
+-paide)
++paide#pay_v1)
+@@ -9660 +9660 @@
+-or)
++or#or_conj2)
+@@ -9662 +9662 @@
+-made))
++made#make_v1))
+@@ -9666 +9666 @@
+-at)
++at#at_prep)
+@@ -9669 +9669 @@
+-any)
++any#any_adj)
+@@ -9671 +9671 @@
+-day)
++day#day_n)
+@@ -9674 +9674 @@
+-c~ten))))
++c~ten#certain_adj))))
+@@ -9679 +9679 @@
+-or)
++or#or_conj2)
+@@ -9682 +9682 @@
+-before)
++before#before_adv)
+@@ -9685 +9685 @@
+-any)
++any#any_adj)
+@@ -9687 +9687 @@
+-such)
++such#such_adj)
+@@ -9689 +9689 @@
+-day)))))
++day#day_n)))))
+@@ -9694 +9694 @@
+-by)
++by#by_prep)
+@@ -9697 +9697 @@
+-him)
++him#him_pron)
+@@ -9702 +9702 @@
+-that)
++that#that_conj)
+@@ -9707 +9707 @@
+-shall)
++shall#shall_v)
+@@ -9710 +9710 @@
+-so))
++so#so_adv))
+@@ -9713 +9713 @@
+-bargayne)
++bargayne#bargain_v)
+@@ -9715 +9715 @@
+-sell))
++sell#sell_v))
+@@ -9718 +9718 @@
+-or)
++or#or_conj2)
+@@ -9720 +9720 @@
+-ley)
++ley#lay_v1)
+@@ -9723 +9723 @@
+-to)
++to#to_prep)
+@@ -9726 +9726 @@
+-morgage))))
++morgage#mortgage_n))))
+@@ -9729 +9729 @@
+-the)
++the#the_adj)
+@@ -9731 +9731 @@
+-same)
++same#same_adj)
+@@ -9733 +9733 @@
+-Manners)
++Manners#manner_n)
+@@ -9737 +9737 @@
+-Lond~)))
++Lond~#land_n1)))
+@@ -9741 +9741 @@
+-Ten~t~)))
++Ten~t~#tenement_n)))
+@@ -9744 +9744 @@
+-or)
++or#or_conj2)
+@@ -9747 +9747 @@
+-Hereditament~))))))))))))))))))))
++Hereditament~#hereditament_n))))))))))))))))))))
+@@ -9751 +9751 @@
+-that)
++that#that_conj)
+@@ -9757 +9757 @@
+-the)
++the#the_adj)
+@@ -9759 +9759 @@
+-same)
++same#same_adj)
+@@ -9761 +9761 @@
+-p~son)
++p~son#person_n)
+@@ -9764 +9764 @@
+-or)
++or#or_conj2)
+@@ -9767 +9767 @@
+-p~sons)))
++p~sons#person_n)))
+@@ -9771 +9771 @@
+-to)
++to#to_prep)
+@@ -9774 +9774 @@
+-whom)))
++whom#whom_pron)))
+@@ -9782 +9782 @@
+-any)
++any#any_adj)
+@@ -9784 +9784 @@
+-such)
++such#such_adj)
+@@ -9786 +9786 @@
+-Mannors)
++Mannors#manor_n)
+@@ -9790 +9790 @@
+-Landes)))
++Landes#land_n1)))
+@@ -9794 +9794 @@
+-Ten~t~)))
++Ten~t~#tenement_n)))
+@@ -9797 +9797 @@
+-or)
++or#or_conj2)
+@@ -9800 +9800 @@
+-Hereditament~))))
++Hereditament~#hereditament_n))))
+@@ -9802 +9802 @@
+-shall)
++shall#shall_v)
+@@ -9804 +9804 @@
+-be)
++be#be_v)
+@@ -9807 +9807,2 @@
+-so))
++so#so_adv))
++(VAN
+@@ -9808,0 +9810 @@
++bargayned#bargain_v)
+@@ -9810,3 +9812 @@
+-bargayned)
+-(VAN
+-solde))
++solde#sell_v))
+@@ -9815 +9815 @@
+-or)
++or#or_conj2)
+@@ -9817 +9817 @@
+-leyd)
++leyd#leave_v1)
+@@ -9820 +9820 @@
+-to)
++to#to_prep)
+@@ -9823 +9823 @@
+-morgage)))))))
++morgage#mortgage_n)))))))
+@@ -9827 +9827 @@
+-shall)
++shall#shall_v)
+@@ -9829 +9829 @@
+-not)
++not#not_adv)
+@@ -9832 +9832 @@
+-by)
++by#by_prep)
+@@ -9835 +9835 @@
+-reason)
++reason#reason_n1)
+@@ -9838 +9838 @@
+-therof))))
++therof#thereof_adv))))
+@@ -9841 +9841 @@
+-have)
++have#have_v)
+@@ -9843 +9843 @@
+-ne)
++ne#ne_adv1)
+@@ -9845 +9845 @@
+-take))
++take#take_v))
+@@ -9848 +9848 @@
+-in)
++in#in_prep)
+@@ -9851 +9851 @@
+-lucre)
++lucre#lucre_n)
+@@ -9853 +9853 @@
+-or)
++or#or_conj2)
+@@ -9855 +9855 @@
+-gaynes)))
++gaynes#gain_n2)))
+@@ -9858 +9858 @@
+-of)
++of#of_prep)
+@@ -9861 +9861 @@
+-the)
++the#the_adj)
+@@ -9863 +9863 @@
+-yssues)
++yssues#issue_n)
+@@ -9867 +9867 @@
+-revenues)))
++revenues#revenue_n)))
+@@ -9870 +9870 @@
+-and)
++and#and_conj1)
+@@ -9873 +9873 @@
+-p~fitt~)))
++p~fitt~#profit_n)))
+@@ -9876 +9876 @@
+-of)
++of#of_prep)
+@@ -9879 +9879 @@
+-the)
++the#the_adj)
+@@ -9881 +9881 @@
+-same)
++same#same_adj)
+@@ -9883 +9883 @@
+-Mannors)
++Mannors#manor_n)
+@@ -9887 +9887 @@
+-Lond~)))
++Lond~#land_n1)))
+@@ -9891 +9891 @@
+-Ten~t~)))
++Ten~t~#tenement_n)))
+@@ -9894 +9894 @@
+-or)
++or#or_conj2)
+@@ -9897 +9897 @@
+-Hereditament~)))))))
++Hereditament~#hereditament_n)))))))
+@@ -9902 +9902 @@
+-above)
++above#above_adv)
+@@ -9905 +9905 @@
+-the)
++the#the_adj)
+@@ -9907 +9907 @@
+-some)
++some#some_pron)
+@@ -9910 +9910 @@
+-of)
++of#of_prep)
+@@ -9913 +9913 @@
+-tenne)
++tenne#ten_adj)
+@@ -9915 +9915 @@
+-pound~)
++pound~#pound_n1)
+@@ -9918 +9918 @@
+-in)
++in#in_prep)
+@@ -9921 +9921 @@
+-the)
++the#the_adj)
+@@ -9923 +9923 @@
+-hundred)))))
++hundred#hundred_n)))))
+@@ -9926 +9926 @@
+-for)
++for#for_prep)
+@@ -9929 +9929 @@
+-one)
++one#one_adj)
+@@ -9931 +9931 @@
+-hole)
++hole#whole_adj)
+@@ -9933 +9933 @@
+-yere)))))
++yere#year_n)))))
+@@ -9938 +9938 @@
+-and)
++and#and_conj1)
+@@ -9942 +9942 @@
+-so))
++so#so_adv))
+@@ -9947 +9947 @@
+-after)
++after#after_adv)
+@@ -9950 +9950 @@
+-the)
++the#the_adj)
+@@ -9952 +9952 @@
+-rate)
++rate#rate_n1)
+@@ -9955 +9955 @@
+-abovesaide))))
++abovesaide#abovesaid_adj))))
+@@ -9959 +9959 @@
+-for)
++for#for_prep)
+@@ -9962 +9962 @@
+-a)
++a#a_adj2)
+@@ -9965 +9965 @@
+-more)
++more#more_adj)
+@@ -9967 +9967 @@
+-or)
++or#or_conj2)
+@@ -9969 +9969 @@
+-lesser))
++lesser#lesser_adj))
+@@ -9971 +9971 @@
+-some)))
++some#sum_n1)))
+@@ -9974 +9974 @@
+-or)
++or#or_conj2)
+@@ -9977 +9977 @@
+-for)
++for#for_prep)
+@@ -9980 +9980 @@
+-a)
++a#a_adj2)
+@@ -9983 +9983 @@
+-longer)
++longer#long_adj1)
+@@ -9985 +9985 @@
+-or)
++or#or_conj2)
+@@ -9987 +9987 @@
+-shorter))
++shorter#short_adj))
+@@ -9989 +9989 @@
+-tyme)))))
++tyme#time_n)))))
+@@ -9994 +9994 @@
+-and)
++and#and_conj1)
+@@ -9999 +9999 @@
+-noe)
++noe#no_adj)
+@@ -10001 +10001 @@
+-more)))
++more#more_adj)))
+@@ -10004 +10004 @@
+-or)
++or#or_conj2)
+@@ -10007 +10007 @@
+-otherwise))))))
++otherwise#otherwise_n))))))
+@@ -10012 +10012 @@
+-uppon)
++uppon#upon_prep)
+@@ -10015 +10015 @@
+-the)
++the#the_adj)
+@@ -10017 +10017 @@
+-peynes)
++peynes#pain_n1)
+@@ -10021 +10021 @@
+-forfeytures)))
++forfeytures#forfeiture_n)))
+@@ -10024 +10024 @@
+-and)
++and#and_conj1)
+@@ -10027 +10027 @@
+-penalties)))
++penalties#penalty_n)))
+@@ -10031 +10031 @@
+-hereafter))
++hereafter#hereafter_adv))
+@@ -10034 +10034 @@
+-in)
++in#in_prep)
+@@ -10037 +10037 @@
+-this)
++this#this_pron)
+@@ -10039 +10039 @@
+-p~sent)
++p~sent#present_adj)
+@@ -10041 +10041 @@
+-Estatute)))
++Estatute#estatute_n)))
+@@ -10044 +10044 @@
+-lymitted)
++lymitted#limit_v)
+@@ -10046 +10046 @@
+-and)
++and#and_conj1)
+@@ -10048 +10048 @@
+-expressed))))))))
++expressed#express_v1))))))))
+@@ -10059 +10059 @@
+-And)
++And#and_conj1)
+@@ -10061 +10061 @@
+-be)
++be#be_v)
+@@ -10064 +10064 @@
+-it))
++it#it_pron))
+@@ -10067 +10067 @@
+-further))
++further#further_adj))
+@@ -10069 +10069 @@
+-enacted)
++enacted#enact_v)
+@@ -10072 +10072 @@
+-by)
++by#by_prep)
+@@ -10075 +10075 @@
+-th@)
++th@#the_adj)
+@@ -10077 +10077 @@
+-@auctoritie)
++@auctoritie#authority_n)
+@@ -10080 +10080 @@
+-aforesaide))))
++aforesaide#aforesaid_adj))))
+@@ -10085 +10085 @@
+-that)
++that#that_conj)
+@@ -10089 +10089 @@
+-if)
++if#if_conj)
+@@ -10096 +10096 @@
+-any)
++any#any_adj)
+@@ -10098 +10098 @@
+-p~son)
++p~son#person_n)
+@@ -10101 +10101 @@
+-or)
++or#or_conj2)
+@@ -10104 +10104 @@
+-p~sons)))
++p~sons#person_n)))
+@@ -10109 +10109 @@
+-of)
++of#of_prep)
+@@ -10112 +10112 @@
+-what)
++what#what_pron)
+@@ -10114 +10114 @@
+-estate)
++estate#estate_n)
+@@ -10118 +10118 @@
+-degre)))
++degre#degree_n)))
+@@ -10122 +10122 @@
+-qualitie)))
++qualitie#quality_n)))
+@@ -10125 +10125 @@
+-or)
++or#or_conj2)
+@@ -10128 +10128 @@
+-condic~on)))
++condic~on#condition_n)))
+@@ -10130 +10130 @@
+-soever)))
++soever#soever_adv)))
+@@ -10138 +10138 @@
+-he)
++he#he_pron)
+@@ -10140 +10140 @@
+-or)
++or#or_conj2)
+@@ -10142 +10142 @@
+-they))
++they#they_pron))
+@@ -10144 +10144 @@
+-be)))))
++be#be_v)))))
+@@ -10149 +10149 @@
+-at)
++at#at_prep)
+@@ -10152 +10152 @@
+-anye)
++anye#any_adj)
+@@ -10154 +10154 @@
+-tyme)
++tyme#time_n)
+@@ -10157 +10157 @@
+-after)
++after#after_adv)
+@@ -10160 +10160 @@
+-the)
++the#the_adj)
+@@ -10162 +10162 @@
+-saide)
++saide#said_adj)
+@@ -10164 +10164 @@
+-last)
++last#last_adv)
+@@ -10166 +10166 @@
+-day)
++day#day_n)
+@@ -10169 +10169 @@
+-of)
++of#of_prep)
+@@ -10172 +10172 @@
+-Januarie)
++Januarie#NA)
+@@ -10176 +10176 @@
+-next))
++next#next_adj))
+@@ -10178 +10178 @@
+-co~mynge))))))))
++co~mynge#come_v))))))))
+@@ -10182 +10182 @@
+-shall)
++shall#shall_v)
+@@ -10184 +10184 @@
+-doe)
++doe#do_v)
+@@ -10187 +10187 @@
+-any)
++any#any_adj)
+@@ -10189 +10189 @@
+-Acte)
++Acte#act_n)
+@@ -10192 +10192 @@
+-or)
++or#or_conj2)
+@@ -10195 +10195 @@
+-Act~)))
++Act~#act_n)))
+@@ -10199 +10199 @@
+-thinge)))
++thinge#thing_n1)))
+@@ -10202 +10202 @@
+-or)
++or#or_conj2)
+@@ -10205 +10205 @@
+-thing~)))
++thing~#thing_n1)))
+@@ -10208 +10208 @@
+-contrarie)
++contrarie#contrary_adj)
+@@ -10211 +10211 @@
+-to)
++to#to_prep)
+@@ -10214 +10214 @@
+-the)
++the#the_adj)
+@@ -10216 +10216 @@
+-tenor)
++tenor#tenor_n1)
+@@ -10220 +10220 @@
+-forme)))
++forme#form_n)))
+@@ -10223 +10223 @@
+-and)
++and#and_conj1)
+@@ -10226 +10226 @@
+-effecte)))
++effecte#effect_n)))
+@@ -10230 +10230 @@
+-of)
++of#of_prep)
+@@ -10233 +10233 @@
+-this)
++this#this_pron)
+@@ -10235 +10235 @@
+-Estatute)))
++Estatute#estatute_n)))
+@@ -10240 +10240 @@
+-or)
++or#or_conj2)
+@@ -10243 +10243 @@
+-of)
++of#of_prep)
+@@ -10246 +10246 @@
+-any)
++any#any_adj)
+@@ -10248 +10248 @@
+-clause)
++clause#clause_n)
+@@ -10252 +10252 @@
+-article)))
++article#article_n)))
+@@ -10255 +10255 @@
+-or)
++or#or_conj2)
+@@ -10258 +10258 @@
+-sentence)))
++sentence#sentence_n)))
+@@ -10261 +10261 @@
+-conteyned)
++conteyned#contain_v)
+@@ -10264 +10264 @@
+-in)
++in#in_prep)
+@@ -10267 +10267 @@
+-the)
++the#the_adj)
+@@ -10269 +10269 @@
+-same)))))))))))))))
++same#same_adj)))))))))))))))
+@@ -10273 +10273 @@
+-that)
++that#that_conj)
+@@ -10278 +10278 @@
+-then))
++then#then_adv))
+@@ -10282 +10282 @@
+-all)
++all#all_adj)
+@@ -10284 +10284 @@
+-and)
++and#and_conj1)
+@@ -10286 +10286 @@
+-ev~y))
++ev~y#every_adj))
+@@ -10288 +10288 @@
+-offendor)
++offendor#offender_n)
+@@ -10291 +10291 @@
+-and)
++and#and_conj1)
+@@ -10294 +10294 @@
+-offendors)))
++offendors#offender_n)))
+@@ -10298 +10298 @@
+-therin))
++therin#therein_adv))
+@@ -10301 +10301 @@
+-or)
++or#or_conj2)
+@@ -10304 +10304 @@
+-in)
++in#in_prep)
+@@ -10307 +10307 @@
+-any)
++any#any_adj)
+@@ -10309 +10309 @@
+-parte)
++parte#part_n)
+@@ -10312 +10312 @@
+-therof)))))))
++therof#thereof_adv)))))))
+@@ -10316 +10316 @@
+-shall)
++shall#shall_v)
+@@ -10319 +10319 @@
+-forfeyt)
++forfeyt#forfeit_v)
+@@ -10321 +10321 @@
+-and)
++and#and_conj1)
+@@ -10323 +10323 @@
+-lose))
++lose#lose_v1))
+@@ -10326 +10326 @@
+-for)
++for#for_prep)
+@@ -10329 +10329 @@
+-every)
++every#every_adj)
+@@ -10331 +10331 @@
+-such)
++such#such_adj)
+@@ -10333 +10333 @@
+-offence)))
++offence#offence_n)))
+@@ -10337 +10337 @@
+-the)
++the#the_adj)
+@@ -10339 +10339 @@
+-treble)
++treble#treble_adj)
+@@ -10341 +10341 @@
+-value)
++value#value_n)
+@@ -10344 +10344 @@
+-of)
++of#of_prep)
+@@ -10347 +10347 @@
+-the)
++the#the_adj)
+@@ -10349 +10349 @@
+-wares)
++wares#ware_n3)
+@@ -10352 +10352 @@
+-and)
++and#and_conj1)
+@@ -10355 +10355 @@
+-m~chaundizes)))
++m~chaundizes#merchandise_n)))
+@@ -10358 +10358 @@
+-and)
++and#and_conj1)
+@@ -10361 +10361 @@
+-other)
++other#other_adj)
+@@ -10363 +10363 @@
+-thinge)
++thinge#thing_n1)
+@@ -10366 +10366 @@
+-or)
++or#or_conj2)
+@@ -10369 +10369 @@
+-thinges)))))
++thinges#thing_n1)))))
+@@ -10373 +10373 @@
+-so))
++so#so_adv))
+@@ -10376 +10376 @@
+-bargayned)
++bargayned#bargain_v)
+@@ -10378 +10378 @@
+-solde)
++solde#sell_v)
+@@ -10380 +10380 @@
+-eschaunged)
++eschaunged#exchange_v)
+@@ -10382 +10382 @@
+-or)
++or#or_conj2)
+@@ -10384 +10384 @@
+-shifted))))))
++shifted#shift_v))))))
+@@ -10389 +10389 @@
+-and)
++and#and_conj1)
+@@ -10392 +10392 @@
+-the)
++the#the_adj)
+@@ -10394 +10394 @@
+-treble)
++treble#treble_adj)
+@@ -10396 +10396 @@
+-value)
++value#value_n)
+@@ -10399 +10399 @@
+-of)
++of#of_prep)
+@@ -10402 +10402 @@
+-the)
++the#the_adj)
+@@ -10404 +10404 @@
+-yssues)
++yssues#issue_n)
+@@ -10407 +10407 @@
+-&)
++&#and_conj1)
+@@ -10410 +10410 @@
+-p~fytt~)))
++p~fytt~#profit_n)))
+@@ -10413 +10413 @@
+-of)
++of#of_prep)
+@@ -10416 +10416 @@
+-the)
++the#the_adj)
+@@ -10418 +10418 @@
+-saide)
++saide#said_adj)
+@@ -10420 +10420 @@
+-Mannors)
++Mannors#manor_n)
+@@ -10424 +10424 @@
+-Land~)))
++Land~#land_n1)))
+@@ -10428 +10428 @@
+-Ten~t~)))
++Ten~t~#tenement_n)))
+@@ -10431 +10431 @@
+-and)
++and#and_conj1)
+@@ -10434 +10434 @@
+-Hereditament~)))
++Hereditament~#hereditament_n)))
+@@ -10438 +10438 @@
+-so))
++so#so_adv))
+@@ -10441 +10441 @@
+-had)
++had#have_v)
+@@ -10443 +10443 @@
+-taken)
++taken#take_v)
+@@ -10445 +10445 @@
+-or)
++or#or_conj2)
+@@ -10447 +10447 @@
+-receyved))
++receyved#receive_v))
+@@ -10450 +10450 @@
+-by)
++by#by_prep)
+@@ -10453 +10453 @@
+-reason)
++reason#reason_n1)
+@@ -10456 +10456 @@
+-of)
++of#of_prep)
+@@ -10459 +10459 @@
+-any)
++any#any_adj)
+@@ -10461 +10461 @@
+-suche)
++suche#such_adj)
+@@ -10463 +10463 @@
+-bargayne)
++bargayne#bargain_n1)
+@@ -10467 +10467 @@
+-sale)))
++sale#sale_n2)))
+@@ -10470 +10470 @@
+-or)
++or#or_conj2)
+@@ -10473 +10473 @@
+-morgage))))))))))))))))
++morgage#mortgage_n))))))))))))))))
+@@ -10478 +10478 @@
+-and)
++and#and_conj1)
+@@ -10480 +10480 @@
+-also)
++also#also_adv)
+@@ -10486 +10486 @@
+-shall)
++shall#shall_v)
+@@ -10489 +10489 @@
+-have)
++have#have_v)
+@@ -10491 +10491 @@
+-and)
++and#and_conj1)
+@@ -10493 +10493 @@
+-suffer))
++suffer#suffer_v))
+@@ -10496 +10496 @@
+-ymprisonment)
++ymprisonment#imprisonment_n)
+@@ -10499 +10499 @@
+-of)
++of#of_prep)
+@@ -10502 +10502 @@
+-his)
++his#his_adj)
+@@ -10504 +10504 @@
+-body)))))
++body#body_n)))))
+@@ -10509 +10509 @@
+-and)
++and#and_conj1)
+@@ -10512 +10512 @@
+-make)
++make#make_v1)
+@@ -10515 +10515 @@
+-fyne)
++fyne#fine_n1)
+@@ -10517 +10517 @@
+-and)
++and#and_conj1)
+@@ -10519 +10519 @@
+-ransome))
++ransome#ransom_n))
+@@ -10522 +10522 @@
+-at)
++at#at_prep)
+@@ -10526 +10526 @@
+-the)
++the#the_adj)
+@@ -10528 +10528 @@
+-King~))
++King~#king_n))
+@@ -10530 +10530 @@
+-will)
++will#will_n1)
+@@ -10533 +10533 @@
+-and)
++and#and_conj1)
+@@ -10536 +10536 @@
+-pleasure))))))))))))
++pleasure#pleasure_n))))))))))))
+@@ -10542 +10542 @@
+-the)
++the#the_adj)
+@@ -10544 +10544 @@
+-moytie)
++moytie#moiety_n)
+@@ -10547 +10547 @@
+-of)
++of#of_prep)
+@@ -10550 +10550 @@
+-w=ch=)
++w=ch=#which_adj)
+@@ -10552 +10552 @@
+-forfeyture)
++forfeyture#forfeiture_n)
+@@ -10555 +10555 @@
+-of)
++of#of_prep)
+@@ -10558 +10558 @@
+-the)
++the#the_adj)
+@@ -10560 +10560 @@
+-said)
++said#said_adj)
+@@ -10562 +10562 @@
+-treble)
++treble#treble_adj)
+@@ -10564 +10564 @@
+-value))))))
++value#value_n))))))
+@@ -10572 +10572 @@
+-shal@)
++shal@#shall_v)
+@@ -10574 +10574 @@
+-@be)
++@be#be_v)
+@@ -10577 +10577 @@
+-to)
++to#to_prep)
+@@ -10580 +10580 @@
+-the)
++the#the_adj)
+@@ -10582 +10582 @@
+-Kinge))))
++Kinge#king_n))))
+@@ -10587 +10587 @@
+-and)
++and#and_conj1)
+@@ -10591 +10591 @@
+-th@)
++th@#the_adj)
+@@ -10593 +10593 @@
+-@other)
++@other#other_adj)
+@@ -10595 +10595 @@
+-moytie))
++moytie#moiety_n))
+@@ -10598 +10598 @@
+-to)
++to#to_prep)
+@@ -10601 +10601 @@
+-him)
++him#him_pron)
+@@ -10603 +10603 @@
+-or)
++or#or_conj2)
+@@ -10605 +10605 @@
+-them)
++them#them_pron)
+@@ -10610 +10610 @@
+-that)
++that#that_conj)
+@@ -10615 +10615 @@
+-will)
++will#will_v1)
+@@ -10617 +10617 @@
+-sue)
++sue#sue_v)
+@@ -10620 +10620 @@
+-for)
++for#for_prep)
+@@ -10623 +10623 @@
+-the)
++the#the_adj)
+@@ -10625 +10625 @@
+-same)))
++same#same_adj)))
+@@ -10630 +10630 @@
+-in)
++in#in_prep)
+@@ -10633 +10633 @@
+-any)
++any#any_adj)
+@@ -10636 +10636 @@
+-of)
++of#of_prep)
+@@ -10640 +10640 @@
+-the)
++the#the_adj)
+@@ -10642 +10642 @@
+-King~))
++King~#king_n))
+@@ -10644 +10644 @@
+-Court~)))))
++Court~#court_n1)))))
+@@ -10647 +10647 @@
+-by)
++by#by_prep)
+@@ -10651 +10651 @@
+-Acco~n)
++Acco~n#action_n)
+@@ -10654 +10654 @@
+-of)
++of#of_prep)
+@@ -10657 +10657 @@
+-debte))))
++debte#debt_n))))
+@@ -10661 +10661 @@
+-bill)))
++bill#bill_n3)))
+@@ -10665 +10665 @@
+-playnte)))
++playnte#plaint_n)))
+@@ -10668 +10668 @@
+-or)
++or#or_conj2)
+@@ -10671 +10671 @@
+-informac~on)))))))))))
++informac~on#information_n)))))))))))
+@@ -10677 +10677 @@
+-in)
++in#in_prep)
+@@ -10680 +10680 @@
+-w=ch=)
++w=ch=#which_adj)
+@@ -10682 +10682 @@
+-acc~on)
++acc~on#action_n)
+@@ -10686 +10686 @@
+-bill)))
++bill#bill_n3)))
+@@ -10690 +10690 @@
+-playnt)))
++playnt#plaint_n)))
+@@ -10693 +10693 @@
+-or)
++or#or_conj2)
+@@ -10696 +10696 @@
+-informac~on)))))
++informac~on#information_n)))))
+@@ -10706 +10706 @@
+-no)
++no#no_adj)
+@@ -10708 +10708 @@
+-wager)
++wager#wager_n2)
+@@ -10711 +10711 @@
+-of)
++of#of_prep)
+@@ -10714 +10714 @@
+-lawe)))
++lawe#law_n1)))
+@@ -10718 +10718 @@
+-essoyne)))
++essoyne#essoin_n)))
+@@ -10721 +10721 @@
+-or)
++or#or_conj2)
+@@ -10724 +10724 @@
+-p~tecc~on))))
++p~tecc~on#protection_n))))
+@@ -10726 +10726 @@
+-shal@)
++shal@#shall_v)
+@@ -10728 +10728 @@
+-@be)
++@be#be_v)
+@@ -10731 +10731 @@
+-admytted)
++admytted#admit_v)
+@@ -10733 +10733 @@
+-or)
++or#or_conj2)
+@@ -10735 +10735 @@
+-allowed))))))
++allowed#allow_v))))))
+@@ -10743 +10743 @@
+-Provided)
++Provided#provide_v)
+@@ -10746 +10746 @@
+-alwaye))
++alwaye#alway_adv))
+@@ -10749 +10749 @@
+-and)
++and#and_conj1)
+@@ -10751 +10751 @@
+-be)
++be#be_v)
+@@ -10754 +10754 @@
+-it))
++it#it_pron))
+@@ -10756 +10756 @@
+-enacted)
++enacted#enact_v)
+@@ -10759 +10759 @@
+-by)
++by#by_prep)
+@@ -10762 +10762 @@
+-th@)
++th@#the_adj)
+@@ -10764 +10764 @@
+-@auctoritie)
++@auctoritie#authority_n)
+@@ -10767 +10767 @@
+-aforesaide)))))
++aforesaide#aforesaid_adj)))))
+@@ -10772 +10772 @@
+-that)
++that#that_conj)
+@@ -10778 +10778 @@
+-this)
++this#this_pron)
+@@ -10780 +10780 @@
+-Acte))
++Acte#act_n))
+@@ -10783 +10783 @@
+-nor)
++nor#nor_conj1)
+@@ -10786 +10786 @@
+-any)
++any#any_adj)
+@@ -10788 +10788 @@
+-thinge)
++thinge#thing_n1)
+@@ -10792 +10792 @@
+-therein))
++therein#therein_adv))
+@@ -10794 +10794 @@
+-conteyned)))))
++conteyned#contain_v)))))
+@@ -10796 +10796 @@
+-shall)
++shall#shall_v)
+@@ -10798 +10798 @@
+-not)
++not#not_adv)
+@@ -10801 +10801 @@
+-in)
++in#in_prep)
+@@ -10804 +10804 @@
+-any)
++any#any_adj)
+@@ -10806 +10806 @@
+-wise)
++wise#wise_n1)
+@@ -10810 +10810 @@
+-extend)
++extend#extend_v)
+@@ -10814 +10814 @@
+-to)
++to#to_prep)
+@@ -10817 +10817 @@
+-any)
++any#any_adj)
+@@ -10819 +10819 @@
+-laufull)
++laufull#lawful_adj)
+@@ -10821 +10821 @@
+-obligac~on)
++obligac~on#obligation_n)
+@@ -10824 +10824 @@
+-endorsed)
++endorsed#endorse_v)
+@@ -10827 +10827 @@
+-with)
++with#with_prep)
+@@ -10830 +10830 @@
+-a)
++a#a_adj2)
+@@ -10832 +10832 @@
+-condicc~on))))))
++condicc~on#condition_n))))))
+@@ -10837 +10837 @@
+-nor)
++nor#nor_conj1)
+@@ -10840 +10840 @@
+-to)
++to#to_prep)
+@@ -10843 +10843 @@
+-any)
++any#any_adj)
+@@ -10845 +10845 @@
+-statute)
++statute#statute_n)
+@@ -10848 +10848 @@
+-or)
++or#or_conj2)
+@@ -10851 +10851 @@
+-recognizaunce)))
++recognizaunce#recognizance_n)))
+@@ -10854 +10854 @@
+-made)
++made#make_v1)
+@@ -10857 +10857 @@
+-and)
++and#and_conj1)
+@@ -10860 +10860 @@
+-to)
++to#to_prep)
+@@ -10862 +10862 @@
+-be)
++be#be_v)
+@@ -10864 +10864 @@
+-made)))
++made#make_v1)))
+@@ -10867 +10867 @@
+-for)
++for#for_prep)
+@@ -10870 +10870 @@
+-the)
++the#the_adj)
+@@ -10872 +10872 @@
+-payment)
++payment#payment_n1)
+@@ -10875 +10875 @@
+-of)
++of#of_prep)
+@@ -10878 +10878 @@
+-a)
++a#a_adj2)
+@@ -10880 +10880 @@
+-lesser)
++lesser#lesser_adj)
+@@ -10882 +10882 @@
+-so~me))))))))))
++so~me#sum_n1))))))))))
+@@ -10887 +10887 @@
+-so)
++so#so_adv)
+@@ -10890 +10890 @@
+-that)
++that#that_conj)
+@@ -10894 +10894 @@
+-the)
++the#the_adj)
+@@ -10896 +10896 @@
+-same)
++same#same_adj)
+@@ -10898 +10898 @@
+-obligac~on)
++obligac~on#obligation_n)
+@@ -10902 +10902 @@
+-statute)))
++statute#statute_n)))
+@@ -10905 +10905 @@
+-or)
++or#or_conj2)
+@@ -10908 +10908 @@
+-recognizaunce))))
++recognizaunce#recognizance_n))))
+@@ -10910 +10910 @@
+-be)
++be#be_v)
+@@ -10912 +10912 @@
+-made)
++made#make_v1)
+@@ -10916 +10916 @@
+-for)
++for#for_prep)
+@@ -10919 +10919 @@
+-a)
++a#a_adj2)
+@@ -10922 +10922 @@
+-true)
++true#true_adj)
+@@ -10924 +10924 @@
+-just)
++just#just_adj)
+@@ -10926 +10926 @@
+-and)
++and#and_conj1)
+@@ -10928 +10928 @@
+-p~fytt))
++p~fytt#perfect_adj))
+@@ -10930 +10930 @@
+-debte)))
++debte#debt_n)))
+@@ -10935 +10935 @@
+-or)
++or#or_conj2)
+@@ -10938 +10938 @@
+-for)
++for#for_prep)
+@@ -10941 +10941 @@
+-the)
++the#the_adj)
+@@ -10943 +10943 @@
+-p~formance)
++p~formance#performance_n)
+@@ -10946 +10946 @@
+-of)
++of#of_prep)
+@@ -10949 +10949 @@
+-any)
++any#any_adj)
+@@ -10951 +10951 @@
+-other)
++other#other_adj)
+@@ -10953 +10953 @@
+-true)
++true#true_adj)
+@@ -10955 +10955 @@
+-coven=a=ntes)
++coven=a=ntes#covenant_n)
+@@ -10958 +10958 @@
+-made)
++made#make_v1)
+@@ -10961 +10961 @@
+-or)
++or#or_conj2)
+@@ -10964 +10964 @@
+-to)
++to#to_prep)
+@@ -10966 +10966 @@
+-be)
++be#be_v)
+@@ -10968 +10968 @@
+-made)))
++made#make_v1)))
+@@ -10971 +10971 @@
+-uppon)
++uppon#upon_prep)
+@@ -10975 +10975 @@
+-a)
++a#a_adj2)
+@@ -10978 +10978 @@
+-just)
++just#just_adj)
+@@ -10980 +10980 @@
+-and)
++and#and_conj1)
+@@ -10982 +10982 @@
+-true))
++true#true_adj))
+@@ -10984 +10984 @@
+-intent))
++intent#intent_n))
+@@ -10986 +10986 @@
+-hadd)
++hadd#have_v)
+@@ -10989 +10989 @@
+-betwene)
++betwene#between_prep)
+@@ -10992 +10992 @@
+-the)
++the#the_adj)
+@@ -10994 +10994 @@
+-parties)))))))))))))))
++parties#party_n)))))))))))))))
+@@ -10999 +10999 @@
+-other)
++other#other_adj)
+@@ -11002 +11002 @@
+-then)
++then#than_conj)
+@@ -11005 +11005 @@
+-in)
++in#in_prep)
+@@ -11008 +11008 @@
+-cases)
++cases#case_n1)
+@@ -11011 +11011 @@
+-of)
++of#of_prep)
+@@ -11015 +11015 @@
+-Usurie))
++Usurie#usury_n))
+@@ -11019 +11019 @@
+-int~est)))
++int~est#interest_n)))
+@@ -11023 +11023 @@
+-corrupt)
++corrupt#corrupt_adj)
+@@ -11025 +11025 @@
+-bargaynes)))
++bargaynes#bargain_n1)))
+@@ -11029 +11029 @@
+-shift)))
++shift#shift_n)))
+@@ -11032 +11032 @@
+-or)
++or#or_conj2)
+@@ -11035 +11035 @@
+-chevysance))))))))))
++chevysance#chevisance_n1))))))))))
+@@ -11040 +11040 @@
+-Ne)
++Ne#ne_adv1)
+@@ -11046 +11046 @@
+-yet))
++yet#yet_adv))
+@@ -11048 +11048 @@
+-shall)
++shall#shall_v)
+@@ -11050 +11050 @@
+-extend)
++extend#extend_v)
+@@ -11053 +11053 @@
+-to)
++to#to_prep)
+@@ -11056 +11056 @@
+-any)
++any#any_adj)
+@@ -11058 +11058 @@
+-recoverie)
++recoverie#recovery_n)
+@@ -11062 +11062 @@
+-fyne)))
++fyne#fine_n1)))
+@@ -11066 +11066 @@
+-feoffament)))
++feoffament#feoffment_n)))
+@@ -11070 +11070 @@
+-release)))
++release#release_n)))
+@@ -11074 +11074 @@
+-confirmac~on)))
++confirmac~on#confirmation_n)))
+@@ -11077 +11077 @@
+-or)
++or#or_conj2)
+@@ -11080 +11080 @@
+-graunte)))
++graunte#grant_n1)))
+@@ -11083 +11083 @@
+-made)
++made#make_v1)
+@@ -11086 +11086 @@
+-or)
++or#or_conj2)
+@@ -11089 +11089 @@
+-to)
++to#to_prep)
+@@ -11091 +11091 @@
+-be)
++be#be_v)
+@@ -11093 +11093 @@
+-made)))
++made#make_v1)))
+@@ -11096 +11096 @@
+-upon)
++upon#upon_prep)
+@@ -11099 +11099 @@
+-condic~on)))
++condic~on#condition_n)))
+@@ -11102 +11102 @@
+-with)
++with#with_prep)
+@@ -11105 +11105 @@
+-a)
++a#a_adj2)
+@@ -11107 +11107 @@
+-true)
++true#true_adj)
+@@ -11109 +11109 @@
+-intent))))
++intent#intent_n))))
+@@ -11114 +11114 @@
+-other)
++other#other_adj)
+@@ -11117 +11117 @@
+-then)
++then#than_conj)
+@@ -11120 +11120 @@
+-to)
++to#to_prep)
+@@ -11123 +11123 @@
+-such)
++such#such_adj)
+@@ -11125 +11125 @@
+-recoveries)
++recoveries#recovery_n)
+@@ -11129 +11129 @@
+-fynes)))
++fynes#fine_n1)))
+@@ -11133 +11133 @@
+-feoffament~)))
++feoffament~#feoffment_n)))
+@@ -11137 +11137 @@
+-releases)))
++releases#release_n)))
+@@ -11141 +11141 @@
+-confirmac~ons)))
++confirmac~ons#confirmation_n)))
+@@ -11144 +11144 @@
+-and)
++and#and_conj1)
+@@ -11147 +11147 @@
+-graunt~)))
++graunt~#grant_n1)))
+@@ -11150 +11150 @@
+-as)
++as#as_adv)
+@@ -11160 +11160 @@
+-shal@)
++shal@#shall_v)
+@@ -11162 +11162 @@
+-@be)
++@be#be_v)
+@@ -11164 +11164 @@
+-made)
++made#make_v1)
+@@ -11167 +11167 @@
+-upon)
++upon#upon_prep)
+@@ -11170 +11170 @@
+-condic~on)
++condic~on#condition_n)
+@@ -11173 +11173 @@
+-extending)
++extending#extend_v)
+@@ -11176 +11176 @@
+-to)
++to#to_prep)
+@@ -11180 +11180 @@
+-usurie))
++usurie#usury_n))
+@@ -11184 +11184 @@
+-int~est)))
++int~est#interest_n)))
+@@ -11188 +11188 @@
+-corrupt)
++corrupt#corrupt_adj)
+@@ -11190 +11190 @@
+-bargaynes)))
++bargaynes#bargain_n1)))
+@@ -11194 +11194 @@
+-shift~)))
++shift~#shift_n)))
+@@ -11197 +11197 @@
+-or)
++or#or_conj2)
+@@ -11200 +11200 @@
+-chevisaunce)))))))))))))))))))))
++chevisaunce#chevisance_n1)))))))))))))))))))))
+@@ -11207 +11207 @@
+-any)
++any#any_adj)
+@@ -11209 +11209 @@
+-thinge)
++thinge#thing_n1)
+@@ -11213 +11213 @@
+-in)
++in#in_prep)
+@@ -11216 +11216 @@
+-this)
++this#this_pron)
+@@ -11218 +11218 @@
+-Estatute)))
++Estatute#estatute_n)))
+@@ -11220 +11220 @@
+-conteyned)))
++conteyned#contain_v)))
+@@ -11225 +11225 @@
+-or)
++or#or_conj2)
+@@ -11228 +11228 @@
+-any)
++any#any_adj)
+@@ -11230 +11230 @@
+-Lawe)
++Lawe#law_n1)
+@@ -11234 +11234 @@
+-Statute)))
++Statute#statute_n)))
+@@ -11237 +11237 @@
+-or)
++or#or_conj2)
+@@ -11240 +11240 @@
+-Ordyn=a=ce)))
++Ordyn=a=ce#ordinance_n)))
+@@ -11244 +11244 @@
+-heretofore))
++heretofore#heretofore_adv))
+@@ -11247 +11247 @@
+-had)
++had#have_v)
+@@ -11249 +11249 @@
+-used)
++used#use_v)
+@@ -11251 +11251 @@
+-or)
++or#or_conj2)
+@@ -11253 +11253 @@
+-made)))))
++made#make_v1)))))
+@@ -11256 +11256 @@
+-to)
++to#to_prep)
+@@ -11259 +11259 @@
+-the)
++the#the_adj)
+@@ -11261 +11261 @@
+-cont=a=ry))))
++cont=a=ry#contrary_adj))))
+@@ -11264 +11264 @@
+-notwithstanding)))
++notwithstanding#notwithstanding_prep)))

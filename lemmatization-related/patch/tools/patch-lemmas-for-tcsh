@@ -1,0 +1,14 @@
+
+#!/bin/tcsh
+
+# usage: patch-lemmas <input_files>
+# example: patch-lemmas *.psd.vert
+
+# it adds lemmas to the release version of PPCHE2,
+# helpfully renaming patched file
+
+for file in $*
+    do
+        BASE=`basename $file .psd.vert`
+	patch -o $BASE.lem $BASE.psd.vert < $BASE.patch
+    done
