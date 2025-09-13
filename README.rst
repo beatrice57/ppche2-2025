@@ -16,19 +16,18 @@ As of July 2025, a second edition of PPCHE (PPCHE2) is available from
 LDC (https://catalog.ldc.upenn.edu/LDC2025T09).
 
 The release contains parsed and POS-tagged versions of PPCHE2's three
-subcorpora (Middle English, Early Modern English, and Mddern British
+subcorpora (Middle English, Early Modern English, and Modern British
 English).  For the last two subcorpora, lemmatized versions of the
-parsed texts exist, but they are not part of the release.  The
-/lemmatization-related/patch directory of this repository contains
-scripts with instructions that allow you to generate lemmatized versions
-on the basis of the parsed files in the release.  You will need to
-download the entire ppche2-2025 repository to gain access.  The
-instructions cover only the patching process.  Information about the
-lemmatization itself is available at
-https://www.ling.upenn.edu/~beatrice/corpus-ling/annotation-2022/lemmatization.html
-(see also
-https://github.com/beatrice57/annotation-guidelines-for-ppche/blob/main/lemmatization.html).
+parsed texts exist, but they are not part of the LDC release.  The
+/lemmatization/patch directory of this repository contains scripts with
+instructions that allow you to generate lemmatized versions of the
+parsed files in the release.  You will need to download the entire
+ppche2-2025 repository to gain access to the subdirectory.  The
+instructions cover only the patching process.  The lemmatization
+guidelines are discussed in a section of the current annotation manual
+(https://www.ling.upenn.edu/~beatrice/corpus-ling/annotation-2022/; see
+also https://github.com/beatrice57/annotation-guidelines-for-ppche).
 
-The use of the lemmatized versions of the texts in the PPCHE2 is
-governed by the same conditions as the LDC release itself, namely by the
-Penn Parsed Corpora of Historical English Second Release Agreement.
+Use of the lemmatized versions of the texts in the PPCHE2 is governed by
+the same conditions as the LDC release itself, namely by the Penn Parsed
+Corpora of Historical English Second Release Agreement.
