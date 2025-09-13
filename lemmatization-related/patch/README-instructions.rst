@@ -26,21 +26,21 @@ this same "verticalized" format, using the prep-files script that you
 have just downloaded.  The following instructions assume the directory
 structure in the release.::
 
-  # modify path to data as needed
-  cd /your/path/to/PPCHE2/data
+  # edit path to release data as needed
+  cd /your/path/to/release/data
 
-  # modify path to script as needed
+  # edit path to script as needed
   # if using tcsh shell, replace "prep-files" with "prep-files-for-tcsh"
 
-  /your/path/to/patch-dir/tools/prep-files PPCEME/parsed/helsinki/*.psd
+  /your/path/to/patch/tools/prep-files PPCEME/parsed/helsinki/*.psd
 
-  /your/path/to/patch-dir/tools/prep-files PPCEME/parsed/penn1/*.psd
+  /your/path/to/patch/tools/prep-files PPCEME/parsed/penn1/*.psd
 
-  /your/path/to/patch-dir/tools/prep-files PPCEME/parsed/penn2/*.psd
+  /your/path/to/patch/tools/prep-files PPCEME/parsed/penn2/*.psd
 
-  /your/path/to/patch-dir/tools/prep-files PPCMBE2/parsed/*.psd
+  /your/path/to/patch/tools/prep-files PPCMBE2/parsed/*.psd
 
-  # sanity checks - assuming you're in /your/path/to/PPCHE2/data
+  # sanity check - assuming you're in /your/path/to/release/data
   ls PPCEME/parsed/helsinki/*.psd.vert | wc -l  # should yield 146
   ls PPCEME/parsed/penn1/*.psd.vert | wc -l     # should yield 151
   ls PPCEME/parsed/penn2/*.psd.vert | wc -l     # should yield 148
@@ -50,92 +50,92 @@ structure in the release.::
 Apply the patch
 ===============
 
-* Note how the structure of the lemmatization-related/data directory
-corresponds to the directory structure of the release.  In particular,
-where the release directory has "parsed", the patch directory has
-"patching".
+* The structure of the lemmatization-related/data directory corresponds
+to the directory structure of the release.  In particular, where the
+release directory has "parsed", the patch directory has "patching".
 
-* Put the verticalized files that you just created in the previous step
-(the input for the patching process) in the appropriate subdirectories
-of the patching directory, whether by copying (as shown here) or moving
-those files.::
+* Put the .psd.vert files that you just created (the input to the
+patching process) in the appropriate subdirectories of the patch
+directory, whether by copying (as shown here) or moving those files.::
 
-  cd your/path/to/patch-dir/data
+  # edit patch to patch and release directories as needed
+  cd /your/path/to/patch/data
 
-  cp your/path/to/PPCHE2/data/PPCEME/parsed/helsinki/*.psd.vert PPCEME/patching/helsinki/.
+  cp /your/path/to/release/data/PPCEME/parsed/helsinki/*.psd.vert PPCEME/patching/helsinki/.
 
-  cp your/path/to/PPCHE2/data/PPCEME/parsed/penn1/*.psd.vert PPCEME/patching/penn1/.
+  cp /your/path/to/release/data/PPCEME/parsed/penn1/*.psd.vert PPCEME/patching/penn1/.
 
-  cp your/path/to/PPCHE2/data/PPCEME/parsed/penn2/*.psd.vert PPCEME/patching/penn2/.
+  cp /your/path/to/release/data/PPCEME/parsed/penn2/*.psd.vert PPCEME/patching/penn2/.
 
-  cp your/path/to/PPCHE2/data/PPCMBE2/parsed/*.psd.vert PPCMBE2/patching/.
+  cp /your/path/to/release/data/PPCMBE2/parsed/*.psd.vert PPCMBE2/patching/.
 
-* Apply the patch with patch-lemmas.  If you're nervous, replacing the
-"patch" with "patch -C" in the script allows you to do a dry run.  For
-clarity, patch-lemmas changes the ".psd.vert" extension on the patched
-file to ".lem".::
+* Apply the patch with patch-lemmas.  Replacing the "patch" with "patch
+-C" in the script allows you to do a dry run.  For clarity, patch-lemmas
+changes the ".psd.vert" extension on the patched file to ".lem".::
 
-  cd your/path/to/patch-dir/data
+  # edit path to patch and tools directories as needed
+  cd /your/path/to/patch/data
 
   # if using tcsh shell, replace "patch-lemmas" with "patch-lemmas-for-tcsh"
 
   cd PPCEME/patching/helsinki
-  your/path/to/patch-dir/tools/patch-lemmas *.psd.vert
+  /your/path/to/patch/tools/patch-lemmas *.psd.vert
 
   cd ../penn1
-  # or equivalently: cd your/path/to/patch-dir/data/PPCEME/patching/penn1
-  your/path/to/patch-dir/tools/patch-lemmas *.psd.vert
+  # or equivalently: cd /your/path/to/patch/data/PPCEME/patching/penn1
+  /your/path/to/patch/tools/patch-lemmas *.psd.vert
 
   cd ../penn2
-  # or equivalently: cd your/path/to/patch-dir/data/PCEME/patching/penn2
-  your/path/to/patch-dir/tools/patch-lemmas *.psd.vert
+  # or equivalently: cd /your/path/to/patch/data/PPCEME/patching/penn2
+  /your/path/to/patch/tools/patch-lemmas *.psd.vert
 
   cd ../../PPCMBE2/patching
-  # or equivalently: cd your/path/to/patch-dir/dataPPCMBE2/patching
-  your/path/to/patch-dir/tools/patch-lemmas *.psd.vert
+  # or equivalently: cd /your/path/to/patch/dataPPCMBE2/patching
+  /your/path/to/patch/tools/patch-lemmas *.psd.vert
 
-  # sanity check - the diffs at the end should turn up empty
+  # sanity check - the diff at the end should turn up empty
 
-  cd your/path/to/patch-dir/data
+  cd /your/path/to/patch/data
 
   cd PPCEME/patching/helsinki
-  lls -l *.lem | tr -s '[:blank:]' ' ' | cut -d ' ' -f 5,9 > your/path/to/patch-dir/tools/MY-helsinki
+  # or equivalently: cd /your/path/to/patch/data/PPCEME/patching/helsinki
+  ls -l *.lem | tr -s '[:blank:]' ' ' | cut -d ' ' -f 5,9 > /your/path/to/patch/tools/MY-helsinki
 
   cd ../penn1
-  # or equivalently: cd your/path/to/patch-dir/data/PPCEME/patching/penn1
-  lls -l *.lem | tr -s '[:blank:]' ' ' | cut -d ' ' -f 5,9 > your/path/to/patch-dir/tools/MY-penn1
+  # or equivalently: cd /your/path/to/patch/data/PPCEME/patching/penn1
+  ls -l *.lem | tr -s '[:blank:]' ' ' | cut -d ' ' -f 5,9 > /your/path/to/patch/tools/MY-penn1
 
   cd ../penn2
-  # or equivalently: cd your/path/to/patch-dir/data/PPCEME/patching/penn2
-  lls -l *.lem | tr -s '[:blank:]' ' ' | cut -d ' ' -f 5,9 > your/path/to/patch-dir/tools/MY-penn2
+  # or equivalently: cd /your/path/to/patch/data/PPCEME/patching/penn2
+  ls -l *.lem | tr -s '[:blank:]' ' ' | cut -d ' ' -f 5,9 > /your/path/to/patch/tools/MY-penn2
 
   cd ../../PPCMBE2/patching
-  # or equivalently: cd your/path/to/patch-dir/data/PPCMBE2/patching
-  lls -l *.lem | tr -s '[:blank:]' ' ' | cut -d ' ' -f 5,9 > your/path/to/patch-dir/tools/MY-mbe2
+  # or equivalently: cd /your/path/to/patch/data/PPCMBE2/patching
+  ls -l *.lem | tr -s '[:blank:]' ' ' | cut -d ' ' -f 5,9 > /your/path/to/patch/tools/MY-mbe2
 
-  cd your/path/to/patch-dir/tools
+  cd /your/path/to/patch/tools
   diff REF-helsinki MY-helsinki
   diff REF-penn1 MY-penn1
   diff REF-penn2 MY-penn2
   diff REF-mbe2 MY-mbe2
 
-==========
-Mopping up
-==========
+===================
+Further suggestions
+===================
 
-* For additional clarity, rename the "patching" directories.::
+* For additional clarity, you can rename the "patching" directories.::
 
-  cd your/path/to/patch-dir/data
+  cd /your/path/to/patch/data
 
   mv PPCEME/patching PPCEME/lemmatized
   mv PPCMBE2/patching PPCMBE2/lemmatized
 
-* If you wish, you can move these directories to make them sister
-  directories of the parsed and pos-tagged files in your copy of the
-  release.
+* You can make the directories with the lemmatized files into sister
+directories of the parsed and POS-tagged directories in your copy of the
+release.
 
-* Finally, running the lemmatized files through a reformatting query
-  (https://www.ling.upenn.edu/~beatrice/corpus-ling/CS-users-guide/command-file.html#reformat)
-  in CorpusSearch (or any CorpusSearch query, for that matter) will
-  reformat them to their standard format.
+* Running the lemmmatized files through a reformatting query
+(https://www.ling.upenn.edu/~beatrice/corpus-ling/CS-users-guide/command-file.html#reformat)
+in CorpusSearch (or any CorpusSearch qu
+reformat them to their standard format.
 
