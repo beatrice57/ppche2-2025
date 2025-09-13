@@ -89,8 +89,8 @@ changes the ".psd.vert" extension on the patched file to ".lem".::
   # or equivalently: cd /your/path/to/patch/data/PPCEME/patching/penn2
   /your/path/to/patch/tools/patch-lemmas *.psd.vert
 
-  cd ../../PPCMBE2/patching
-  # or equivalently: cd /your/path/to/patch/dataPPCMBE2/patching
+  cd ../../../PPCMBE2/patching
+  # or equivalently: cd /your/path/to/patch/data/PPCMBE2/patching
   /your/path/to/patch/tools/patch-lemmas *.psd.vert
 
   # sanity check - the diff at the end should turn up empty
@@ -109,7 +109,7 @@ changes the ".psd.vert" extension on the patched file to ".lem".::
   # or equivalently: cd /your/path/to/patch/data/PPCEME/patching/penn2
   ls -l *.lem | tr -s '[:blank:]' ' ' | cut -d ' ' -f 5,9 > /your/path/to/patch/tools/MY-penn2
 
-  cd ../../PPCMBE2/patching
+  cd ../../../PPCMBE2/patching
   # or equivalently: cd /your/path/to/patch/data/PPCMBE2/patching
   ls -l *.lem | tr -s '[:blank:]' ' ' | cut -d ' ' -f 5,9 > /your/path/to/patch/tools/MY-mbe2
 
